@@ -1,0 +1,35 @@
+version: '2'
+
+services:
+  wordpress:
+    image: wordpress:latest
+#    network_mode: host
+    ports:
+      - "8082:80"
+    environment:
+      WORDPRESS_DB_HOST: db 
+      WORDPRESS_DB_USER: allinbiking
+      WORDPRESS_DB_PASSWORD: allinbiking
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_URL: https://allinbiking.com/
+      WORDPRESS_TITLE: "My WordPress Site"
+      WORDPRESS_ADMIN_USER: RiTH7olMfI6RiQThoMsvk7lj88jsTkYtkRm9bLshYk8CXVgPCH2V1nLx2knrLdIq
+      WORDPRESS_ADMIN_PASSWORD: NiffCS#6PxKY*XdOI34A4j$d%jeoAiYwUVkvMU0^0iD0#M$H5NGIvW25LopjA0En
+      WORDPRESS_ADMIN_EMAIL: luis.bastida@qa-bit.com
+    volumes:
+      - /opt/wordpress:/var/www/html:rw
+    security_opt:
+      - seccomp:unconfined
+
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: allinbiking
+      MYSQL_PASSWORD: allinbiking
+      MYSQL_ROOT_PASSWORD: allinbiking  
+    volumes:
+      - /opt/mysql_db:/var/lib/mysql:rw
+    security_opt:
+      - seccomp:unconfined

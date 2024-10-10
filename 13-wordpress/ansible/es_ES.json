@@ -1,0 +1,3723 @@
+{
+    "dateRangeFilters": {
+      "dayValue": "{value} D",
+      "weekValue": "{value} S",
+      "monthValue": "{value} M",
+      "yearValue": "{value} A"
+    },
+    "loadingScreenSponsor": "Patrocinador principal",
+    "editProfileDialog": {
+      "acceptText": "Aceptar",
+      "cancelText": "Cancelar",
+      "discardChangesText": "¿Hey tienes nuevos cambios, quieres descartarlos?"
+    },
+    "backgroundDownloader": {
+      "completeDownload": "Descarga Completada",
+      "gpxInfo": "El GPX se almacenó en la carpeta de descargas de tu dispositivo"
+    },
+    "rank": {
+      "appBar": "Ranking",
+      "seeRanking": "Ver ranking de temporada",
+      "friends": "Ranking de temporada",
+      "friendsPodium": "Podio de amigos",
+      "seasonDetailAppBar": "SEASON ONE",
+      " ": "Comparativa",
+      "addAFriend": "Añade un amigo",
+      "share": {
+        "title": "¡Invita a tus compañeros a unirse y disfrutar juntos compitiendo por ser los mejores!",
+        "buttonText": "Compartir"
+      },
+      "refreshRankIn": "El ranking se actualiza en",
+      "refreshUserIn": "Tus datos se actualizarán en",
+      "comparativeWith": "Comparar con...",
+      "searchCountry": "Buscar país",
+      "showTotal": {
+        "title": "Mostrar",
+        "POINTS": "Puntos",
+        "KM": "KM",
+        "TIME": "Tiempo",
+        "ALTITUDE": "Altitud"
+      },
+      "welcome": {
+        "title": "Primera temporada\nALL IN BIKING",
+        "subtitle": "Comparte tu pasión por el ciclismo",
+        "description": "¡Descubre la emoción de la SEASON\nONE del Ranking AIB! Para salir en el\nranking solo tienes que registrar tus\nsalidas en AIB!",
+        "disclaimer": "¡Compite, avanza y alcanza la cima\nen nuestra primera temporada de\ndesafíos!",
+        "buttonNext": "Siguiente",
+        "buttonAccept": "Aceptar",
+        "nacionality": "Nacionalidad:",
+        "international": "Independiente",
+        "selectCountryError": "Ha ocurrido un error al seleccionar el país"
+      },
+      "error": "Ha ocurrido un error al recuperar las estadísticas",
+      "youText": "(Tú)",
+      "compare": "Comparar",
+      "of": "de",
+      "cancel": "Cancelar",
+      "selectValueMore": "Selecciona {value} más",
+      "deSelectAll": "Desmarcar todo",
+      "userMenuFilter": {
+        "title": "Filtros",
+        "all": "Todos",
+        "myFriends": "Mis amigos",
+        "myAge": "Mi edad",
+        "myGender": "Mi género"
+      },
+      "table": {
+        "position": "Posición",
+        "user": "Usuario",
+        "points": "Puntos",
+        "totalKM": "Kilómetros totales",
+        "totalTime": "Tiempo total",
+        "totalAltitude": "Altitud total"
+      },
+      "noLeagueFilterAlert": {
+        "title": "ATENCIÓN",
+        "description": "Para poder mostrarte dentro de la liga local, provincial o nacional, necesitas configurar tus datos de localización. Recuerda que los datos se actualizan cada 4 horas.",
+        "leftButton": "Salir",
+        "rightButton": "Configurar"
+      },
+      "userMenuLeague": {
+        "title": "Ligas",
+        "local": "Local",
+        "state": "Provincial",
+        "country": "Nacional",
+        "global": "Global",
+        "unknown": "Desconocido"
+      },
+      "radarChart": {
+        "time": "Tiempo",
+        "distance": "Distancia",
+        "ascent": "Elevación",
+        "rides": "Salidas",
+        "interaction": "Interacciones",
+        "calories": "Calorías",
+        "speed": "Velocidad"
+      }
+    },
+    "shareBike": {
+      "title": "COMPARTIR BICICLETA",
+      "subtitle": "¡Comparte con tus amigos\ny diviértete!",
+      "share": "Compartir",
+      "publish": "Publicar",
+      "sendToFriends": "Enviar a mis amigos"
+    },
+    "noLastRideUsersText": "Sin salidas realizada",
+    "lastRideUserText": "Ultima salida: {value}",
+    "newGarage": {
+      "availableModels": "{value} modelos disponibles",
+      "category": "Categoría",
+      "brand": "Marca",
+      "type": "Tipo de bicicleta",
+      "model": "Modelo",
+      "isThisYourBike": "¿Es esta tu bicicleta?",
+      "yesItIs": "Si, es mi bicicleta",
+      "yourModel": "Modelo de tu bicicleta",
+      "searchModel": "Buscar modelo",
+      "filters": "Filtros",
+      "addModel": "Añadir '{value}' como modelo",
+      "addBrand": "Añadir '{value}' como marca",
+      "yourBrand": "Marca de tu bicicleta",
+      "searchBrand": "Buscar marca",
+      "selectSize": "Selecciona la talla",
+      "yourBikeSize": "Talla de tu bicicleta",
+      "yourBikeSuspension": "Suspensión de tu bicicleta",
+      "selectYourSuspension": "Selecciona la suspensión",
+      "bikeGender": "Genero de tu bicicleta",
+      "selectGender": "Selecciona el genero",
+      "selectColor": "Selecciona el color",
+      "finish": "Terminar",
+      "bikeIsAvailable": "¡BICICLETA YA \n DISPONIBLE",
+      "success": "Éxito",
+      "successMsg": "Añadimos tu bicicleta a tu garage para \n que la disfrutes en cada salida, ve a verla!",
+      "notRegistered": "Sin Registrar",
+      "selectYear": "Selecciona el año",
+      "seeResults": "Ver Resultados",
+      "regBike": "Alta de Bicicleta",
+      "eraseFilters": "Desactivar filtros",
+      "couldNotFindBrand": "No hemos encontrado tu marca",
+      "couldNotFindModel": "No hemos encontrado tu modelo",
+      "suspensionValues": {
+        "simple": "Simple",
+        "double": "Doble",
+        "none": "Sin suspensión",
+        "dontKnow": "No lo sé"
+      },
+      "sexValues": {
+        "man": "Hombre",
+        "women": "Mujer",
+        "unisex": "Unisex"
+      }
+    },
+    "bikeForm": {
+      "form": "Formulario",
+      "formTitle": "Da de alta tu modelo",
+      "formSubtitle": "Puedes dar de alta el modelo de tu bicicleta para mejorar nuestro buscador y nuestra comunidad!",
+      "brand": "Marca*",
+      "model": "Modelo*",
+      "yourEmail": "Tu correo*",
+      "urlReference": "URL de referencia de modelo*",
+      "comment": "Algún comentario...",
+      "send": "Enviar",
+      "successTitle": "FORMULARIO ENVIADO \n CON ÉXITO",
+      "successMsg": "Hemos recibido tu solicitud, en breve nos pondremos en contacto contigo para confirmar los datos de tu bicicleta",
+      "goGarage": "Ir al garaje"
+    },
+    "weather": {
+      "thunderstorm": "Tormenta",
+      "clouds": "Nublado!",
+      "drizzel": "Llovizna",
+      "rain": "Lluvia",
+      "snow": "Nieve",
+      "mist": "Niebla",
+      "smoke": "Humo",
+      "haze": "Neblina",
+      "dust": "Polvo",
+      "fog": "Niebla",
+      "sand": "Arena",
+      "ash": "Ceniza",
+      "squall": "Chubasco",
+      "tornado": "Tornado",
+      "default": "Despejado"
+    },
+    "addBike": {
+      "buttonText": "Ir a Garaje",
+      "subtitle": "Entra en el garaje y comienza a protegerla dentro de la comunidad",
+      "title": "Añade tu primera bicicleta en All In Biking"
+    },
+    "cropImage": {
+      "acceptText": "Aceptar",
+      "cancelText": "Cancelar",
+      "discardChangesText": "¿Seguro que quieres descartar esta captura?"
+    },
+    "cameraStates": {
+      "photoText": "Foto",
+      "videoText": "Video"
+    },
+    "deletedUser": "Usuario Eliminado",
+    "bike": {
+      "and": "y",
+      "bikeSizeGuide": {
+        "close": "Cerrar",
+        "mountainBike": "Bici de montaña",
+        "roadBike": "Bici de carretera",
+        "title": "Guía de tallas"
+      },
+      "color": {
+        "black": "Negro",
+        "blue": "Azul",
+        "bronze": "bronce",
+        "brown": "Marron",
+        "golden": "Dorado",
+        "gray": "Gris",
+        "green": "Verde",
+        "orange": "Naranja",
+        "pink": "Rosa",
+        "purple": "Morado",
+        "red": "Rojo",
+        "silver": "Plateado",
+        "white": "Blanco",
+        "yellow": "Amarillo"
+      },
+      "effect": {
+        "candy": "Caramelo",
+        "chrome": "Cromado",
+        "fluorescent": "Fluorescente",
+        "glitter": "Purpurina",
+        "matte": "Mate",
+        "metallic": "Metálica",
+        "none": "Sin efecto"
+      },
+      "mountainTable": {
+        "cell_1_1": "XS (13’-14’)",
+        "cell_1_2": "68-74 cm",
+        "cell_1_3": "152-162 cm",
+        "cell_2_1": "S (15’-16’)",
+        "cell_2_2": "75-77cm",
+        "cell_2_3": "163-168 cm",
+        "cell_3_1": "M (17’-18’)",
+        "cell_3_2": "79-82 cm",
+        "cell_3_3": "169-178 cm",
+        "cell_4_1": "L (19’-20’)",
+        "cell_4_2": "84-89 cm",
+        "cell_4_3": "179-186 cm",
+        "cell_5_1": "XL (21’-22’)",
+        "cell_5_2": "90-91 cm",
+        "cell_5_3": "187-193 cm",
+        "header1": "Talla",
+        "header2": "Entrepierna",
+        "header3": "Altura"
+      },
+      "roadTable": {
+        "cell_1_1": "44-47 XXS",
+        "cell_1_2": "68-74 cm",
+        "cell_1_3": "152-162 cm",
+        "cell_2_1": "48-49 XS",
+        "cell_2_2": "75-76 cm",
+        "cell_2_3": "163-166 cm",
+        "cell_3_1": "50-52 S",
+        "cell_3_2": "77-79 cm",
+        "cell_3_3": "167-170 cm",
+        "cell_4_1": "53-54 M",
+        "cell_4_2": "81-82 cm",
+        "cell_4_3": "171-179 cm",
+        "cell_5_1": "55-57 L",
+        "cell_5_2": "83-86 cm",
+        "cell_5_3": "179-183 cm",
+        "cell_6_1": "58-60 XL",
+        "cell_6_2": "87-90 cm",
+        "cell_6_3": "184-188 cm",
+        "cell_7_1": "60-63 XXL",
+        "cell_7_2": "91 cm",
+        "cell_7_3": "189-192 cm",
+        "header1": "Talla",
+        "header2": "Entrepierna",
+        "header3": "Altura"
+      },
+      "scanQRTitle": "Escanear QR o Código de barras",
+      "textRecognitionInProgress": "Reconociendo texto...",
+      "textRecognitionLabelText": "Número de serie",
+      "textRecognitionNoText": "No se ha identificado ningún número de seríe",
+      "textRecognitionScannerText": "Escanear con la cámara",
+      "textRecognitionTakePicture": "Introduce el valor o haz una foto"
+    },
+    "bikeCard": {
+      "changeAlias": "Cambiar alias",
+      "deleteBike": "Eliminar bici",
+      "transfer": "Transferir"
+    },
+    "bikeDetail": {
+      "appBarMyBike": "Mi bici",
+      "complete": "Completar",
+      "edit": "Editar",
+      "errorMessage": "No se pudo obtener el detalle de la salida",
+      "incomplete": "Registro de bicicleta incompleto",
+      "photos": "Fotografías",
+      "verifyProperty": "Verificar propiedad",
+      "verifyUser": "Verificar Usuario"
+    },
+    "bikeDetails": {
+      "Acquisition": "Adquisición",
+      "addPhoto": "Editar fotos",
+      "alias": "Alias",
+      "axis": "Eje de pedalier",
+      "backToGarage": "Volver al garaje",
+      "bikeCompletedInfo": "Información de tu bicicleta completa",
+      "bikeStepsCompleted": "Información de tu bicicleta incompleta",
+      "bikeUpdated": "Se ha guardado con éxito",
+      "blockchainLabel": "Asegurada en blockchain",
+      "blockchainLabelNone": "No asegurada en blockchain",
+      "blockchainPopup": {
+        "basicFile": "Ficha básica",
+        "completeFile": "Ficha completa",
+        "print": "Imprimir"
+      },
+      "reportBike": {
+        "error": "Se ha producido un error al reportar la bicicleta",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar bicicleta",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Enviaremos la información de la bicicleta a nuestro equipo de soporte. El propietario no será informado de esta acción.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "blockchainStep": "Registro en blockchain",
+      "buttomFinish": "Finalizar",
+      "changeAlias": "Cambiar alias",
+      "dataStep": "Datos técnicos",
+      "deleteBike": {
+        "accept": "Eliminar",
+        "cancel": "Cancelar",
+        "warning": "¿Estás seguro que quieres eliminar esta bicicleta?"
+      },
+      "direction": "Dirección",
+      "distance": "Distancia",
+      "documents": "Documentos",
+      "editData": "Editar datos",
+      "editTecnicalData": "Selecciona las partes que quieres editar",
+      "establishment": "Establecimiento",
+      "fork": "Horquilla",
+      "frame": "Cuadro",
+      "Information": "Informacion",
+      "materialType": "Material",
+      "noRegisterLabel": "Sin registro",
+      "notVerified": "No verificada",
+      "registerLabel": "Registro",
+      "rides": "Salidas",
+      "serialLabel": "# de serie: {serialNumber}",
+      "serialLabelNone": "Sin # de serie",
+      "serialNumberStep": "Número de serie",
+      "shareBikePost": "Compartir bicicleta",
+      "stolenCard": {
+        "button": "Ver alerta",
+        "date": "{day} de {month}",
+        "title": "Robo alertado"
+      },
+      "technicalDataBike": "Datos técnicos",
+      "time": "Tiempo",
+      "verified": "Verficado",
+      "watch": "Ver"
+    },
+    "bikeNotRegister": {
+      "appBar": "La bici no está registrada",
+      "buttomBoughtBike": "He comprado esta bicicleta",
+      "buttomCheckOtherNumber": "Comprobar otro número",
+      "cardTitle": "No podemos verificar su procedencia",
+      "detail": "Este número de serie no está registrado en la Comunidad All In Biking, por lo que no podemos verificar su procedencia. Asegúrate de haberlo introducido correctamente y de que corresponde a una bicicleta.",
+      "notpropietary": "Sin propietario actual",
+      "title": "Número de serie no registrado"
+    },
+    "bikeNotStolenScreen": {
+      "detail": "Hemos encontrado que tu bici ya se encuentra registrada por otro usuario, por favor sigue los pasos a continuación que se adaptan a tu situación.",
+      "proveOwnership": "La bici es mia y puedo demostrarlo",
+      "proveOwnershipButton": "Demostrar propiedad",
+      "title": "Queremos ayudarte",
+      "transferOwnership": "Solicitar transferencia de propiedad",
+      "transferOwnershipButton": "Solicitar transferencia"
+    },
+    "bikeSelector": {
+      "appbar": "Indica tu bicicleta",
+      "text": "Para que la aplicación pueda reflejarlo en tus estadísticas y en tu libreta de mantenimiento",
+      "title": "¿Con qué bici vas a salir?"
+    },
+    "bikeStolenScreen": {
+      "appBar_singular": "Incidencia",
+      "button_contact_now": "Contactar ahora con All In Biking",
+      "buttonCheckOther": "Ver alerta y ayudar al propietario",
+      "buttonShowHelp": "Ver alerta y ayudar al propietario",
+      "detailDisappeared": "Tu bici ha sido reportada como robada o desaparecida en nuestro sistema",
+      "stolen_description": "Si la bicicleta es tuya no te preocupes, hemos reportado el suceso nuestro Departamento de Incidencias para brindar la mejor solución posible.",
+      "stolenOrDisappeared": "bici robada\n o desaparecida",
+      "titleDisappeared": "Puedes ayudar al propietario"
+    },
+    "blockchainCertificate": {
+      "appbarTitle": "Certificado de blockchain",
+      "error": "Error compartiendo PDF, intentalo de nuevo",
+      "fetchInfo": "Obteniendo datos de blockchain",
+      "share": "Compartir"
+    },
+    "blockchainInfo": {
+      "appbarTitle": "Certificado blockchain",
+      "button": "Registrar",
+      "content": "Hemos comprobado que tu identidad de usuario está verificada y que has registrado el número de serie de tu bicicleta, aceptando la declaración jurada de veracidad.\n\nCumples con todos los requisitos para obtener el Certificado Inteligente de All In Biking y comenzar a proteger tu bici con la tecnología Blockchain.",
+      "title": "Vas a Registrar la propiedad de tu bici en nuestra blockchain"
+    },
+    "blockForUpdate": {
+      "version_title": "Nota de versión",
+      "appbarTitle": "Actualización necesaria",
+      "content": "Es necesario que actualices la app para que funcione con normalidad y poder disfrutar de las nuevas funcionalidades",
+      "linkText": "Si quieres ver el resto de actualizaciones, visita nuestra web",
+      "omitLabel": "Omitir",
+      "resume": "Aquí tienes un resumen de las novedades",
+      "title": "Tu versión instalada está anticuada",
+      "updateLabel": "Actualizar ahora",
+      "webName": "Ver más en nuestro blog",
+      "webNameShort": "Leer en blog",
+      "AppStoresLabel": "Ir a la tienda de apps"
+    },
+    "carousel": {
+      "buttonBack": "Atrás",
+      "buttonNext": "Siguiente",
+      "buttonSave": "Guardar",
+      "buttonSkip": "Saltar"
+    },
+    "changeAlias": {
+      "appBar": "Cambiar alias",
+      "button": "Guardar alias",
+      "errorText": "Máx. 50 caracteres. mín. 2 caracteres. solo caracteres alfanuméricos",
+      "label": "Alias",
+      "subtitle": "Será un nombre con el que reconocerás tu bici.",
+      "success": "Has cambiado el alias de tu bici",
+      "title": "Elige un alias"
+    },
+    "changePassword": {
+      "appbar": "Configurar cuenta",
+      "emailSended": "Correo de cambio de contraseña enviado con éxito",
+      "newPassword": "Nueva contraseña",
+      "oldPassword": "Contraseña actual",
+      "passwordRequirements": "La contraseña actual es opcional si te has registrado con Google",
+      "orApple": " o Apple",
+      "passwordUpdatedMessage": "Contraseña cambiada con éxito",
+      "passwordUpdatedMessageError": "Error en el cambio de contraseña",
+      "repeatNewPassword": "Repetir la nueva contraseña",
+      "saveChangesButton": "Guardar nueva contraseña",
+      "title": "Cambiar contraseña"
+    },
+    "chat": {
+      "activateNotifications": "Activar notificaciones",
+      "activeChat": "Chat activo",
+      "buttonChatRides": "Ir al chat",
+      "copy": "Copiar",
+      "unreadMessages": "Tienes {value} mensajes sin leer",
+      "errors": {
+        "activateNotifications": "Error al activar notificaciones.",
+        "connectChat": "Error al conectar con chat. Vuelve a intentarlo",
+        "createChat": "Error al crear chat. Vuelve a intentarlo.",
+        "createMember": "Error al crear miembro. Vuevle a intentarlo",
+        "deleteUser": "Error al eliminar usuario de chat.",
+        "detectMember": "Error al detectar miembro. Vuelve a intentarlo",
+        "getChat": "Error. No se encontró chat. Vuelve a intentarlo",
+        "getChats": "Error. No se pudieron capturar los chats. Vuelve a intentarlo",
+        "getHistoryMessage": "Error. No se pudieron capturar los ultimos mensajes de chat. Vuelve a intentarlo",
+        "getHistoryMessages": "Error al intentar acceder al historial de mensajes. Vuelve a ingresar al chat.",
+        "getMembers": "Error al intentar acceder a miembros",
+        "getMessage": "Error al recibir mensaje de chat. Vuelve a ingresar al chat.",
+        "getNewMessage": "Error. No se pudieron capturar los mensajes sin leer del chat. Vuelve a intentarlo",
+        "muteNotifications": "Error al intentar desactivar notificaciones."
+      },
+      "reportChat": {
+        "error": "Se ha producido un error al reportar el chat",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar chat",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Enviaremos los últimos 5 mensajes a nuestro equipo de soporte. El autor no será informado de esta acción.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "reportAndBlock": "Reportar y bloquear",
+      "reportChatMessage": {
+        "error": "Se ha producido un error al reportar el mensaje",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar mensaje",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Enviaremos el mensaje a nuestro equipo de soporte. El autor no será informado de esta acción.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "deletedChat": {
+        "chatPVPDeletedTitle": "Sin detalles del usuario",
+        "chatPVPDeletedBody": "Ups, parece que el usuario que buscas ha sido eliminado 😢",
+        "chatClubDeletedTitle": "Sin detalles del club",
+        "chatClubDeletedBody": "Ups, parece que el club que buscas ha sido eliminado 😢",
+        "chatGroupDeletedTitle": "Sin detalles del grupo",
+        "chatGroupDeletedBody": "Ups, parece que el grupo que buscas ha sido eliminado 😢",
+        "chatRideDeletedTitle": "Sin detalles de la salida",
+        "chatRideDeletedBody": "Ups, parece que la salida que buscas ha sido eliminada 😢"
+      },
+      "firstInfo": "Trata a los demás como te gustaría que te traten a ti.",
+      "groupChat": "Chat grupal",
+      "ifBored": "Esto está muy aburrido...\n¡Di Algo!",
+      "joinUser": "{name} se ha unido",
+      "lobbyChat": {
+        "cancel": "Cancelar",
+        "doYouWantDeleteChat": "¿Deseas eliminar el chat permanentemente?\nSe informara a los miembros del mismo que te has ido.",
+        "noChatInfo": "Aquí aparecerán las salas de chat en las que participes, tanto las conversaciones con tus amigos como los grupos y salidas.",
+        "noChatTitle": "No tienes\nningún chat",
+        "noChatInSearchTitle": "No hay\nresultados",
+        "noMessages": "No hay mensajes",
+        "searchName": "Buscar un nombre o palabra clave...",
+        "title": "Conversaciones",
+        "searchHint": "Buscar usuario",
+        "yes": "Si"
+      },
+      "members": "{people} participantes",
+      "muteChat": "Silenciar chat",
+      "outChat": "Salir del chat",
+      "privateChat": "Chat privado",
+      "remember": "Recuerda dos cositas:",
+      "resend": "Reintentar",
+      "rideFinishedDate": "Ruta finalizada: {date}",
+      "secondInfo": "All In Biking jamás contactará contigo bajo el nombre de un usuario ni te pedirá información privada. Desconfía y reporta a quien lo haga.",
+      "sendMessage": "Enviar mensaje",
+      "separator": "  ·   ",
+      "showMembers": "Ver Miembros",
+      "startIn": "Comienza en {dateTime}",
+      "subtitle": "Comienza en ",
+      "userOut": "{name} ha salido",
+      "yourMessage": "Tu mensaje"
+    },
+    "comments": {
+      "errorInput": "máximo 500 carácteres",
+      "inputPlaceholder": "Escribe un comentario...",
+      "editComments": {
+        "appBar": "Editar comentario",
+        "saveButton": "Guardar"
+      },
+      "createCommentSuccess": "Comentario publicado",
+      "editCommentSuccess": "Comentario editado",
+      "deleteCommentSuccess": "Comentario borrado",
+      "deleteDialog": {
+        "title": "ELIMINAR MENSAJE",
+        "subtitle": "Estás a punto de eliminar tu comentario de {value}. Ten en cuenta que esta acción es irreversible.",
+        "subtitle1": "¿Estás seguro de que deseas proceder?",
+        "accept": "Eliminar",
+        "cancel": "Cancelar"
+      }
+    },
+    "completeInformationScreen": {
+      "contactWithSupport": "Contactar con soporte",
+      "detail": "Puede que tu identidad no haya sido verificada o no hayas registrado el número de serie de tu bici. \n\nCompleta tus datos para obtener el Certificado Inteligente y comenzar a proteger tu bici con la tecnología Blockchain.",
+      "problemPersists": "Si el problema persiste, contacta con soporte",
+      "regiterNumberSerie": "Registrar número de serie",
+      "title": "Completa tus datos",
+      "verifyInProccessAppBar": "Verificación en proceso",
+      "verifyInProccessBody": "Tu verificación puede tardar entre 24h y 48h. Te notificaremos cuando esté lista.",
+      "verifyInProccessButton": "Volver al garaje",
+      "verifyInProccessTitle": "Verificación pendiente de aprobación",
+      "verifyProfile": "Verificar identidad"
+    },
+    "confirmCodeTaken": {
+      "appbar": "Número de serie escaneado",
+      "backLabel": "Atrás",
+      "confirmLabel": "Es correcto",
+      "fieldTitle": "Código escaneado",
+      "subtitle": "Comprueba que el número introducido es correcto para no recibir información errónea",
+      "title": "¡Asegúrate!"
+    },
+    "createGroup": {
+      "addImage": "Añadir imagen",
+      "anyone": "Cualquier zona",
+      "clubErrorText": "Nombre de club inválido",
+      "continue": "Continuar",
+      "createButton": "Crear grupo",
+      "createClubButton": "Crear club",
+      "createGroupType": {
+        "button": "Siguiente",
+        "content": "Selecciona el tipo de grupo que\nquieres crear",
+        "title": "Tipo de grupo",
+        "typeClub": "Club federado",
+        "typeClubDesc": "Crea tu club federado y pedalea hacia el éxito. <span>¡Empieza ahora!</span>",
+        "typeGroup": "Grupeta",
+        "typeGroupDesc": "Crea tu grupeta y únete a la diversión. <span>¡Empieza ahora!</span>"
+      },
+      "badFormatImage": {
+        "title": "Formato no admitido",
+        "content": "Formatos admitidos para imágenes: png y jpg. Formatos admitidos de vídeos: mp4, mov, avi y 3gp."
+      },
+      "editAppBar": "Editar grupo",
+      "editSuccess": "Cambios realizados con éxito",
+      "errorDescription": "El campo descripción no es válido",
+      "errorText": "Nombre de grupo inválido",
+      "errorUploadingImage": "No se pudo tomar la imagen",
+      "files": "Subir desde mi galería",
+      "form": {
+        "accept": "Aceptar",
+        "addLink": "Añadir enlace",
+        "advancedTitle": "Avanzado (Opcional)",
+        "approximateContent": "La ubicación del grupo se mostrará en los resultados, pero no en el mapa.",
+        "approximateTitle": "Aproximada",
+        "cancel": "Cancelar",
+        "cif": "Código Fiscal (CIF)",
+        "clubDescription": "Descripción del club",
+        "clubName": "Nombre del club",
+        "clubRules": "Reglas del club",
+        "clubTitle": "Datos del club",
+        "externalLinks": "Enlaces externos",
+        "federatedClubLabel": "Mi club está federado",
+        "federation": "Federación",
+        "frontPageButton": "Portada",
+        "groupDescription": "Descripción del grupo",
+        "groupName": "Nombre del grupo",
+        "groupRules": "Reglas del grupo",
+        "groupTitle": "Datos de la grupeta",
+        "legalTitle": "Datos legales",
+        "linkPlatform": "Plataforma",
+        "linkTitle": "Selecciona un enlace",
+        "locationTitle": "Selecciona ubicación o lugar de encuentro",
+        "logoButton": "Logo",
+        "preciseContent": "La ubicación del grupo se mostrará en el mapa y en los resultados.",
+        "preciseTitle": "Precisa",
+        "presidentLastName": "Apellido/s del presidente",
+        "presidentName": "Nombre/s del presidente",
+        "privateGroupLabel": "Grupeta privada",
+        "rideType": "Tipos de ciclismo",
+        "verifiedLabel": "Solo usuarios verificados"
+      },
+      "fromCamera": "Sacar una foto ahora",
+      "generalDataTitle": "Datos generales",
+      "gravel": "Gravel",
+      "imageSelectorTitle": "Imagen de portada",
+      "invitations": "Invitar a participantes",
+      "link": {
+        "cancel": "Cancelar",
+        "delete": "Eliminar",
+        "deleteLink": "Editar enlace Eliminar enlace",
+        "deleteModalBody": "¿Estás seguro de que quieres eliminar este enlace?"
+      },
+      "locationLabel": "Solo para gente en esta región",
+      "locationTitle": "¿Dónde está el grupo?",
+      "mountain": "Montaña",
+      "onlyForThisRegion": "Selecciona localización del grupo",
+      "others": "Otros",
+      "peopleIn": "Seleccionar zona",
+      "privacy": {
+        "private": "Grupo privado",
+        "privateSubtitle": "Solo pueden ver su información y participar las personas invitadas o aceptadas por ti",
+        "public": "Grupo publico",
+        "publicSubtitle": "Cualquier usuario puede unirse, participar e invitar a otros"
+      },
+      "privacyLabel": "Tipo de salida",
+      "privacyTitle": "Privacidad del grupo",
+      "profileImage": {
+        "addPhoto": "Sacar una foto ahora",
+        "fromCamera": "¡Captura el momento!",
+        "deletePhoto": "Eliminar imagen",
+        "title": "Imagen de perfil",
+        "uploadPhoto": "Subir desde mi galería"
+      },
+      "road": "Carretera",
+      "saveChanges": "Guardar cambios",
+      "selectRegion": "Selecciona una región",
+      "submitError": "Se ha producido un error al crear el grupo",
+      "submitSuccess": "Grupo creado con éxito",
+      "triathlon": "Triatlon / Duatlon",
+      "type": {
+        "club": "Club",
+        "group": "Grupeta"
+      },
+      "urban": "Urbano / Paseo",
+      "visibleLabel": "Ser visible en el mapa"
+    },
+    "createPost": {
+      "add": "Añadir",
+      "addImage": "Añadir imagen",
+      "addMultimedia": "Añadir archivos multimedia",
+      "appBar": "Crear publicación",
+      "defaultInitMessage": {
+        "bike": "¡Hola comunidad! Quiero compartirles mi bicicleta, espero usarla en salidas con alguno de vosotros!",
+        "ride": "¡Hola comunidad! Les comparto esta salida de {type} en {estimatedDistance} y {estimatedDuration} con una dificultad {difficulty}",
+        "stealReport": "¡Hola comunidad! Quiero informarles que robaron mi bicicleta {brand} {model} de {colorPrimaryAndSecondary}, con el número de serie {serieNumber}, fecha {date} a las {time} en la zona de {stealZoneCity}, {stealZoneProvince}, {stealZoneCountry}.",
+        "kpi": "¡Hola comunidad! Quiero compartirles los resultados que he conseguido."
+      },
+      "error": "Se ha producido un error al crear el post",
+      "errorMaxImagesLength": "Solo se puede usar 10 imágenes",
+      "errorLength": "Número de carácteres invalido",
+      "groupName": "Se compartirá en: {groupName}",
+      "options": {
+        "bikes": "Bicicletas",
+        "multimedia": "Contenido multimedia",
+        "poll": "Encuesta",
+        "reports": "Robos",
+        "rides": "Salidas"
+      },
+      "optionTitle": "Añadir multimedia",
+      "publishButton": "Publicar",
+      "publishGroupName": "Publicar en nombre del grupo",
+      "shareIn": "Se compartirá en: ",
+      "success": "Post publicado",
+      "textArea": "Escribe para todo el mundo...",
+      "userPreferences": "Preferencias",
+      "userPreferencesMenu": {
+        "cmAnyone": "Cualquiera puede comentar",
+        "cmNoOne": "Nadie puede comentar",
+        "cmOnlyMembers": "Solo miembros pueden comentar",
+        "comments": "Comentarios",
+        "onlyMembers": "Solo miembros",
+        "public": "Público",
+        "savePreferences": "Guardar preferencias",
+        "title": "Preferencias de publicación",
+        "visibility": "Visibilidad"
+      }
+    },
+    "editPost": {
+      "add": "Añadir",
+      "addImage": "Añadir imagen",
+      "addMultimedia": "Añadir archivos multimedia",
+      "appBar": "Editar publicación",
+      "error": "Se ha producido un error al editar el post",
+      "errorMaxImagesLength": "Solo se puede usar 10 imágenes",
+      "errorLength": "Número de carácteres invalido",
+      "optionTitle": "Añadir multimedia",
+      "publishButton": "Guardar",
+      "publishGroupName": "Guardar en nombre del grupo",
+      "success": "Post guardado",
+      "textArea": "Escribe para todo el mundo...",
+      "userPreferences": "Preferencias",
+      "userPreferencesMenu": {
+        "cmAnyone": "Cualquiera puede comentar",
+        "cmNoOne": "Nadie puede comentar",
+        "cmOnlyMembers": "Solo miembros pueden comentar",
+        "comments": "Comentarios",
+        "onlyMembers": "Solo miembros",
+        "public": "Público",
+        "savePreferences": "Guardar preferencias",
+        "title": "Preferencias de publicación",
+        "visibility": "Visibilidad"
+      }
+    },
+    "datePicker": {
+      "accept": "Aceptar",
+      "cancel": "Cancelar"
+    },
+    "deepLink": {
+      "inviteApp": "¡Únete a la Comunidad All In Biking!",
+      "reportShare": "¡Me han robado la bici! Tal vez puedas ayudarme. Aquí está la información del robo:",
+      "reportThirdShare": "¡A esta persona le han robado la bici! Tal vez puedas ayudarle. Aquí tienes la información del robo:",
+      "share": "Compartir",
+      "shareKpiCard": "Echa un vistazo a este perfil de ciclista",
+      "shareFriend": "Solicitud de amistad en All In Biking",
+      "shareGroup": "Echa un vistazo a este grupo de ciclismo en All In Biking",
+      "shareMyLink": "{username} te invita a unirte a All in Biking. Entra y comienza a divertirte junto a él y al resto de nuestra comunidad ciclista.",
+      "shareMyLinkDescription": "Invita a un amigo para que se una a All in Biking. Escaneando este código QR podrá entrar a la aplicación",
+      "sharePost": "¡Mira esta publicación en All in Biking!",
+      "shareProfile": "Echa un vistazo a mi perfil de ciclista en All In Biking",
+      "shareRide": "¡Únete a esta salida!",
+      "shareBike": "¡Mira esta bicicleta en All in Biking!",
+      "shareThirdPartyProfile": "Revisa el perfil de esta persona",
+      "shareThirdPartyRide": "Echa un vistazo a esta salida en All In Biking"
+    },
+    "deleteUser": {
+      "button": "Eliminar cuenta",
+      "cancelButton": "Cancelar",
+      "deleteButton": "Eliminar",
+      "title": "¿Seguro que quieres eliminar tu usuario?"
+    },
+    "drawer": {
+      "blackPoints": "Puntos negros",
+      "community": "Comunidad",
+      "friends": "Amigos",
+      "garage": "Garaje",
+      "help": "Ayuda",
+      "logOut": "Salir",
+      "options": "Preferencias",
+      "profile": "Perfil",
+      "report": "Alertar robo",
+      "routes": "Salidas"
+    },
+    "editAccount": {
+      "appbar": "Configurar cuenta",
+      "changePassword": "Cambiar contraseña",
+      "emailLabel": "Email (privado)",
+      "logout": "Cerrar sesión",
+      "logoutModalTitle": "¿Seguro que quieres cerrar sesión?",
+      "accessProfile": {
+        "appbar": "Mini perfil",
+        "subtitle": "Oculta o muestra el miniperfil de usuario que aparece en inicio",
+        "hide": "Ocultar",
+        "show": "Mostrar"
+      },
+      "saveChangesButton": "Guardar nuevo email",
+      "title": "Datos de acceso"
+    },
+    "editPrivacity": {
+      "appbar": "Privacidad",
+      "profile": "Perfil",
+      "privacyMode": {
+        "onlyForMe": "Solo para mi",
+        "onlyFriends": "Solo amigos",
+        "private": "Privado (Solo seguidores)",
+        "public": "Público (Para todo el mundo)"
+      },
+      "rideSegment": "Ocultar inicio y fin de mis actividades"
+    },
+    "editOpportunitiesAndNews": {
+      "appBar": "Oportunidades y Actualidad",
+      "businessOpportunities": "Oportunidades comerciales",
+      "businessOpportunitiesExplanation": "Deseo recibir Información sobre oportunidades comerciales relacionadas con el mundo del ciclismo.",
+      "newsletter": "Newsletter",
+      "newsletterExplanation": "Deseo recibir información sobre actualizaciones y novedades de la plataforma."
+    },
+    "editProfile": {
+      "profileData": "Datos de perfil",
+      "account": "Configurar cuenta",
+      "category": "Categoría",
+      "city": "Localidad",
+      "country": "País",
+      "cp": "Código postal",
+      "description": "Descripción",
+      "edit": "Editar perfil",
+      "email": "Correo electrónico",
+      "enumGender": {
+        "female": "Femenino",
+        "male": "Masculino",
+        "other": "Otro"
+      },
+      "verifiedDialogInfo": {
+        "title": "Verificar perfil",
+        "content": "La verificación de tu perfil es crucial para proteger tu bicicleta en la blockchain y para participar en salidas exclusivas solo para perfiles verificados. ¡Asegúrate de completar la verificación para disfrutar de todos los beneficios de nuestra comunidad de ciclistas!"
+      },
+      "errorCodePostal": "Ingrese de 4 a 20 caracteres alfanuméricos.",
+      "errorInDescription": "Descripción inválida",
+      "errorMatchingCodePostal": "Este código postal no coincide con el país seleccionado.",
+      "errorTooShort": "La descripción debe tener al menos 5 caracteres.",
+      "externalLinks": "Enlaces externos",
+      "gender": "Género",
+      "noCityData": "No se han encontrado ciudades",
+      "noCountryData": "No se han encontrado países",
+      "noStateData": "No se han encontrado provincias",
+      "personalData": "Datos personales",
+      "privateInformation": "Información privada",
+      "profileVerified": "Identidad verificada",
+      "profileVerifiedError": "Error de verificación",
+      "profileVerifiedPending": "Verificación pendiente",
+      "profileVerifiedRejected": "Verificación rechazada",
+      "profileVerifiedRejectedSubtitle": "¡Oops! Parece que hubo un error con tu solicitud de verificación. Asegúrate que las fotos tengan buena calidad y que tu documento sea valido.",
+      "profileVerifiedText": "Verificar perfil",
+      "profileVerifiedTitle": "¡Verifica tu perfil y disfruta de la mejor experiencia!",
+      "publicData": "Datos públicos",
+      "publicDataSubtitle": "Recuerda que esta información será visible para toda la Comunidad de All In Biking.",
+      "publicInformation": "Información pública",
+      "publicProfile": "Perfil público",
+      "selectCountry": "Selecciona un país",
+      "selectPhoto": "Seleccionar foto",
+      "selectState": "Selecciona una provincia",
+      "state": "Provincia",
+      "takePhoto": "Tomar foto",
+      "takePhotoError": "No se ha podido acceder a la cámara",
+      "unVerifyButtonCard": "Verificar ahora",
+      "unVerifySubTitleCard": "Tu identidad no esta verificado",
+      "unVerifyTitleCard": "Identidad no verificada",
+      "username": "Nombre de usuario",
+      "userVerifyExist": "El usuario ya existe",
+      "verifyButtonCard": "Actualizar",
+      "verifySubTitleCard": "Tu identidad ha sido verificado correctamente",
+      "verifyTitleCard": "Identidad Verificada"
+    },
+    "errors": {
+      "401": "Tu sesión se ha cerrado por seguridad. Inicia sesión de nuevo.",
+      "common": "Ocurrió un error inesperado, intentalo de nuevo",
+      "deleteAccount": "Esta cuenta ha sido eliminada si desea restaurarla póngase en contacto a través de allinbiking.com",
+      "emailAlreadyExist": "El email asociado ya existe",
+      "emailInvalid": "El email ingresado no es válido.",
+      "error": "Error",
+      "firebase": {
+        "accountExitsWithDifferentCredential": "Contraseña existe con diferentes credenciales",
+        "errorOperationNotAllowed": "No se permite la operación. Póngase en contacto con el soporte.",
+        "errorUserDisabled": "Este usuario ha sido deshabilitado. Póngase en contacto con el soporte para obtener ayuda.",
+        "errorUserNotFount": "No se encuentra el correo electrónico, cree una cuenta.",
+        "errorWrongPassword": "Contraseña incorrecta. Por favor, pruebe de nuevo.",
+        "invalidCredential": "La credencial recibida tiene un formato incorrecto o ha caducado.",
+        "invalidVerificationCode": "El código de verificación de credenciales recibido no es válido.",
+        "invalidVerificationId": "El ID de verificación de credenciales recibido no es válido.",
+        "commonError": "El email o contraseña son incorrectos"
+      },
+      "friends": "Amigos no disponibles",
+      "google": "Error en la API de ejemplo",
+      "requestError": "Error en la petición",
+      "search_address_exception": "Dirección no encontrada",
+      "signIn": "Fallo de autentificación",
+      "signUp": "Error en el registro",
+      "statistics": "Estadistica no disponible"
+    },
+    "expressReport": {
+      "view": {
+        "back": "Atrás",
+        "error": "Ha ocurrido un error al publicar la alerta",
+        "immediateWarning": "Aviso inmediato",
+        "locationError": "No se ha podido obtener la ubicación ",
+        "title": "Enviar aviso a Comunidad"
+      }
+    },
+    "expressReportSent": {
+      "view": {
+        "appBar": "Aviso enviado",
+        "completeReport": "Completar alerta",
+        "notNow": "Ahora no",
+        "shareButton": "Compartir en mis redes",
+        "shareContent": "Cuanta más gente sepa que tu bici ha sido robada, existirán más probabilidades de que la recuperes",
+        "shareTitle": "Difunde el robo de tu bici",
+        "title": "Aviso enviado a la Comunidad"
+      }
+    },
+    "findingDetails": {
+      "table": {
+        "details": "Detalles",
+        "foundOnShop": "Vista en tienda",
+        "internet": "Internet",
+        "link": "Link",
+        "locatedOn": "Ubicada en",
+        "webOrApp": "Web o APP",
+        "whenFound": "Vista el",
+        "whereFound": "Vista en"
+      },
+      "view": {
+        "appBar": "Resumen de avistamiento",
+        "chatButton": "Abrir chat con el usuario",
+        "goGarage": "Ir al garaje",
+        "imagesOfFinding": "Imágenes del avistamiento",
+        "seeMyReport": "Ver mi alerta",
+        "userThatReported": "Usuario que lo ha reportado"
+      }
+    },
+    "finishedRides": {
+      "activityTime": "Tiempo de actividad",
+      "avgSpeed": "Velocidad media",
+      "avgVelocity": "Velocidad media",
+      "commentsLabelText": "comentarios",
+      "error": "No hemos encontrado las estadísticas de tus rutas, vuelve a intentarlo más tarde o contacta con soporte",
+      "errorAccept": "Contactar con soporte",
+      "fromCamera": "Desde cámara",
+      "fromGallery": "Desde galería",
+      "goToConnect": "Conectar",
+      "graphs": "Gráficas",
+      "health": {
+        "average": "Pulsaciones medias",
+        "avgHeartRate": "{value} ppm",
+        "calories": "Calorías quemadas",
+        "caloriesValue": "{value} kcal",
+        "max": "Pulsaciones máximas",
+        "maxHeartRate": "{value} ppm",
+        "title": "Salud"
+      },
+      "height": {
+        "maxHeight": "Altura máxima",
+        "minHeight": "Altura mínima",
+        "title": "Alturas",
+        "totalAscent": "Altitud acumulada"
+      },
+      "inactivityTime": "Tiempo de inactividad",
+      "individualFinishedRides": {
+        "averageWatts": "{value} W",
+        "avgHearthRate": "{value} ppm",
+        "burnedCalories": "{value} kcal",
+        "error": "Error cargando la ruta, inténtalo más tarde",
+        "hearthTitle": "Salud",
+        "maxHearthRate": "{value} ppm",
+        "maxWatts": "{value} W",
+        "powerTitle": "Potencia",
+        "realizedBy": "Creada por",
+        "ridesDataTitle": "Ruta",
+        "simulations": {
+          "buttonText": "Vincular aplicaciones",
+          "otherUserMessage": "No tenemos información acerca del rendimiento de este usuario durante la salida.",
+          "ownerMessage": "No tenemos información acerca de tu rendimiento en la salida.",
+          "statisticsOf": "Estadisticas de",
+          "title": "Estadísticas simuladas"
+        },
+        "title": "Salida"
+      },
+      "likesLabelText": "likes",
+      "maxHeight": "Altitud máxima",
+      "maxVelocity": "Velocidad máxima",
+      "minHeight": "Altitud mínima",
+      "noRidesMessage": "Aquí aparecerán tus rutas",
+      "noTracksData": "Actualmente no tenemos datos de tu salida.\nPara poder compararte con otros usuarios de All In Biking, conectate con alguno de nuestros proveedores",
+      "power": {
+        "average": "Potencia media",
+        "avgPower": "{value} W",
+        "max": "Potencia máxima",
+        "maxPower": "{value} W",
+        "title": "Potencia",
+        "total": "Total"
+      },
+      "radarChart": {
+        "ascent": "Ascenso",
+        "ascentSpeed": "Velocidad\nsubida",
+        "ascentWinner": "Escalador",
+        "avgHearthRate": "Cardiaca\nmedia",
+        "avgSpeed": "Velocidad media",
+        "avgSpeedWinner": "Rodador",
+        "avgWattsWinner": "Potente",
+        "calories": "Calorias",
+        "descentWinner": "Bajador",
+        "distance": "Distancia",
+        "fittestWinner": "Atlético",
+        "info": {
+          "ascent": " Ciclista con mayor velocidad de ascenso.\n\n",
+          "avgSpeed": " Ciclista con mayor velocidad media de todos los tramos.\n\n",
+          "avgWatts": " Ciclista que ha generado más vatios de potencia.\n\n",
+          "descent": " Ciclista con mayor velocidad de descenso.\n\n",
+          "fittest": " Ciclista con mayor estado físico. Métrica basada en la media de velocidad y la media de las pulsaciones por tramo.\n\n",
+          "maxSpeed": " Ciclista que ha alcanzado la mayor velocidad en uno o varios tramos.\n\n"
+        },
+        "maxHearthRate": "Cardiaca\nmáx",
+        "maxSpeedWinner": "Velocista",
+        "modal": {
+          "button": "Entendido",
+          "explanation": "Esta gráfica representa tus estadísticas en comparación con tus estadísticas generales",
+          "explanation2": "- La línea blanca representa tus estadísticas generales",
+          "explanation3": "- La línea naranja representa tus estadísticas en esta ruta",
+          "title": "Información"
+        },
+        "time": "Tiempo",
+        "title": "Comparativa"
+      },
+      "resume": {
+        "ascent": "Ascenso total",
+        "duration": "Duración total",
+        "title": "Resumen",
+        "totalDistance": "Distancia total"
+      },
+      "ridersLabelText": "riders asistirán",
+      "route": "Recorrido",
+      "sectionFilterLabel": "Filtrar",
+      "sectionTitle": "Últimas salidas",
+      "speed": {
+        "avgSpeed": "Velocidad media",
+        "avgSpeedInAscent": "Velocidad en ascenso",
+        "maxSpeed": "Velocidad máxima",
+        "title": "Velocidades"
+      },
+      "statisticsDifficultyLabel": "Dificultad",
+      "statisticsDistanceLabel": "Distancia",
+      "statisticsLabel": "Label",
+      "statisticsTimeLabel": "Tiempo",
+      "times": {
+        "inMotion": "En movimiento",
+        "stopped": "Pausado",
+        "title": "Tiempos",
+        "total": "Total"
+      },
+      "totalDistance": "Distancia",
+      "totalDuration": "Duración",
+      "userStatistics": {
+        "ascentVelocity": "Vel. Ascenso",
+        "averageSpeed": "Vel. Media",
+        "avgSpeedInAscent": "{value} km/h",
+        "endurance": "Resistencia",
+        "maxSpeed": "{value} km/h",
+        "maxVelocity": "Vel. Máx",
+        "negativeAltitude": "Alt. Negativa",
+        "positiveAltitude": "Alt. Positiva",
+        "slower": "Más lento",
+        "speed": "{value} km/h",
+        "theBests": "Los Mejores",
+        "winner": "Ganador"
+      },
+      "userStatisticsTitle": "Comparativa",
+      "watchOnGarmin": "Ver en Garmin",
+      "watchOnStrava": "Ver en Strava",
+      "you": "Tú"
+    },
+    "forecast": {
+      "grade": "Grado",
+      "hour": "Hora",
+      "image_forecast": "",
+      "searchIn": "Salidas publicadas en",
+      "windSpeed": "{windSpeed} km/h",
+      "youAreIn": "Estas en"
+    },
+    "formInputs": {
+      "formInputsEmailInputLabel": "Email",
+      "formInputsFirstNameInputLabel": "Nombre",
+      "formInputsLastNameInputLabel": "Apellidos",
+      "formInputsRequiredField": "(*) Campo requerido",
+      "formInputsUnvalidEmail": "Introduce un correo válido"
+    },
+    "friends": {
+      "alreadyFriends": "Sois amigos",
+      "appbarTitle": "Amigos",
+      "buttonNoFriends": "Invitar a All In Biking",
+      "communityLevel": "Nivel 1",
+      "couldYouMeetTitle": "Podrías conocer",
+      "friendsListTitle": "Amigos {value}",
+      "sentsListTitle": "Enviados {value}",
+      "receivedListTitle": "Recibidos {value}",
+      "blockedListTitle": "Bloqueados {value}",
+      "invite": "Invitar",
+      "seeMore": "Ver {value} más",
+      "noRides": "Aún no habéis salido juntos",
+      "recommendationButtonText": "Conectar",
+      "rides": "{times} salidas juntos",
+      "searchPeople": "Buscar perfil",
+      "searchResultsTitle": "Resultados de la búsqueda",
+      "shareMessage": "Invita a tu grupeta para disfrutar de All In Biking en compañía",
+      "showAll": "Mostrar todos",
+      "titleNoFriends": "¿No encuentras a tus amigos?",
+      "username": "Alias",
+      "usersNotFound": "Usuarios no encontrados",
+      "waitingApprove": "Esperando a que te acepte"
+    },
+    "garage": {
+      "appbar": "Mi garaje",
+      "connect_to_allinbiking": "Conecta ahora con All In Biking",
+      "deleteSuccess": "La bicicleta se ha eliminado correctamente",
+      "heroAppBar": "Imagen de bicicleta",
+      "info": "Información",
+      "isEmpty": "Garaje vacío",
+      "isVerified": "Verificada",
+      "noBikesText": "Estás a un paso de introducir tu primera bicicleta y asegurarte su propiedad con la tecnología Blockchain dentro de la Comunidad All In Biking",
+      "notVerified": "Sin verificar",
+      "otherUserRecomendation": "Este usuario no tiene bicicletas registradas",
+      "recomendation": "Aún no tienes bicicletas registradas",
+      "register": "Registrar aquí ",
+      "registered": "Registrado",
+      "registerNewBike": "Añadir bicicleta",
+      "screenRegisterBike": "Pantalla de registro bicicleta",
+      "success": "Se ha creado correctamente",
+      "verified": "Verificada el",
+      "view": "Ver"
+    },
+    "graph": {
+      "avg": "Media",
+      "height": "Altura",
+      "max": "Máximo",
+      "min": "Mínimo",
+      "summary": "Resumen",
+      "velocity": "Velocidad"
+    },
+    "groupDetails": {
+      "activities": "Actividades",
+      "addButton": {
+        "addMembers": "Añadir miembros",
+        "createPost": "Crear publicación",
+        "createPostInProfile": "Publicar en mi perfil",
+        "createPostInProfileAppBar": "Publicar",
+        "createRide": "Crear salida grupal"
+      },
+      "appBar": "Volver",
+      "back": "Volver",
+      "rideGallery": "Galería de salidas",
+      "createdModal": {
+        "clubTitle": "Club creado",
+        "groupTitle": "Grupeta creada",
+        "inviteButton": "Invitar",
+        "sendButton": "Enviar a mis amigos",
+        "subtitle": "¡Comparte con tus amigos y diviértete!"
+      },
+      "podium": {
+        "title": "Podios",
+        "points": "Puntos",
+        "distanceTitle": "Distancia",
+        "distance": "Distancia (km)",
+        "altitudeTitle": "Ascenso",
+        "altitude": "Ascenso (m)",
+        "weekly": "Últimos 7 días",
+        "monthly": "Últimos 30 días",
+        "quarterly": "Últimos 90 días",
+        "season": "Temporada",
+        "addAMember": "Invita a un amigo",
+        "shareGroup": "Comparte el grupo",
+        "position": "Posición",
+        "user": "Usuario",
+        "showMoreResults": "Mostrar más resultados",
+        "comingSoon": "Próximamente"
+      },
+      "kpiLabel": {
+        "avgSpeed": "Velocidad\nmáxima / 7 días",
+        "distance": "Recorrido\nacumulado / 7 días",
+        "totalTime": "Tiempo\nacumulado / 7 días",
+        "maxDistance": "Distancia\nmáxima / 7 días"
+      },
+      "reportGroup": {
+        "error": "Se ha producido un error al reportar el grupo",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar grupo",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Enviaremos la información del grupo a nuestro equipo de soporte. Ningún participante será notificado sobre esta decisión.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "createRideButton": "Planificar una salida",
+      "deleteError": "Se ha producido un error al eliminar el grupo, por favor, inténtalo más tarde",
+      "deletePending": "Eliminar solicitud",
+      "deletePost": "Eliminar publicación",
+      "editPost": "Editar publicación",
+      "deletePostError": "Se ha producido un error al eliminar la publicación",
+      "deletePostSuccess": "La publicación se ha eliminado correctamente",
+      "deleteSuccess": "El grupo se ha borrado correctamente",
+      "distanceKpi": "Distancia total",
+      "followButton": "Seguir",
+      "followButtons": {
+        "join": "Solicitar acceso",
+        "loading": "Enviando...",
+        "requestSent": "Solicitud enviada",
+        "settings": "Ajustes",
+        "error": "Ha ocurrido un error, solicitar otra vez"
+      },
+      "frontpage": "Portada",
+      "frontpageTab": {
+        "and": "y",
+        "createDate": "Creación",
+        "description": "Descripción",
+        "gravel": "Gravel",
+        "groupcyclingtypes": {
+          "gravel": "Gravel",
+          "highway": "Carretera",
+          "mountain": "Montaña",
+          "triathlon": "Triatlon",
+          "urban": "Urbano"
+        },
+        "highway": "",
+        "mountain": "Montaña",
+        "readMore": "Leer completa",
+        "rideTypes": "Tipos de cicilismo",
+        "road": "Carretera",
+        "triathlon": "Triatlon / Duatlon",
+        "unknown": "Desconocido",
+        "urban": "Urbano / Paseo"
+      },
+      "galleryMore": "más",
+      "groupInfo": {
+        "club": "Club federado",
+        "creation": "Creación",
+        "cyclingTypes": "Tipos de ciclismo",
+        "description": "Descripción",
+        "group": "Grupeta",
+        "readAll": "Leer completa",
+        "readLess": "Ocultar",
+        "title": "Información del grupo"
+      },
+      "errorGetPost": "Fallo al pedir las publicaciones",
+      "reportComment": {
+        "error": "Se ha producido un error al reportar el comentario",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": {
+          "reportComment": "Reportar comentario",
+          "deleteComment": "Eliminar comentario",
+          "editComment": "Editar comentario"
+        },
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Reenviaremos el comentario a nuestro equipo de soporte. El propietario del comentario no será notificado sobre tu acción.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "groupMap": {
+        "filter": {
+          "title": "Selecciona los tipos de ciclismo de tu interes",
+          "types": {
+            "gravel": "Gravel",
+            "mountain": "Montaña",
+            "other": "Otro",
+            "road": "Carretera",
+            "tour": "Urbano/Paseo",
+            "triathlon": "Triatlon"
+          }
+        },
+        "groupCardButtons": {
+          "admin": "Eres administrador",
+          "member": "Eres miembro",
+          "none": "Ver grupo"
+        },
+        "groupFilter": {
+          "title": "Selecciona los grupos que quieres ver en el mapa.",
+          "types": {
+            "club": "Clubs federados",
+            "group": "Grupetas y clubs"
+          }
+        },
+        "totalGroups": "Ver {nGroups} grupos",
+        "totalHiddenGroups": "{nGroups} con ubicación oculta",
+        "noGroupsInArea": "No hay grupos en el área",
+        "filteredGroups": "Ver {filteredGroups} grupos de un total de {totalGroups}"
+      },
+      "groupMembers": {
+        "adminRole": "Administrador",
+        "appBar": "Miembros del grupo",
+        "deleteError": "Se ha producido un error al eliminar el usuario",
+        "deleteSuccess": "El usuario ha sido eliminado del grupo correctamente",
+        "deleteUser": "Eliminar del grupo",
+        "deleteUserAlert": "¿Estás seguro que quieres eliminar a <span>{userName}</span> del grupo? El usuario podrá volver a solicitar la unión al grupo.",
+        "member": "Miembro",
+        "members": "Actuales",
+        "moderatorRole": "Moderador",
+        "no": "No",
+        "noRequestsSubtitle": "¡Promociona e invita gente a tu grupo, aquí podrás aceptar a los miembros que quieran ser parte!",
+        "noRequestsTitle": "Aún no hay\nsolicitudes de\n usuarios",
+        "requests": "Solicitudes",
+        "search": "Búsqueda",
+        "userRole": "",
+        "yes": "Sí",
+        "you": "Tú"
+      },
+      "groupPrivacy": {
+        "PRIVATE": "Grupo privado",
+        "PUBLIC": "Grupo público"
+      },
+      "groupStatistics": {
+        "hours": "hs",
+        "kilometers": "kms"
+      },
+      "invite": "Invitar",
+      "join": "Solicitar unirse",
+      "joinGroupError": "Se ha producido un error al unirse al grupo",
+      "joinGroupSuccess": "Acceso solicitado correctamente.",
+      "leaveSuccess": "El grupo se ha abandonado correctamente",
+      "memberButton": "Eres miembro",
+      "memberMenuItems": {
+        "leave": "Dejar de ser miembro",
+        "leaveAdmin": "Abandonar grupo",
+        "share": "Compartir grupo",
+        "see_members": "Ver miembros"
+      },
+      "members": "Miembros",
+      "membersKpi": "Miembros",
+      "membersText": "{nMembers} miembros",
+      "moreDetails": {
+        "anybodyCanView": "Cualquier tipo de usuarios",
+        "onlyMembers": "Solo miembros",
+        "privateClub": "Club privado",
+        "privateGroup": "Grupo privado",
+        "publicClub": "Club público",
+        "publicGroup": "Grupo público"
+      },
+      "newNotifications": "{nNotifications} notificaciones nuevas",
+      "newPost": "Nuevo post",
+      "newPostButton": "Escribe un anuncio...",
+      "newRide": "Nueva salida de Grupo",
+      "noFriends": {
+        "button": "Invitar amigos",
+        "title": "¡Invita a otros usuarios y empieza a competir con ellos!"
+      },
+      "noPostText": "Este grupo no ha publicado nada",
+      "noRides": {
+        "createPost": "Crear publicación",
+        "title": "Empieza a conectar con tu comunidad, comparte publicaciones"
+      },
+      "optionsMenu": {
+        "delete": "Eliminar grupo",
+        "deleteCancel": "No",
+        "deleteConfirm": "Sí",
+        "isFavoriteGroup": "Grupo favorito",
+        "isFavouriteClub": "Club favorito",
+        "makeFavorite": "Convertir en grupo favorito",
+        "makeFavoriteClub": "Convertir en club favorito",
+        "deleteConfirmText": "¿Estás seguro que quieres eliminar este grupo?",
+        "leaveConfirmText": "¿Estás seguro que deseas abandonar el grupo? Tus privilegios se transferirán al usuario con mayor antigüedad del grupo.",
+        "edit": "Editar grupo",
+        "members": "Ver información",
+        "share": "Compartir grupo",
+        "title": "Opciones de grupo",
+        "see_list_members": "Lista de miembros"
+      },
+      "ownerCards": {
+        "createPostButton": "Crear publicación",
+        "createPostSubtitle": "Comienza dando vida a este Grupo para que capte la atención de la gente",
+        "createPostTitle": "Crea publicaciones u organiza salidas",
+        "inviteMembersButton": "Invitar a gente",
+        "inviteMembersSubtitle": "Un grupo en el que estás solo tú no tiene gracia. ¡Invitemos a gente para que lo conozcan!",
+        "inviteMembersTitle": "Invita a miembros"
+      },
+      "pendingAccess": "Acceso solicitado",
+      "pendingButton": "Solicitado",
+      "positionKpi": "Posición",
+      "postBoardTitle": "Tablón",
+      "posts": "Publicaciones",
+      "privateGroupSubtitle": "La persona que lo administra debe invitarte, o aceptar tu solicitud, para que puedas ver su contenido",
+      "privateSubtitle": "Este grupo es privado, solicita acceso para ver su actividad, y sus convocatorias ",
+      "privateGroup": "Grupo privado",
+      "privateClub": "Club privado",
+      "privateTitle": "Este grupo ha marcado su perfil como <span>privado</span>.",
+      "requestAccess": "Solicitar acceso",
+      "requests": "Solicitudes",
+      "rides": "Salidas",
+      "ridesKpi": "Salidas Finalizadas",
+      "ridesTab": {
+        "noRidesButton": "Crear salida de grupo",
+        "noRidesContent": "¡No pierdas la oportunidad de planificar y disfrutar de aventuras inolvidables. Planifica tu próxima salida!",
+        "noRidesTitle": "¡Aún no tienes salidas realizadas!",
+        "title": "Salidas"
+      },
+      "seeMore": "más",
+      "statistics": "Estadísticas",
+      "statisticsButton": "Ver todas las estadísticas",
+      "statisticsTab": {
+        "title": "Estadísticas"
+      },
+      "upcomingRidesKpi": "Próximas",
+      "finishedRidesKpi": "Realizadas",
+      "viewMap": "Ver mapa",
+      "wallTab": {
+        "emptyWall": "¡Este grupo aún no ha publicado nada!",
+        "membersButton": "Invitar a gente",
+        "membersContent": "Un grupo en el que estás solo tú no tiene gracia. ¡Invitemos a gente para que lo conozcan!",
+        "membersTitle": "Invita a miembros",
+        "publicationsButton": "Crear publicación",
+        "publicationsContent": "Comienza dando vida a este Grupo para que capte la atención de la gente",
+        "publicationsTitle": "Crea publicaciones u organiza salidas",
+        "title": "Muro"
+      },
+      "watch": "Ver"
+    },
+    "groupNotifications": {
+      "accept": "Aceptar",
+      "accepted": "Aceptado",
+      "appBar": "Notificaciones del grupo",
+      "joinRequest": "Ha solicitado unirse al grupo",
+      "noNotifications": "Aún no hay novedades en este grupo"
+    },
+    "groupsList": {
+      "appbar": "Clubes",
+      "brandNewTab": {
+        "createGroup": "Crear club",
+        "newsInYourGroups": "Novedades de tus clubes",
+        "noNews": "No hay ninguna novedad",
+        "title": "Muro"
+      },
+      "discoverTab": {
+        "change": "Cambiar",
+        "groupsInYourArea": "Clubes en tu zona",
+        "noDiscoverGroups": "No hay clubes en tu zona",
+        "recommendedClubs": "Clubs que podrían interesarte",
+        "title": "Descubrir"
+      },
+      "myGroupsTab": {
+        "addGroup": "Crear grupo o grupeta",
+        "createGroup": "Crear club o grupeta",
+        "emptyDescription": "Únete a un grupo ya creada o crea tu propia grupeta e invita amigos.",
+        "emptyTitle": "Aún no te has unido a ningún grupo",
+        "joinGroup": "Descubrir",
+        "noAdminGroupDescription": "Crea tu propia grupeta e invita amigos.",
+        "noAdminGroupTitle": "Aún no has creado ningún grupo",
+        "noFinishedRidesButton": "Crear salida",
+        "noFinishedRidesDescription": "¿A qué esperas a disfrutar de tu club o grupeta  en All In Biking?",
+        "noFinishedRidesTitle": "Aún no se ha realizado ninguna salida",
+        "noGroupsDescription": "Únete a un grupo, club o grupeta y empieza a disfrutar.",
+        "noGroupsTitle": "Aún no te has unido a ningún grupo",
+        "noManagedGroups": "No administras ningún grupo",
+        "noMyGroups": "No perteneces a ningún grupo",
+        "title": "Mis Grupos",
+        "youAreAMember": "Eres miembro",
+        "youAreAnAdmin": "Administrados por ti"
+      },
+      "ridesTab": {
+        "title": "Últimas salidas creadas"
+      },
+      "searchGroups": "Buscar un club",
+      "searchLabel": "Buscar por nombre"
+    },
+    "home": {
+      "acceptButton": "Vamos",
+      "bikeDetailIncomplete": "Bicicleta con detalles incompletos",
+      "bikeDetailMoreSecure": "Cuantos más detalles incluyas de tu bici, más segura estará.",
+      "building": "En construcción",
+      "buildingInThisFeature": "Estamos trabajando para ofrecerte más funcionalidades.",
+      "cards": {
+        "button": "Crear",
+        "createRideBody": "¡Podreis comparar vuestras estadísticas y divertiros!",
+        "createRideTitle": "Crea una salida en All In Biking y comienza a disfrutar con tus amigos",
+        "reminderButton": "Ver salida",
+        "reminderRideBody": "A las {hour}. Si no puedes asistir, recuerda indicarlo en la salida.",
+        "reminderRideTitle": "Mañana tienes una\nsalida de {type}"
+      },
+      "addButton": {
+        "createPost": "Publicación",
+        "createClub": "Club",
+        "createRide": "Salida",
+        "createBike": "Bicicleta"
+      },
+      "completeNow": "Completar ahora",
+      "connectWithProviders": "Conecta tu dispositivo para conseguir logros y recompensas.",
+      "goToConnect": "Conectar",
+      "connectWithStravaButton": "Integrar ahora",
+      "connectWithStravaSubtile": "Completa tu perfil con las estadisticas de tus salidas registradas con Strava, Garmin, etc.",
+      "connectWithStravaTitle": "Intégrate con tu aplicación preferida",
+      "foundFriends": "Invita a tus amigos a\nAll In Biking",
+      "garageSecitionCard": "Garaje",
+      "garageSecitionCardText": "Crea tu primera bici",
+      "garageSecitionCardTextBikeNumer": "{numberBikes} Bicicletas registradas",
+      "garageSecitionCardTextOneBike": "1 Bicicleta registrada",
+      "increaseRed": "Haz que tus amigos formen parte de la mayor comunidad ciclista del mundo.",
+      "lastUpdates": "Últimas actualizaciones",
+      "leftInfoTitle": "Sugerencias para tí",
+      "noReportsBody": "Parece que te encuentras en una zona\nsegura. No hay ningún robo reportado\nen esta zona.",
+      "noReportsTitle": "Sin robos\n en tu zona",
+      "noRidesButton": "Planificar una salida",
+      "noRidesContent": "¡Convoca ahora una salida y empieza a disfrutar de la Comunidad All In Biking!",
+      "noRidesTitle": "Sin salidas\nen tu zona",
+      "noStealReportsButton": "Alertar robo",
+      "noStealReportsText": "No se detectaron robos en tu ubicación. Si eres víctima de un robo, por favor alértalo inmediatamente para recibir ayuda de la Comunidad.",
+      "noStealReportsTitle": "No hay alertas de robo",
+      "reportSecitionCard": "Alertas de robo",
+      "reportSecitionTitle": "Últimos robos en tu zona",
+      "rideNow": "Salir ahora",
+      "ridesInvitationSectionTitle": "Últimas invitaciones a salidas",
+      "ridesZoneTitle": "Salidas en tu zona",
+      "searchNow": "Invitar ahora",
+      "seeAll": "Ver todo",
+      "seeMore": "Ver más",
+      "seeProfile": "Ver perfil",
+      "subtitle": "¡Coge tu bici y sal a darlo todo!",
+      "subtitleCloud": "¡Atento por si caen algunas gotas!",
+      "subtitleNight": "¡No olvides tus luces al salir!",
+      "subtitlePartlyCloud": "¡Siente el viento en la cara!",
+      "subtitleRain": "¡Piensa en la próxima salida!",
+      "summonARide": "Convocar una salida",
+      "title": "Disfruta del día",
+      "titleCloud": "Que las nubes no te frenen",
+      "titleNight": "Disfruta de las estrellas",
+      "titlePartlyCloud": "Aprovecha el día",
+      "titleRain": "No parece el mejor día...",
+      "unverifiedProfileText": "Para poder alertar el robo de tu bici, participar en salidas y mucho más; debes verificar tu identidad.",
+      "unverifiedProfileTitle": "Identidad sin verificar",
+      "verifyProfileButton": "Verificar ahora",
+      "welcome": "Bienvenido, \n",
+      "wellcomePopupText": "Ya estamos aquí pero… ¡Salimos con ruedines! \n\n Disfruta de nuestra app y no dudes en enviarnos tus comentarios para seguir mejorándola y pulir cada detalle.",
+      "wellcomePopupTitle": "¡Bienvenido a All In Biking!",
+      "whatYouWantToDo": "¿Qué quieres hacer?"
+    },
+    "trophy": {
+      "sponsorText": "Patrocinado por:",
+      "appBar": "Trofeos",
+      "returnAppBar": "Volver",
+      "levelText": "Nivel",
+      "edit": "Editar",
+      "add": "Añadir",
+      "newReward": "Nuevo logro:",
+      "acceptReward": "Aceptar",
+      "rewardClaimedDescription": "Has obtenido una recompensa por tu esfuerzo",
+      "noTrophy": "No has ganado ningún trofeo",
+      "loadingTrophy": "Cargando tus trofeos...",
+      "congratsText": "¡Enhorabuena!",
+      "trophyToClaim": "Nuevo nivel conseguido",
+      "levelCompleted": "Completado",
+      "claimRewardError": "Ha ocurrido un error al reclamar la recompensa",
+      "myTrophys": "Mis trofeos",
+      "claimReward": "Reclamar",
+      "descriptionTypes": {
+        "newRegister": "¡Bienvenido a All In Biking! Has completado tu registro",
+        "newBikeRegister": "¡Enhorabuena! Has registrado tu primera bicicleta",
+        "providersSync": "¡Enhorabuena! Has sincronizado tu primera salida",
+        "updateImageProfile": "¡Enhorabuena! Has actualizado tu imagen de perfil",
+        "joinGroup": "¡Enhorabuena! Te has unido a tu primer grupo",
+        "tourFrance": "¡Enhorabuena! Has completado tu primer Tour de Francia"
+      },
+      "metricsType": {
+        "distance": " km",
+        "uniqueDistance": " km en una única salida",
+        "uniqueAltitude": " m+ en una única salida",
+        "rides": "salidas",
+        "post": "publicación",
+        "interaction": "interacciones",
+        "time": " h",
+        "calories": " kcal"
+      }
+    },
+    "identifyYourBikeScreen": {
+      "canvasText": "Comprueba que el número de serie esté limpio y no exista ningún elemento que impida su correcta lectura.",
+      "editTitle": "Vas a modificar el número de serie actual de la bicicleta",
+      "identifyYourBike": "Identificar número de serie",
+      "scanQROrBarcode": "Escanear QR o Código de barras",
+      "subTitle": "Por tu seguridad, comprueba si la bicicleta está registrada en la Comunidad All In Biking",
+      "title": "Comprueba el número de serie de la bicicleta"
+    },
+    "inserManualSerialNumber": {
+      "alertContent": "Antes de guardar, comprueba que el número de serie introducido es el correcto. Si no, puede que tu registro pase al departamento de incidencias.",
+      "alertTitle": "¡Asegúrate!",
+      "appbar": "Introducir manualmente",
+      "backLabel": "Atrás",
+      "confirmLabel": "Es correcto",
+      "fieldTitle": "Número de serie",
+      "title": "INTRODUCE MANUALMENTE EL NÚMERO DE SERIE"
+    },
+    "insertQrSerialNumber": {
+      "appbar": "Con QR o código de barras",
+      "title": "Acabas de escanear el número de serie de la bicicleta"
+    },
+    "internet": {
+      "disconnectMessage": "Sin conexión a internet"
+    },
+    "investmentCard": {
+      "button": "Más información"
+    },
+    "inviteFriendsGroup": {
+      "acceptButton": "Invitar",
+      "appBar": "Invitar a participantes",
+      "cancelButton": "Ahora no",
+      "friendsTitle": "Tus amigos",
+      "searchByName": "Buscar por nombre",
+      "searchLabel": "Buscar por nombre",
+      "selectedUsersLabel": "{nRiders} riders seleccionados"
+    },
+    "linkApps": {
+      "Appbar": "Vincular APPs",
+      "cancelButton": "Cancelar",
+      "confirmButton": "Confirmar",
+      "disconnect": "Desconectar",
+      "disconnectText": "¿Seguro que quieres desconectar?",
+      "error": "Error al vincular",
+      "errorDisconnect": "Error al desconectar",
+      "Garmin": "Garmin",
+      "GoogleFit": "Google Fit",
+      "Huawei": "Huawei",
+      "noFavouritesProvider": "Selecciona tu proveedor favorito desde el que exportarás tus salidas. Podrás cambiarlo en cualquier momento y todas las veces que necesites",
+      "pageTitle": "Vinculaciones con APPs",
+      "providerListLabel": {
+        "subtitleFirstPart": "Tomaremos los datos de tus salidas desde la ",
+        "subtitleSecondPart": "aplicación predeterminada ",
+        "subtitleThirdPart": "que selecciones."
+      },
+      "Salud": "Salud",
+      "selectFavouriteProvider": "Aplicación predeterminada",
+      "soon": "Próximamente",
+      "Strava": "Strava",
+      "success": "Vinculación exitosa"
+    },
+    "loading...": "Cargando...",
+    "location": {
+      "cancelLabel": "Cancelar",
+      "cantDetectedGps": "¡No te hemos podido encontrar! Selecciona tu ubicación en el mapa",
+      "configLabel": "Configurar",
+      "continue": "Continuar",
+      "enableLabel": "Habilitar",
+      "gpsDisabled": "La ubicación de tu dispositivo está desactivada. Considera activarla para disfrutar de todas las características de All In Biking",
+      "informationGps": "All In Biking recopila datos de localización para permitir el seguimiento de la actividad física incluso cuando la aplicación está cerrada o no se utiliza.",
+      "permissionNotAllowed": "Habilitar el permiso de ubicación te facilitará las cosas.",
+      "SearchUbication": "Buscar una ubicación",
+      "weNeedPermission": "Se necestian permisos GPS",
+      "withoutGps": "Sin señal GPS"
+    },
+    "modal": {
+      "aceptButton": "Aceptar",
+      "button": "Ok",
+      "cancelButton": "Cancelar",
+      "content": "Estamos trabajando en ello, pronto podrás contar con esta funcionalidad.",
+      "title": "Próximamente"
+    },
+    "navBar": {
+      "centralMenu": "Menú General",
+      "community": "Comunidad",
+      "garage": "Garaje",
+      "home": "Inicio",
+      "marketplace": "Marketplace",
+      "menu": "Menú",
+      "rides": "Salidas",
+      "security": "Seguridad",
+      "you": "Mi área"
+    },
+    "notifications": {
+      "channel": "Canal para notificaciones",
+      "checkAllButtonText": "Marcar todas",
+      "uncheckAllButtonText": "Quitar selección",
+      "emptyText": "No tienes notificaciones",
+      "deleteDialog": {
+        "cancelButton": "Cancelar",
+        "content": "Esta seguro de eliminar la notificación?",
+        "continueButton": "Eliminar"
+      },
+      "title": "Notificaciones"
+    },
+    "onboarding": {
+      "appbarTitle": "All In Biking",
+      "firstPage": {
+        "button": {
+          "next": "Siguiente"
+        },
+        "subtitle": "Sin cuotas mensuales. Utilizar la aplicación siempre será grauito.",
+        "title": "Gratis"
+      },
+      "firstPageB": {
+        "subtitle": "Únete a la Comunidad",
+        "title": "CONECTA"
+      },
+      "modal": {
+        "aceptButton": "Aceptar",
+        "button": "Ok",
+        "cancelButton": "Cancelar",
+        "content": "Estamos trabajando en ello, pronto podrás contar con esta funcionalidad.",
+        "marketplace": "Marketplace",
+        "myMetrics": "Mis métricas",
+        "rides": "Salidas",
+        "soon": "Próximamente",
+        "title": "No disponible"
+      },
+      "secondPage": {
+        "button": {
+          "back": "Anterior",
+          "next": "Siguiente"
+        },
+        "subtitle": "Pónselo difícil a los ladrones asegurando tu bicicleta en nuestra blockchain.",
+        "title": "Seguro"
+      },
+      "secondPageB": {
+        "subtitle": "Comparte tus experiencias",
+        "title": "DISFRUTA"
+      },
+      "signUp": "Regístrate",
+      "thirdPage": {
+        "button": {
+          "back": "Anterior",
+          "next": "Comenzar"
+        },
+        "subtitle": "Disfruta de salidas y retos con amigos y el resto de la Comunidad.",
+        "title": "Divertido"
+      },
+      "thirdPageB": {
+        "subtitle": "Seguridad para tí y tu bici",
+        "title": "PROTÉGETE"
+      },
+      "skipText": "Saltar"
+    },
+    "onBoarding": {
+      "allowPermissionAccessButton": "Permitir acceso",
+      "beginButton": "Comenzar",
+      "doLaterButton": "Más tarde",
+      "dontAllowPermissionAccessButton": "No permitir",
+      "firstViewSubtitle": "Descubre la mejor comunidad ciclista. Únete a salidas, crea grupos y comparte tus logros.",
+      "firstViewTitle": "Conéctate\ny comparte",
+      "nextStepButton": "Siguiente",
+      "registerBikeButton": "¡Registrar ahora!",
+      "secondViewSubtitle": "Compite en grupo por territorios, desbloquea logros y gana recompensas. Haz que cada pedalada cuente en tu ciudad y más allá.",
+      "secondViewTitle": "Sé el rey de\ntu entorno",
+      "thirdViewSubtitle": "Protege tu bici con nuestra blockchain y utiliza la comunidad para recuperar tu bici en caso de robo. Recibe alertas de seguridad y mantente a salvo.",
+      "thirdViewTitle": "Ciclismo\nseguro"
+    },
+    "onBoardingCompleteUserData": {
+      "button": {
+        "username": "Comenzar"
+      },
+      "error": {
+        "alreadyExists": "El alias ya existe",
+        "username": "El alias no es válido"
+      },
+      "label": {
+        "city": "Ciudad",
+        "country": "País",
+        "errorText": "Ingrese entre 4 y 20 caracteres alfanuméricos. Máximo 1 caracter especial. Sin espacios.",
+        "helperText": "*Podrás cambiarlo una vez cada tres meses.",
+        "nickname": "Alias"
+      },
+      "postalCode": "Código Postal",
+      "subtitle": "Introduce el alias con el que te presentas a la Comunidad",
+      "title": "¿cómo deseas que te conozcamos?",
+      "username": "Elige tu alias público"
+    },
+    "onBoardingGPSPermissions": {
+      "subtitle": "Te brindamos la mejor seguridad  en ruta con geolocalización en tiempo real y un seguimiento exhaustivo de tu actividad física",
+      "title": "MI UBICACIÓN"
+    },
+    "onBoardingRegisterBike": {
+      "description": "Registra ahora tu bicicleta en el garaje de All In Biking para reclamar tu propiedad",
+      "title": "¿LISTO PARA RODAR?"
+    },
+    "ownerInformation": {
+      "actions": {
+        "back": "Atrás",
+        "registerAction": "Registrar en blockchain"
+      },
+      "birthDate": "Fecha de nacimiento",
+      "details": {
+        "appBarText": "Resumem",
+        "subTitle": "Revisa los datos y confirma que coinciden con los tuyos",
+        "title": "ATESTADO DE PROPIEDAD",
+        "verifyIdentity": "Verifica tu identidad"
+      },
+      "documentNumber": "Número de documento",
+      "documentType": "Tipo de documento",
+      "identificationDocument": "Documento de identidad",
+      "lastName": "Apellidos",
+      "name": "Nombre",
+      "nationality": "Nacionalidad",
+      "serialNumber": "Número de serie",
+      "verifyDate": "Verificado el "
+    },
+    "pdf": {
+      "buy": "Compra.",
+      "color": "Color.",
+      "mat.": "Mat.",
+      "owner": "Propietario/a.",
+      "serial": "Serie.",
+      "size": "Talla.",
+      "tran": "Tracción.",
+      "year": "Año."
+    },
+    "permissions": {
+      "camera": {
+        "body": "Para escanear códigos y documentos.",
+        "title": "Cámara"
+      },
+      "contacts": {
+        "body": "Para que encuentres rápidamente a las personas que más te importan.",
+        "title": "Contactos"
+      },
+      "localization": {
+        "body": "Para poder mostrarte mapas y recomendarte lugares, grupos y personas cercanas.",
+        "title": "Ubicación"
+      },
+      "pageTitle": "Permisos de dispositivo"
+    },
+    "photoForm": {
+      "addMore": "Añadir más fotos",
+      "appBar": "Añadir fotos",
+      "back": "Detalle 2",
+      "date": "Fotos añadidas el",
+      "delete": "Borrar foto",
+      "explanationText": "La vista lateral derecha será la foto por defecto",
+      "front": "Detalle 1",
+      "left": "Izquierda",
+      "location": "Tomadas en ",
+      "right": "Derecha",
+      "save": "Ir al garaje",
+      "savePhotos": "Guardar fotos",
+      "subtitle": "Solicitaremos permiso para usar tu cámara para armar la galería de imágenes de tu bici",
+      "title": "Añade fotografías",
+      "uploadCamera": "Sacar foto",
+      "uploadGallery": "Subir foto de galería"
+    },
+    "postDetails": {
+      "appBar": "Volver",
+      "backToTable": "Volver al tablón",
+      "commentsNumberText": "Ver los {nComments} comentarios",
+      "commentsNumberTextNewUI": "{nComments} comentarios",
+      "commentsNumberTextNewUISingular": "{nComments} comentario",
+      "commentsText": "Comentar",
+      "commentsHintText": "Añade un comentario...",
+      "goBack": "volver",
+      "important": "Importante",
+      "unknownUser": "Usuario no encontrado",
+      "likesNumberText": "{nLikes} me gusta",
+      "answerCommentText": "{value} Respuestas",
+      "answerShowAllCommentText": "Mostrar {value} respuesta más",
+      "answerHideAllCommentText": "Ocultar respuestas",
+      "answeringCommentText": "Respondiendo a ",
+      "answerSingularCommentText": "{value} Respuesta",
+      "answerInPastText": "Ha Respondido",
+      "likeText": "Me gusta",
+      "answerText": "Responder",
+      "nextPost": "Siguiente post",
+      "postedDate": "Posteado el\n{date}",
+      "shareNumberText": "{nShares} veces compartido",
+      "sharePost": "Revisa este post en All In Biking",
+      "shareText": "Compartir",
+      "errorComments": "Fallo al pedir los comentarios",
+      "noComments": "No hay comentarios",
+      "unauthorizedCardSubtitle": "La persona que lo administra debe invitarte, o aceptar tu solicitud, para que puedas ver su contenido",
+      "unauthorizedCardTitle": "Este post pertecene a un Grupo privado del cual no eres miembro"
+    },
+    "postLikes": {
+      "appBar": "Me gusta"
+    },
+    "profile": {
+      "acceptFriend": "Aceptar amigo",
+      "alreadyFriend": "Sois Amigos",
+      "perDay": "por día",
+      "perWeek": "semanal",
+      "perMonth": "mensual",
+      "labelWeek": "{value} semana",
+      "ascent": "Ascenso",
+      "bikes": "Bicicletas",
+      "outstandingTitle": "Destacado",
+      "blockFriend": "Solicitar Amistad",
+      "biomechanics": "Biomecanica",
+      "cancelFriend": "Cancelar invitación",
+      "changeImage": "Cambiar imagen",
+      "comments": "Comentarios",
+      "connect": "estais conectados",
+      "userActivity": "Mi actividad",
+      "otherUserActivity": "Su actividad",
+      "connected": "Conectado",
+      "publicKpiCard": "Público",
+      "privateKpiCard": "Privado",
+      "connectUser": "Conectar",
+      "kpiMenu": {
+        "metrics": "Métricas",
+        "trophy": "Trofeos",
+        "remove": "Quitar"
+      },
+      "cyclingRange": {
+        "cadete": "Cadete",
+        "elite": "Élite",
+        "junior": "Junior",
+        "master30": "Máster 30",
+        "master40": "Máster 40",
+        "master50": "Máster 50",
+        "master60": "Máster 60",
+        "senior": "Senior",
+        "sub23": "Sub'23"
+      },
+      "cyclingTypes": {
+        "GRAVEL": "Gravel",
+        "HIGHWAY": "Carretera",
+        "MOUNTAIN": "Montaña",
+        "OTHERS": "Otros",
+        "URBAN": "Urbano"
+      },
+      "cyclistRange": "Rango ciclista",
+      "cyclistSheet": "Ficha ciclista",
+      "deleteError": "Error al eliminar la cuenta de usuario",
+      "deleteSuccess": "Solicitud de amistad cancelada",
+      "sendFriendRequestSuccess": "Solicitud de amistad enviada",
+      "deleteFriend": "Eliminar amigo",
+      "difficulty": "Dificultad",
+      "distance": "Distancia",
+      "seeAllKpis": "Ver todas",
+      "editError": "Error al actualizar el perfil",
+      "editSuccess": "Perfil actualizado correctamente",
+      "errorconection": "Error al conectar",
+      "files": "Desde archivos",
+      "filterUser": "Filtrar",
+      "finished": "Realizadas",
+      "friends": "RIDERS",
+      "fromCamera": "Sacar foto",
+      "fromStorage": "Subir foto",
+      "groupsSectionTitle": "Clubs y grupetas",
+      "highway": "carretera",
+      "inviteFriend": "Solicitar Amistad",
+      "inviteSuggestedFriend": "Amistad",
+      "unblock": "Desbloquear",
+      "months": {
+        "january": "Enero",
+        "february": "Febrero",
+        "march": "Marzo",
+        "april": "Abril",
+        "may": "Mayo",
+        "june": "Junio",
+        "july": "Julio",
+        "august": "Agosto",
+        "september": "Septiembre",
+        "october": "Octubre",
+        "november": "Noviembre",
+        "december": "Diciembre"
+      },
+      "daysWeek": {
+        "monday": "Lunes",
+        "tuesday": "Martes",
+        "wednesday": "Miércoles",
+        "thursday": "Jueves",
+        "friday": "Viernes",
+        "saturday": "Sábado",
+        "sunday": "Domingo"
+      },
+      "kpiLabel": {
+        "avgSpeed": "Velocidad\nmáxima / 7 días",
+        "trulyAvgSpeed": "Velocidad promedio diaria",
+        "distance": "Recorrido\nacumulado / 7 días",
+        "totalTime": "Tiempo\nacumulado / 7 días",
+        "averageUnevenness": "Desnivel\nacumulado / 7 días",
+        "caloriesAccumulated": "Calorías\nAcumuladas / 7 días",
+        "averageWatts": "W\nmáximos / 7 días",
+        "averageHeartRate": "Pulsaciones\nmáximas / 7 días",
+        "finishedRides": "Salidas\nrealizadas / 7 días",
+        "createdArticles": "Artículos\npublicados / 7 días"
+      },
+      "kpiTitle": {
+        "avgSpeed": "Rápido como el viento",
+        "distance": "Gastando llantas",
+        "totalTime": "Tiempo bien invertido",
+        "averageUnevenness": "Rey de las alturas",
+        "caloriesAccumulated": "En buena forma",
+        "averageWatts": "Fuerte como un rayo",
+        "averageHeartRate": "Con ritmo firme",
+        "finishedRides": "Nº de salidas realizadas",
+        "createdArticles": "Creador de contenido"
+      },
+      "kpiSubtitle": {
+        "avgSpeed": "velocidad máxima",
+        "trulyAvgSpeed": "velocidad promedio",
+        "averagePerRides": "{value} media {time}",
+        "averagePerRide": "media {time}",
+        "maxPerRide": "máxima {time}",
+        "finishedRides": "Salidas realizadas",
+        "createdArticles": "Interacciones en artículos"
+      },
+      "kpiSubtitle1": {
+        "avgSpeed": "Máxima velocidad alcanzada en tus entrenamientos ",
+        "trulyAvgSpeed": "Velocidad promedio alcanzada en tus entrenamientos",
+        "distance": "Realiza rutas de muchos kilómetros llenas de descubrimientos.",
+        "totalTime": "Disfruta horas y horas montando en bici",
+        "averageUnevenness": "Alcanza un desnivel medio impresionante en tus salidas",
+        "caloriesAccumulated": "Reconoce el esfuerzo físico durante las salidas",
+        "averageWatts": "Mide la potencia máxima que eres capaz de desarrollar",
+        "averageHeartRate": "Controla tus picos máximos de pulsaciones",
+        "finishedRides": "Encuentra tu rarito para entrenar",
+        "createdArticles": "Publica, comparte o comenta una cantidad notable de artículos relacionados con el ciclismo."
+      },
+      "kpiPrivacyDialog": {
+        "makePublicText": "¿Quieres hacer tu métrica pública? Al mostrar tus estadísticas, todos podrán ver tus datos de rendimiento. Otros usuarios podrán visualizar esta información en tu perfil.",
+        "makePrivateText": "¿Quieres hacer tus métricas privadas? Al ocultar tus estadísticas, solo tú podrás ver tus datos de rendimiento. Otros usuarios no podrán visualizar esta información en tu perfil.",
+        "makePublicAccept": "Hacer pública",
+        "makePrivateAccept": "Hacer privada",
+        "makePublicCancel": "Cancelar",
+        "makePrivateCancel": "Cancelar"
+      },
+      "shareKpi": "Compartir",
+      "publicKpi": "Publicar",
+      "connectYourDevice": "Conecta tu dispositivo para ver los datos de tus salidas y estadísticas",
+      "labelButton": "Publicación",
+      "license": "Licencia federativa",
+      "likes": "Me gustas",
+      "linksTitle": "Enlaces",
+      "medicalInsurance": "Seguro médico",
+      "mountain": "montaña",
+      "myProfile": "Mi perfil",
+      "cancelPendingRequest": {
+        "modalTitle": "SOLICITUD DE AMISTAD PENDIENTE",
+        "modalAccept": "Quitar",
+        "modalCancel": "Cancelar",
+        "modalContent": "Hay pendiente una solicitud de amistad ¿Deseas quitarla?"
+      },
+      "deleteFriendModal": {
+        "modalTitle": "QUITAR DE TU LISTA DE AMIGOS",
+        "modalContent": "¿Eliminar amigo? No le diremos a {user} que ya no forma parte de tu lista de amigos",
+        "modalAccept": "Eliminar",
+        "modalCancel": "Cancelar"
+      },
+      "menuItems": {
+        "senMessage": "Enviar mensaje",
+        "reportProfile": "Reportar perfil",
+        "block": "Bloquear",
+        "mute": "Silenciar",
+        "unmute": "Desactivar silencio"
+      },
+      "blockUserModal": {
+        "modalContent": "No estará en tu lista de amigos ni podrá enviarte solicitudes de amistad. No le avisaremos que le has bloqueado.",
+        "modalAccept": "Bloquear",
+        "modalCancel": "Cancelar"
+      },
+      "muteUserModal": {
+        "modalContent": "Dejarás de ver sus publicaciones y comentarios. No recibirás alertas de chat ni solicitudes de amistad. No le avisaremos que le has silenciado.",
+        "modalAccept": "Silenciar",
+        "modalCancel": "Cancelar"
+      },
+      "navBar": {
+        "bikes": "Bicicletas",
+        "chat": "Chats",
+        "editChat": "Opciones de chats",
+        "friends": "Amigos",
+        "groups": "Grupos",
+        "rides": "Salidas",
+        "wall": "Muro"
+      },
+      "noData": "Sin datos",
+      "noVerifiedButton": "Verificar ahora",
+      "noVerifiedSubtitle": "Para poder completar el registro de bicicletas y participar en algunas salidas debes verificar tu identidad",
+      "noVerifiedTitle": "Identidad sin verificar",
+      "outs": "SALIDAS",
+      "pending": "Pendiente",
+      "pendingFriend": "Pend.",
+      "principalUbication": "Ubicación principal",
+      "privateTitle": "Este usuario ha marcado su perfil como privado.",
+      "profileTab": {
+        "bikeType": "Tipos de ciclismo",
+        "mainCity": "Ciudad principal",
+        "times": "Tiempos",
+        "totalDistance": "Distancia total",
+        "totalTime": "Tiempo total"
+      },
+      "rejectFriend": "Rechazar",
+      "reportReasons": {
+        "bullying": "Acoso",
+        "identity_theft": "Suplantación de identidad",
+        "inappropriate_behaviour": "Comportamiento inapropiado",
+        "inappropriate_content": "Contenido inapropiado",
+        "other": "Por otro motivo...",
+        "scam": "Fraude",
+        "spam": "Spam"
+      },
+      "reportUser": {
+        "error": "Se ha producido un error al reportar el usuario",
+        "invalid": "mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar usuario",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "reportProfile": {
+        "error": "Se ha producido un error al reportar el perfil",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar perfil",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Se enviará a nuestro soporte la información del perfil de usuario. No se notificará a ningún participante sobre esta decisión",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "reportPost": {
+        "error": "Se ha producido un error al reportar la publicación",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar publicación",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Reenviaremos la información de la publicación y su autor a nuestro equipo de soporte. El propietario de la publicación no será notificado sobre tu acción.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "riders": "Ciclistas",
+      "rides": "Salidas",
+      "saveChanges": "Guardar cambios",
+      "sendInvite": "Has solicitado conectar",
+      "settings": "Ajustes",
+      "speed": "Vel. media",
+      "statisticsUser": "ESTADISTICAS",
+      "time": "Tiempo",
+      "upcoming": "Próximas",
+      "userFriends": "Amigos",
+      "userName": "Nombre de usuario"
+    },
+    "profileImage": {
+      "appBar": "Imagen de perfil"
+    },
+    "purchaseData": {
+      "appbarTitle": "Datos de compra",
+      "buttonLabel": "Siguiente",
+      "comercialLocal": "Local comercial",
+      "particular": "Particular",
+      "purchaseDate": "Fecha de compra",
+      "seller": "Vendedor",
+      "uploadSubtitle": "Ingresa la fecha de la compra de tu bicicleta y el nombre del vendedor donde la compraste.",
+      "uploadTitle": "Datos de Compra"
+    },
+    "recoveredBike": {
+      "appBar": "Bicicleta recuperada",
+      "notNow": "Ahora no",
+      "recovered": "Recuperada",
+      "share": "Compartir aviso en mis redes",
+      "shareMessage": "¡Ya he recuperado mi bici! Me la habían robado, pero gracias a All In Biking puedo volver a disfrutar de ella",
+      "subtitle": "Comparte con la Comunidad, tus amigos y en tus redes que has conseguido recuperarla.",
+      "thisBikeIsRecoveredContent": "Esta bicicleta fue robada pero se ha logrado encontrar",
+      "thisBikeIsRecoveredTitle": "¡Bicicleta recuperada!",
+      "title": "¡Enhorabuena! Nos alegramos infinitamente"
+    },
+    "recoverPassword": {
+      "recoverPasswordCheckEmailEmailCheckedButton": "Ir a inicio",
+      "recoverPasswordCheckEmailEmailMainInfo": "Te hemos enviado a tu email {email} un correo con un enlace de verificación",
+      "recoverPasswordCheckEmailMainTitle": "Verifica tu email",
+      "recoverPasswordCheckEmailNoEmailInfo1": "¿No has recibido el email? Revisa tu carpeta de",
+      "recoverPasswordCheckEmailNoEmailInfo2": "Spam o ",
+      "recoverPasswordCheckEmailNoEmailInfo3": "prueba con otro email",
+      "recoverPasswordEnterEmailMainButton": "Enviar",
+      "recoverPasswordEnterEmailMainInfo": "Introduce a continuación el email asociado a tu cuenta para recibir un correo de verificación.",
+      "recoverPasswordEnterEmailMainTitle": "He olvidado mi contraseña",
+      "recoverPasswordMainTitle": "Recuperación de contraseña",
+      "successButton": "Volver",
+      "successSubtitle": "En un momento te llegará un email a tu correo\n{email}",
+      "successTitle": "Te hemos enviado un email para que establezcas una nueva contraseña"
+    },
+    "referralQrModal": {
+      "content": "Este código QR es el acceso al perfil del usuario. Escanéalo para acceder a su información",
+      "or": "O también",
+      "shareLink": "Comparte en tus redes"
+    },
+    "registerBike": {
+      "advancedDataTable": {
+        "appBar": "Bicicleta creada correctamente",
+        "buttonText": "Ir a Garaje",
+        "text": "La bicicleta se ha creado correctamente y hemos obtenido algunos datos avanzados de sus componentes",
+        "title": "¡Enhorabuena!"
+      },
+      "AdvancedTechnicalInfoTitle": "Datos técnicos avanzados",
+      "allBrands": "Todas las marcas",
+      "basic": "Registro básico de bicicleta",
+      "basicColors": "Colores Basicos",
+      "basicData": "Datos Básicos",
+      "bikeButton": "Ver bicicleta",
+      "bikeGender": "Género",
+      "bikeSubtitle": "Selecciona el tipo de bicicleta según las siguientes categorías",
+      "bikeTitle": "Tipo de bicicleta",
+      "brakeDdisks": "Discos de frenos",
+      "brakes": "Frenos",
+      "brand": "Marca",
+      "cancel": "Cancelar",
+      "cassete": "Cassette",
+      "chain": "Cadena",
+      "changes": "Cambios",
+      "chassis": "Chasis",
+      "closeButtonText": "Entendido",
+      "colors": "Color",
+      "colorsSecondary": "Color secundario",
+      "components": "Componentes",
+      "confirmModal": {
+        "button": "Continuar",
+        "text": "Hemos encontrado más datos técnicos de tu bicicleta y los vamos a incorporar a tu ficha de datos avanzados.\n\nPodrás editarlos en cualquier momento desde Garaje.",
+        "textNew": "Te recomendamos introducir todos los datos de tu bici para que, si ocurre algo o deseas venderla, los usuarios conozcan sus características.",
+        "title": "¡Espera un momento!"
+      },
+      "controls": "Controles",
+      "covers": "Cubiertas",
+      "currentProgress": "% de la ficha\ncompletado",
+      "customText": "Añadir esta marca",
+      "date": "Selecciona una fecha",
+      "derailleur": "Desviador",
+      "documents": "Registro básico de bicicleta",
+      "effects": "Efectos",
+      "exitModal": {
+        "content": "Si sales del formulario de alta se perderán todos los datos que hayas introducido. ¿Deseas salir?",
+        "leftButton": "Salir",
+        "rightButton": "No salir",
+        "title": "ATENCIÓN"
+      },
+      "gender": "Género",
+      "genderOptions": {
+        "man": "Hombre",
+        "unisex": "Unisex",
+        "woman": "Mujer"
+      },
+      "goGarage": "Ir al garaje",
+      "handlebar": "Manillar",
+      "handles": "Manetas",
+      "identitySubtitle": "Completa la Información básica necesaria para dar de alta tu bici",
+      "identityTitle": "Datos básicos",
+      "inputError": {
+        "otherBrand": "Introduce una marca válida",
+        "otherMaterial": "Introduce un material válido",
+        "otherModel": "Introduce un modelo válido",
+        "otherYear": "Introduce un año válido"
+      },
+      "label": {
+        "invalid": "Debe seleccionar esta opción",
+        "technicalInfo": {
+          "brakes": "Frenos",
+          "brand": "Marca",
+          "cassete": "Cassete",
+          "change": "Cambio",
+          "controls": "Control",
+          "cover": "Tapicería",
+          "cranks": "Palancas",
+          "derailleur": "Desviador",
+          "direcction": "Dirección",
+          "firstColor": "Color principal",
+          "fork": "Horquilla",
+          "frame": "Marco",
+          "handlebar": "Manillar",
+          "handles": "Asas",
+          "model": "Modelo",
+          "power": "Potencia",
+          "price": "Precio",
+          "secondColor": "Otro color",
+          "type": "Tipo de bicicleta",
+          "unknown": "Desconocido",
+          "year": "Año"
+        },
+        "verifyProperty": "Confirmo que esta bicicleta es de mi propiedad y que cuento con los documentos necesarios para demostrarlo."
+      },
+      "loadingSubTitle": "Registrando tu bicicleta en blockchain",
+      "loadingSubtitle": "Registrando tu bicicleta en blockchain",
+      "loadingTitle": "Registrando...",
+      "material": "Material",
+      "materialOptions": {
+        "aluminum": "Aluminio",
+        "carbon": "Carbono",
+        "other": "Otro",
+        "steel": "Acero",
+        "unSpecified": "No lo sé"
+      },
+      "materialType": "Material",
+      "model": "Modelo",
+      "noDataText": {
+        "brand": "No se han encontrado marcas",
+        "colors": "No se han encontrado colores",
+        "model": "No se han encontrado modelos",
+        "year": "No se han encontrado años"
+      },
+      "optional": "Opcional",
+      "other": "OTRO",
+      "otherColors": "Otro color",
+      "otherF": "OTRA",
+      "otherPicture": "Añadir otra foto (opcional)",
+      "pages": {
+        "security": {
+          "iWillDoItLater": "Saltar paso",
+          "manual": "Manualmente",
+          "ocrRecognition": "Con reconocimiento óptico",
+          "qrButtonText": "Con QR o código de barras",
+          "subtileText": "¡La seguridad de tu bici es lo primero! Comencemos añadiendo su número de serie"
+        },
+        "serialNumber": {
+          "appbar": "Datos de número de serie",
+          "bodyText": "¡La seguridad de tu bici es lo primero! Agrega el número de serie de tu bici a continuación. Si no lo tienes disponible en este momento, puedes agregarlo más adelante.",
+          "SerialNumberButton": "Escanear número de serie con la cámara",
+          "SerialNumberExplanation": "Antes de guardar comprueba que el número de serie ingresado sea correcto, de otra forma pasará al departamento de incidencias.",
+          "serialNumberLabel": "Número de serie",
+          "title": "IDENTIFICA TU BICICLETA"
+        }
+      },
+      "pedals": "Pedales",
+      "photos": "Atestado de verificación de propiedad",
+      "picture": "Fotografía",
+      "pin": "Fijar",
+      "plates": "Platos",
+      "powers": "Potencia",
+      "property": "Atestado de verificación de propiedad",
+      "register": "Registrar bicicleta",
+      "rods": "Bielas",
+      "saddle": "Sillín",
+      "serialNumberInfo": "¿Dónde se encuentra el número de serie?",
+      "serialNumberInfoText": "Encontrarás el número de serie en el cuadro de tu bici. Dependiendo del modelo: puede ser un código QR, un código de barras o un número grabado.",
+      "serialNumberMessage": "Indícanos el número de serie de tu bicicleta. para identificarla en caso de robo o pérdida.",
+      "serialNumberTitle": "Número de serie",
+      "serialValidation": {
+        "error": "Ha ocurrido un error validando el número de serie",
+        "undefined": "No se pudo validar el número de serie"
+      },
+      "size": "Talla",
+      "sizeInfo": "¿Cómo puedo saber mi talla?",
+      "sizeOptions": {
+        "L": "Grande",
+        "M": "Mediana",
+        "S": "Pequeña",
+        "XL": "Extra grande",
+        "XS": "Extra pequeña",
+        "XXL": "Doble extra grande"
+      },
+      "skip": "Omitir paso",
+      "slash": "Tija",
+      "statusRegisterCardSubtitle": "Para participar en algunas salidas debes verificar tu identidad.",
+      "statusRegisterCardTitle": "Registro certificado",
+      "statusRegisterTitle": "Estado del registro de bicicleta",
+      "suspension": "Suspensión",
+      "suspensionOptions": {
+        "double": "Doble",
+        "noSuspension": "Sin suspensión",
+        "simple": "Simple",
+        "unSpecified": "No lo sé"
+      },
+      "technicalDataInfoTitle": "Datos técnicos básicos",
+      "technicalDataInfoTitleCompleted": "¡Enhorabuena! estás a un clic de tener la ficha técnica de tu bicicleta",
+      "technicalInfoMessage": "Especifica los datos técnicos de tu bicicleta para tenerla mejor identificada.",
+      "technicalInfoTitle": "Datos Técnicos",
+      "technicalSpecsSubtitle": "Comprueba que esté todo bien y edita lo que haga falta. Cuando termines con la ficha técnica básica podrás ver tu bici en el garaje.",
+      "technicalSpecsTitle": "Ficha técnica básica",
+      "textInfoExit": "¿Estás seguro que quieres salir sin guardar los cambios? ",
+      "tires": "Llantas",
+      "topBrands": "Top marcas",
+      "traction": "Tracción",
+      "tractionOptions": {
+        "conventional": "Convencional",
+        "electric": "Eléctrica",
+        "unSpecified": "No lo sé"
+      },
+      "tractionType": "Tracción",
+      "transmissionAndBrakes": "Transmisión y frenos",
+      "type": {
+        "adapted": "Adaptada",
+        "fixies": "Fixie",
+        "folding": "Plegable",
+        "gravel": "Gravel",
+        "mountain": "Montaña",
+        "mtx": "BMX",
+        "other": "Otro",
+        "road": "Carretera",
+        "triathlon": "Triathlon",
+        "tricycles": "Triciclo"
+      },
+      "uploadImage": {
+        "backAlert": "Encuadra la parte trasera de la bici dentro del área",
+        "backContent": "Añade una fotografía de la parte trasera de tu bici",
+        "deleteCancel": "Cancelar",
+        "deleteContent": "Si continuas se borrará la imagen seleccionada ¿Deseas continuar?",
+        "deleteContinue": "Continuar",
+        "deleteTitle": "¿Borrar imagen?",
+        "frontAlert": "Encuadra la parte frontal de la bici dentro del área",
+        "frontContent": "Añade una fotografía de la parte frontal de tu bici",
+        "leftAlert": "Encuadra el perfil izquierdo de la bici dentro del área",
+        "leftContent": "Añade una fotografía del perfil izquierdo de tu bici",
+        "otherContent": "Añade una fotografía de tu bici",
+        "replaceImage": "Reemplazar",
+        "rightAlert": "Encuadra el perfil derecho de la bici dentro del área",
+        "rightContent": "Añade una fotografía del perfil derecho de tu bici",
+        "takePhoto": "Tomar foto",
+        "uploadImage": "Buscar en biblioteca"
+      },
+      "verifyPropertyViewFile": "Subir archivo",
+      "verifyPropertyViewMessage": "Para reconocerte la bicicleta como tuya necesitamos estar seguros.",
+      "verifyPropertyViewPhoto": "Tomar foto",
+      "verifyPropertyViewPhotoInfo": "Toma un fotografía de la factura, ticket o alguna prueba de tu compra",
+      "verifyPropertyViewTitle": "Verificar la propiedad.",
+      "wheel": "Ruedas",
+      "writeHere": "Escribe aquí...",
+      "year": "Año"
+    },
+    "registerBikeInfo": {
+      "button": "¡Vamos!",
+      "close": "Cerrar",
+      "content1": "Podrás guardar los manuales, facturas, información técnica, así como estar al tanto de noticias de tu marca.",
+      "content2": "Con un solo clic podrás pedir ayuda a la comunidad y autoridades y marcar tu bici como robada.",
+      "content3": "Todos los años aparecen bicis que no se pueden devolver porque se desconoce su propietario. ¡Que tu bici no sea una de ellas!",
+      "contentTitle1": "1 Toda la información en tu mano",
+      "contentTitle2": "2 Alerta de robo",
+      "contentTitle3": "3 Recuperación",
+      "exit": "Salir",
+      "subtitle": "¿por qué añadir mi bici?",
+      "title": "Añadir\nBicicleta"
+    },
+    "registerBikeTermsAndConditions": {
+      "agreeWithTerms": "Acepto los Términos y Condiciones",
+      "appbarTitle": "Certificado Inteligente",
+      "buttonLabel": "Guardar cambios",
+      "continue": "Continuar",
+      "sucessBlockChainRegister": "¡Enhorabuena! ¡Has registrado tu bici en Blockchain con éxito!",
+      "swornDeclaration": "Declaración de veracidad de los datos aportados",
+      "termsAndConditionsContent": "Al aceptar este mensaje, declaro responsablemente:\n\n1.- Que soy mayor de {year}.\n\n2.- Que soy el legítimo y pleno propietario de la bicicleta que estoy registrando a mi nombre.\n\n3.- La veracidad, exactitud e idoneidad de la documentación aportada con el objeto de acreditar la propiedad de la bicicleta.\n\n4 .- Que bajo mi responsabilidad asumo el cumplimiento de las obligaciones legales inherentes de cada una de dichas declaraciones y descargo de toda responsabilidad a ALL IN BIKING SL por el servicio que ejerce de acuerdo a sus Términos y Condiciones.\n\nY para que así conste, a los efectos legales oportunos, doy mi consentimiento y autorizo a ALL IN BIKING SL a dar registro del presente documento con firma y huella digital de lugar, fecha y dispositivo a través del que se formaliza.",
+      "verifyBlockChainRegister": "Verficando..."
+    },
+    "registerByOtherUser": {
+      "actualPropierty": "Propietario actual",
+      "appRegisterByUser": "Registrada por otro usuario",
+      "buttonContactSupport": "Contactar con soporte",
+      "buttonContactSupportInfo": "La bici es mía y puedo demostrarlo",
+      "buttonCorrrectSerial": "Corregir número de serie",
+      "buttonCorrrectSerialInfo": "Me he equivocado de número de serie",
+      "buttonTalkActualPropierty": "Hablar con el propietario actual",
+      "canHelp": "Podemos ayudarte",
+      "scanAnotherNumber": "Escanear otro número",
+      "secureWithSectionregister": "Asegurada en blockchain",
+      "serialNumberExist": "Número de serie ya registrado",
+      "serialNumberExistDetail": "El número de serie que has introducido ya se encuentra registrado en All In Biking por otro usuario",
+      "talkActualPropierty": "Propietario actual",
+      "talkActualPropiertyInfo": "Creo que hay un error y quiero hablar con el propietario actual",
+      "tittleSectionregister": "Registro",
+      "viewDetail": "Ver ficha de la bici"
+    },
+    "registerNumberSerieScreen": {
+      "backButton": "Volver",
+      "bottomTextDialog": "Por favor verifica que esté correcto para continuar o volver para ingresarlo de nuevo.",
+      "continueButton": "Continuar",
+      "headerTextDialog": "El número de serie que ingresaste es",
+      "saveDataButton": "Guardar número de serie",
+      "snackBar": "¡Enhorabuena! Has introducido correctamente el número de serie"
+    },
+    "report": {
+      "appbarTitle": {
+        "aboutBike": "Datos de la bicicleta",
+        "bikeReport": "Alertar robo",
+        "bikeReportContext": "Información adicional",
+        "bikeSelect": "Selecciona la bici robada",
+        "reportType": "Momento del suceso"
+      },
+      "bikeList": "Mis bicis",
+      "bottomSheet": {
+        "help": "Socorro",
+        "report": "Alertas de robo",
+        "title": "Seguridad"
+      },
+      "continueButton": "Continuar",
+      "finding": {
+        "foundInAShop": {
+          "appBar": "Bicicleta vista en una tienda",
+          "button": {
+            "back": "Volver",
+            "next": "Finalizar",
+            "takePhoto": "Sacar foto",
+            "uploadPicture": "Subir desde galería"
+          },
+          "createSuccess": "Su avistamiento de bicicleta se ha realizado con éxito.",
+          "errorSnackbar": "Error al crear el avistamiento.",
+          "hintText": {
+            "date": "Hoy",
+            "hour": "Ahora",
+            "place": "Mi ubicación actual",
+            "placeInput": "P. ej.: Ciclos Alicante"
+          },
+          "images": "¿Dispones de imágenes?",
+          "inputError": {
+            "place": "Introduce un lugar válido"
+          },
+          "inputs": {
+            "date": "¿Qué día y hora aprox. la has visto?",
+            "dateLabel": "Fecha",
+            "hourLabel": "Hora",
+            "locationSearch": "Ubicación de avistamiento",
+            "place": "¿Cómo se llama la tienda?",
+            "placeLocation": "¿Dónde se encuentra la tienda?",
+            "selectImage": "¿Dispones de imágenes?"
+          },
+          "title": "la he visto en una tienda"
+        },
+        "foundOnline": {
+          "appBar": "Bicicleta vista en internet",
+          "button": {
+            "back": "Volver",
+            "next": "Finalizar",
+            "takePhoto": "Sacar foto",
+            "uploadPicture": "Subir desde galería"
+          },
+          "createSuccess": "Su avistamiento de bicicleta se ha realizado con éxito.",
+          "errorSnackbar": "Error al crear el avistamiento.",
+          "hintText": {
+            "link": "www...",
+            "otherDetails": "Alias, ciudad de venta, etc",
+            "place": "P. ej.: Wallapop, Milanuncios..."
+          },
+          "images": "¿Dispones de imágenes?",
+          "inputError": {
+            "link": "Introduce un link válido",
+            "otherDetails": "Introduce una descripción válida",
+            "place": "Introduce un lugar válido"
+          },
+          "inputs": {
+            "link": "Copia el enlace y pégalo aquí",
+            "linkSelector": "¿Tienes un enlace en el que ver la bici?",
+            "otherDetails": "¿Puedes dar algún otro detalle?",
+            "place": "¿En qué web o APP la has visto?",
+            "selectImage": "¿Dispones de imágenes?"
+          },
+          "radio": {
+            "no": "No",
+            "yes": "Si"
+          },
+          "title": "La he visto en internet"
+        },
+        "foundStreet": {
+          "appBar": "Bicicleta vista en la calle",
+          "button": {
+            "back": "Volver",
+            "next": "Finalizar",
+            "takePhoto": "Sacar foto",
+            "uploadPicture": "Subir desde galería"
+          },
+          "createSuccess": "Su avistamiento de bicicleta se ha realizado con éxito.",
+          "errorSnackbar": "Error al crear el avistamiento.",
+          "hintText": {
+            "date": "Hoy",
+            "hour": "Ahora",
+            "place": "Mi ubicación actual"
+          },
+          "images": "¿Dispones de imágenes?",
+          "inputs": {
+            "date": "¿Qué día y hora aprox. la has visto?",
+            "dateLabel": "Fecha",
+            "hourLabel": "Hora",
+            "locationSearch": "Ubicación de avistamiento",
+            "place": "¿En qué lugar la has visto?",
+            "selectImage": "¿Dispones de imágenes?"
+          },
+          "title": "la he visto en la calle"
+        },
+        "view": {
+          "appBar": "Ayudarle a encontrar su bici",
+          "contactButton": "Abrir chat con el propietario",
+          "internetCard": "La he visto en Internet",
+          "shopCard": "La he visto en una tienda",
+          "streetCard": "La he visto en la calle",
+          "subtitle": "Si has visto su bici en algún lugar y deseas ayudarle a encontrarla, puedes hacerlo aquí",
+          "title": "¿Has visto su bicicleta?"
+        }
+      },
+      "goToGarage": "Ir a garaje",
+      "helpText": "Selecciona una de las opciones",
+      "label": {
+        "bikeName": "Nombre de la bicicleta",
+        "checkbox": "Publicar en la Comunidad para que otros bikers me ayuden a encontrarla",
+        "date": "Fecha",
+        "firstName": "Nombre real",
+        "invalid": {
+          "error": "introduce una descripción válida",
+          "firstName": "Nombre real inválido",
+          "lastName": "Apellidos reales inválidos",
+          "locationSearch": "Campo requerido",
+          "noBikesFound": "No puedes emitir una alerta de robo, porque tus bicicletas no están verificadas o no tienes ninguna actualmente.",
+          "noData": "No se han encontrado resultados",
+          "purchaseDate": "Fecha de Compra inválida",
+          "stealDescription": "Campo requerido",
+          "stealSecured": "Campo requerido"
+        },
+        "lastName": "Apellidos reales",
+        "locationSearch": "Ubicación del robo",
+        "locationSearchHelper": "Escribe la ubicación del robo",
+        "purchaseDate": "Fecha de Compra",
+        "relevantInfo": "Otros detalles (opcional)",
+        "relevantInfoExplanation": "Cuanto más información proporciones, más posibilidades tendrá la Comunidad de ayudarte a recuperar tu bicicleta. No te olvides de incluir datos como dónde estaba atada, dónde te encontrabas durante el robo y el aspecto físico de la persona sospechosa.",
+        "relevantInfoPh": "Información relevante",
+        "selectBike": "Selecciona la bicicleta",
+        "stealDescription": "¿En qué lugar estaba la bicicleta?",
+        "stealHow": "¿Cómo fue el robo?",
+        "stealSecured": "¿Tienes seguro de bicicleta?",
+        "stealSecured1": "Sí",
+        "stealSecured2": "No",
+        "time": "Hora"
+      },
+      "lastButton": "Emitir alerta",
+      "MainButton": "Alertar",
+      "nextButton": "Siguiente",
+      "previousButton": "Atrás",
+      "reportBikeOf": "Bicicleta Robada de {username}",
+      "saveButton": "Guardar",
+      "sort": {
+        "date": "Más recientes",
+        "dateAsc": "Menos recientes",
+        "distance": "Más cercanas",
+        "distanceAsc": "Más lejanas"
+      },
+      "subtitle": {
+        "aboutBikeTitle": "Selecciona la bicicleta que quieres reportar como robada",
+        "bike": "Bicicleta",
+        "date": "Fecha del robo",
+        "parkingPlace": "Lugar de aparcamiento",
+        "parkingSecurity": "Lugar de aparcamiento",
+        "place": "Ubicación del robo",
+        "report": "Registra los datos del robo para generar un reporte y advertir a las autoridades pertinentes",
+        "reportDetails": "Amplía la información de la última vez que viste tu bicicleta para que podamos hacer un reporte más certero",
+        "reportType": "Selecciona el momento y lugar en que ha ocurrido el robo para que todos sepan dónde buscar",
+        "resume": "Resumen de la alerta",
+        "username": "Nombre del denunciante"
+      },
+      "success": "Se ha creado correctamente",
+      "title": {
+        "aboutBikeTitle": "¿Qué bicicleta?",
+        "locationBikeTitle": "Ubicación de la bicicleta",
+        "main": "Alertar bici robada",
+        "place": "Lugar y fecha",
+        "report": "La alerta",
+        "reportDetails": "El contexto",
+        "reportType": "¿Cuándo ha ocurrido?",
+        "welcomeTitle": "Mensaje de empatización"
+      },
+      "type": {
+        "firstOptionSubtitle": "Avisaremos a la Comunidad en un radio de acción de {kmRadius}km para que estén atentos.",
+        "firstOptionTitle": "Aquí y ahora",
+        "secondOptionSubtitle": "Rellena los datos de la alerta para que pueda verla la Comunidad y/o la policía.",
+        "secondOptionTitle": "En otro momento o lugar"
+      },
+      "VerifyYourIdentity": "Verifica tu identidad",
+      "view": {
+        "all": "Lista de alertas",
+        "bikeNotFound": "Bicicleta no encontrada",
+        "closeButtonText": "Cerrar",
+        "date": "Robo alertado ",
+        "error": "Ha ocurrido un error al buscar alertas",
+        "finding": "La ha visto un usuario",
+        "findings": "La han visto {users} usuarios",
+        "heroAppbar": "Imagen de robo",
+        "map": "Mapa",
+        "mine": "Mis alertas",
+        "notFound": "No se han encontrado alertas",
+        "notFoundMine": "No tienes alertas",
+        "reportBikeButton": "Alertar robo de mi bici",
+        "searchHereButton": "Buscar aquí",
+        "seeReport": "Ver alertas",
+        "stolen": "Robada",
+        "title": "Selecciona la bici robada",
+        "verifyNow": "Verificar ahora",
+        "verifyUserTitle": "Queremos ayudarte",
+        "verifyUsertToReport": "Por tu seguridad y la de la Comunidad, para realizar una alerta debes verificar tu identidad.\n\nCertificando tu identidad podremos hacer que la Comunidad te ayude de manera más segura y rápida."
+      },
+      "WelcomeInfo": "Para completar la alerta necesitarás: Comprobar tu identidad, comprobar propiedad, requerimiento"
+    },
+    "reportContext": {
+      "inABar": "En un bar",
+      "inACompetion": "En una competición",
+      "inMyGarage": "En un garaje/trastero",
+      "inMyHome": "En mi domicilio",
+      "inTheStreet": "En la calle",
+      "other": "Otros"
+    },
+    "reportDescription": {
+      "other": "Otros",
+      "withoutViolence": "Sin violencia",
+      "withViolence": "Con violencia"
+    },
+    "reportStealDialog": {
+      "error": "Se ha producido un error al reportar el robo",
+      "invalid": "Mensaje inválido",
+      "labelText": "Motivo de reporte",
+      "menuItem": "Reportar robo",
+      "modalAccept": "Enviar",
+      "modalCancel": "Cerrar",
+      "modalContent": "Formulario de reporte",
+      "modalSubContent": "Enviaremos la información del robo a nuestro equipo de soporte. El propietario no será notificado sobre el reporte.",
+      "success": "Hemos recibido el reporte correctamente"
+    },
+    "reportDetail": {
+      "table": {
+        "assured": "Seguro",
+        "bike": "Bicicleta",
+        "city": "Ciudad",
+        "date": "Fecha",
+        "escene": "Escenario",
+        "houseDirection": "Vivienda",
+        "id": "DNI",
+        "noInfo": "Sin información",
+        "owner": "Denunciante",
+        "phone": "Teléfono",
+        "serialNumber": "N° de serie",
+        "stealDirection": "Dirección de robo",
+        "stolenType": "Tipo de robo",
+        "zone": "Zona"
+      },
+      "view": {
+        "appBar": "Bicicleta robada",
+        "attestationReport": "Informe de atestado",
+        "attestationTable": {
+          "document": "DNI",
+          "insurance": "Seguro",
+          "name": "Denunciante",
+          "phone": "Teléfono",
+          "stealAddress": "Dirección de robo"
+        },
+        "comunityShare": "Compartir con mi Comunidad",
+        "deleteError": "Se ha producido un error al eliminar la alerta",
+        "deleteModal": {
+          "accept": "Eliminar",
+          "cancel": "Cancelar",
+          "content": "Perderás todos los datos de la alerta y la bicicleta dejará de mostrarse como robada",
+          "text": "¿Estás seguro de que quieres eliminar esta alerta?"
+        },
+        "deleteReport": "Eliminar alerta",
+        "deleteSuccess": "La alerta se ha eliminado correctamente",
+        "editReport": "Editar alerta",
+        "firstButton": "Ayudarle a encontrar su bici",
+        "foundModalCancel": "Cancelar",
+        "foundModalConfirm": "Confirmar",
+        "foundModalContent": "Al confirmar que la has recuperado, tu alerta ya no será visible para el resto de la Comunidad",
+        "foundModalTitle": "¿Confirmas que has recuperado tu bicicleta?",
+        "goGarage": "Ir al garaje",
+        "hasSeenYourBike": "Han visto tu bici",
+        "iFoundIt": "¡Ya la he recuperado!",
+        "mapReport": "Ubicación del robo",
+        "mediaShare": "Compartir en mis redes",
+        "myAppBar": "Resumen de denuncia",
+        "noMap": "No se ha podido cargar el mapa.",
+        "policeReport": "Denuncia policial",
+        "privateInfo": "Informe de atestado (Privado)",
+        "readInfo": "Leer info.",
+        "secondButton": "Compartir en mis redes",
+        "showMore": "Ver ficha tecnica completa",
+        "stolenBike": "Bicicleta robada",
+        "stolenEscene": "Escenario del robo",
+        "timePassed": "Hace {time}",
+        "uploadDocuments": "Subir denuncia",
+        "user": "Usuario propietario",
+        "watch": "Ver"
+      }
+    },
+    "reportSelectLocationScreen": {
+      "locationSelected": "Seleccionar esta ubicación",
+      "myCurrentlocation": "Mi ubicación actual",
+      "stealLocation": "Ubicación del robo"
+    },
+    "responsibleStatementFirst": {
+      "appbar": "Declaracion responsable",
+      "backLabel": "Volver",
+      "continueLabel": "Siguiente",
+      "subtitle": "En All in Biking nos tomamos muy en serio la propiedad de tu bicicleta y por eso queremos identificarla como tuya. Para ello necesitamos que nos asegures que es así, por eso es tan importante que aceptes la declaración de responsabilidad siguiente.\n\nSi ya has introducido el número de serie en los pasos anteriores, ¡genial!, si no lo has hecho asegúrate de hacerlo en cuanto puedas para que tu bicicleta quede totalmente identificada. ",
+      "title": "Declaración\nresponsable"
+    },
+    "responsibleStatementSecond": {
+      "appbar": "Declaracion responsable",
+      "content": "Al aceptar este mensaje, declaro responsablemente:\n\n1.- Que soy mayor de {year}.\n\n2.- Que soy el legítimo y pleno propietario de la bicicleta que estoy registrando a mi nombre.\n\n3.- La veracidad, exactitud e idoneidad de la documentación aportada, con el objeto de acreditar la propiedad de la bicicleta.\n\n4 .- Que bajo mi responsabilidad asumo el cumplimiento de las obligaciones legales inherentes de cada una de dichas declaraciones y descargo de toda responsabilidad a ALL IN BIKING SL por el servicio que ejerce de acuerdo a sus",
+      "content2": " .\n\nY para que así conste, a los efectos legales oportunos, doy mi consentimiento y autorizo a ALL IN BIKING SL a dar registro del presente documento con firma y huella digital de lugar, fecha y dispositivo a través del que se formaliza.",
+      "continueLabel": "Firmar",
+      "modalButton": "Ver detalle",
+      "modalCancel": "Terminar",
+      "modalContent": "Tu bicicleta ya está registrada. Ahora puedes acceder al detalle de tu bicicleta y completar su ficha técnica.",
+      "modalImagesButton": "Subir fotos",
+      "modalImagesText": "Recuerda subir fotografías de tu bicicleta para que sea reconocible",
+      "modalSearchButton": "Buscar modelo",
+      "modalSearchContent": "Tu bicicleta ya está registrada. Ahora puedes introducir año y modelo, con estos datos rellenaremos automáticamente sus componentes, según el fabricante.",
+      "modalTitle": "Registro básico completado",
+      "terms": "Términos y Condiciones",
+      "title": "Declaración de veracidad de los datos aportados"
+    },
+    "ride": {
+      "creation": {
+        "GPX": {
+          "rideFromGpxAppBar": "Salida importada",
+          "resume": {
+            "ascent": "Ascenso total",
+            "duration": "Duración total",
+            "totalDistance": "Distancia total",
+            "accumulatedAltitude": "Altitud acumulada",
+            "maxAltitude": "Altitud máxima",
+            "minAltitude": "Altitud minima"
+          },
+          "followButton": "Seguir",
+          "createButton": "Crear",
+          "backButton": "Volver"
+        },
+        "and": " y ",
+        "createRideTitle": "CREA UNA SALIDA",
+        "createRideSubTitle": "Puedes crear manualmente una salida o también puedes importar una ruta ",
+        "createRideOption1": "Importar GPX",
+        "createRideOption2": "Crear manualmente",
+        "description": "Descripción (opcional)",
+        "destiny": "Destino",
+        "distance": "Distancia",
+        "duration": "Duración",
+        "enum": {
+          "difficulty": {
+            "easy": "Baja",
+            "extreme": "Extrema",
+            "hard": "Alta",
+            "medium": "Media"
+          },
+          "measure": " (km)",
+          "measureTime": " (minutos)",
+          "rideType": {
+            "private": "Salida Privada",
+            "public": "Salida pública",
+            "subtitles": {
+              "private": "Sólo pueden participar usuarios invitados por el creador de la salida.",
+              "public": "Cualquier usuario puede participar en una salida publica."
+            }
+          },
+          "rideTypeBikes": {
+            "gravel": "Gravel",
+            "mountain": "Montaña",
+            "road": "Carretera",
+            "tour": "Urbano/Paseo"
+          }
+        },
+        "estimatedDifficulty": "Dificultad estimada",
+        "expectedWeather": "Se espera {text}",
+        "generalData": "Datos generales",
+        "goAndBack": "Ida y vuelta",
+        "groupCreationButton": "Salir en grupo",
+        "groupTitle": "Crear salida de grupo",
+        "helperText": "Pega aquí el enlace de tu salida o descríbela",
+        "hours": "Horas",
+        "invalid": {
+          "aDate": "una fecha",
+          "alertMessageWeather": "La fecha indicada es lejana y el pronóstico puede variar.",
+          "aUbication": "una ubicación",
+          "characterError": "Excede el máximo de caracteres",
+          "distanceDays": "No se puede pronosticar el tiempo a partir de 8 días",
+          "formatError": "Formato incorrecto",
+          "genericError": "Ocurrió un error, vuelve a intentarlo",
+          "lengthError": "Mín. 1, Máx. 50",
+          "minTimeFromNow": "No puedes crear una salida en el pasado",
+          "noFutureEvent": "Debe haber mas de una hora antes de iniciar la salida.",
+          "scheduleError": "No puedes crear dos salidas simultáneas.",
+          "requiredField": "Campo requerido",
+          "select": "Selecciona "
+        },
+        "invite": {
+          "appBar": "Invitar a participantes",
+          "emptyFriends": "No tienes amigos",
+          "failedMessage": "Algunas invitaciones no se han podido enviar. ¿Quieres probar otra vez?",
+          "failedMessageNotNow": "Ahora no",
+          "failedMessageOk": "Reintentar",
+          "invite": "Invitar",
+          "notNow": "Ahora no",
+          "ridersSelected": "{selected}/50 riders seleccionados",
+          "searchByName": "Buscar por nombre",
+          "successMessage": "¡Has invitado a tus amigos!"
+        },
+        "label": {
+          "date": "Fecha",
+          "hour": "Hora"
+        },
+        "limitOfPeoples": "Límite de asistentes (máx. 50)",
+        "meetingPlace": "Lugar de encuentro",
+        "meteorologyPrevision": "Previsión meteorológica",
+        "minutes": "Minutos",
+        "onlyGo": "Sólo ida",
+        "onlyUserVerifiedModalText": "Si activas esta opción, solo los perfiles verificados podrán inscribirse en la salida creada. Esto te proporcionará tranquilidad al compartir la salida con usuarios que están perfectamente identificados dentro de la aplicación, incluso si no son tus amigos.",
+        "onlyUserVerifiedModalTitle": "Solo para usuarios verificados",
+        "onlyVerifiedUsers": "Solo para usuarios verificados",
+        "rideName": "Nombre de la salida",
+        "ridesTypes": "Privacidad de la salida",
+        "route": "Recorrido",
+        "routeEnd": "Fin de ruta",
+        "routeType": "Tipo de ruta",
+        "saveButton": "Guardar",
+        "sendConfirmation": "Confirmar asistencia",
+        "sendConfirmationModalText": "¿Harto de sentirte como una planta esperando a tus amigos? ¡No te preocupes, tenemos la solución perfecta! Activa esta función y obliga a tus amigos a confirmar su asistencia una hora antes de salir. ¡Así podrás asegurarte de que tendrás compañía y no te sentirás como un cactus solitario en el desierto!",
+        "sendConfirmationModalTitle": "Confirmación requerida",
+        "success": {
+          "goDetails": "Ir a detalle",
+          "inviteFriends": "Invitar amigos",
+          "nowInviteFriends": "Ahora invita a tus amigos",
+          "successMessage": "¡Se ha creado tu salida!"
+        },
+        "title": "Crear salida",
+        "velocity": "{windSpeed} km/h",
+        "nextRide": "Próx. salida"
+      },
+      "edition": {
+        "infoText": "Todos los cambios realizados sobre la hora, lugar de inicio y fin de ruta serán notificados a los asistentes para mantenerlos informados.",
+        "infoTitle": "Cambios en la salida",
+        "title": "Editar salida"
+      },
+      "filters": {
+        "advancedFilters": "Filtros avanzados",
+        "and": " y ",
+        "clear": "Borrar",
+        "difficulty": "Dificultad",
+        "distanceRange": "Rango de distancia",
+        "durationRange": "Rango de duración",
+        "enum": {
+          "difficulty": {
+            "easy": "Baja",
+            "extreme": "Extrema",
+            "hard": "Alta",
+            "medium": "Media"
+          },
+          "measure": " (km)",
+          "measureTime": " (minutos)",
+          "rideTypeBikes": {
+            "GRAVEL": "Gravel",
+            "HIGHWAY": "Carretera",
+            "MOUNTAIN": "Montaña",
+            "OTHERS": "Otro",
+            "TRIATHLON": "Triatlon",
+            "URBAN": "Urbano/Paseo"
+          }
+        },
+        "estimatedDifficulty": "Dificultad estimada",
+        "goAndBack": "Ida y vuelta",
+        "hours": "Horas",
+        "invalid": {
+          "aDate": "una fecha",
+          "aUbication": "una ubicación",
+          "characterError": "Excede el máximo de caracteres",
+          "formatError": "Formato incorrecto",
+          "genericError": "Ocurrió un error, vuelve a intentarlo",
+          "lengthError": "Mín. 1, Máx. 50",
+          "minDistanceMajorThanMaxDistance": "La distancia mínima no puede superar la distancia máxima",
+          "minDurationMajorThanMaxDuration": "La duración mínima no puede superar la duración máxima",
+          "requiredField": "Campo requerido",
+          "select": "Selecciona "
+        },
+        "label": {
+          "date": "Fecha",
+          "hour": "Hora"
+        },
+        "location": "Ubicación",
+        "maxDistance": "Distancia máxima",
+        "maxDuration": "Duración máxima",
+        "minDistance": "Distancia mínima",
+        "minDuration": "Duración mínima",
+        "minutes": "Minutos",
+        "noResults": "No hay resultados",
+        "noResultsText": "No hay salidas que cumplan los filtros aplicados",
+        "onlyGo": "Sólo ida",
+        "onlyVerifiedUsers": "Solo usuario verificados",
+        "rideName": "Nombre o código de salida",
+        "ridesTypes": "Tipo de salida",
+        "route": "Recorrido",
+        "routeType": "Tipo de ruta",
+        "saveButton": "Guardar",
+        "seeResults": "Ver {quantity} resultados",
+        "title": "Filtros de salida"
+      }
+    },
+    "rideConfirmation": {
+      "acceptButton": "Aceptar y Continuar",
+      "content": "No olvides revisar los detalles de la ruta, el nivel de <span>dificultad</span>, tu capacidad fisica, el estado de tu <span>material</span> y del <span>clima</span>.\n\nCon la incorporación a esta salida declaras conocer las reglas de <span>Seguridad Vial</span> de tu país y ser responsable de las consecuencias de tus actos durante la misma de acuerdo con los <a>Términos y Condiciones</a> de la App.\n\nNo olvides que participas de manera voluntaria y que puedes abandonar la ruta si consideras que puede causar algún problema a ti o a terceros.",
+      "errorMessage": "Debes aceptar los terminos y condiciones antes de continuar",
+      "notShowCheck": "No deseo recibir este mensaje nuevamente.",
+      "termsCheck": "Entiendo los <a>Términos y condiciones</a> de All In Biking",
+      "title": "¡Pedalea responsablemente!"
+    },
+    "rideDetail": {
+      "acceptedRideModalButton": "Ver mis próximas salidas",
+      "acceptedRideModalSubtitle": "Prepárate para disfrutar",
+      "acceptedRideModalTitle": "Has indicado que asistirás a esta salida",
+      "appbar": "Salidas",
+      "assistants": "{assistants} de {max} asistentes",
+      "attendees": "Asistentes",
+      "comparation": {
+        "compareWith": "Comparado con: {name}",
+        "compareWithOthers": "Compárate con otros miembros",
+        "title": "Estadisticas individuales",
+        "withoutStatistics": "Sin estadisticas"
+      },
+      "reportRide": {
+        "error": "Se ha producido un error al reportar la salida",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar salida",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Enviaremos la información de la salida a nuestro equipo de soporte. El propietario no será notificado sobre el reporte.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "reportRideImage": {
+        "error": "Se ha producido un error al reportar la fotografía",
+        "invalid": "Mensaje inválido",
+        "labelText": "Motivo de reporte",
+        "menuItem": "Reportar fotografía",
+        "modalAccept": "Enviar",
+        "modalCancel": "Cerrar",
+        "modalContent": "Formulario de reporte",
+        "modalSubContent": "Enviaremos la información de la salida a nuestro equipo de soporte. El propietario no será notificado sobre el reporte.",
+        "success": "Hemos recibido el reporte correctamente"
+      },
+      "createdBy": "Publicado por:",
+      "deletedRide": "La salida se ha eliminado correctamente",
+      "deleteFinishedRideModalFirstText": "¿Estás seguro que quieres eliminar la salida “",
+      "deleteFinishedRideModalSecondText": "”? Si es así, tus estadísticas desaparecerán para el resto de usuarios.",
+      "deleteRide": "Eliminar salida",
+      "rePostRide": "Repetir salida",
+      "downloadGpx": "Descargar GPX",
+      "downloadOrShareGpx": "Compartir o descargar GPX",
+      "shareGPX": "Compartir GPX",
+      "rePostRideTitle": "Selección de salida",
+      "deleteRideModalFirstText": "¿Estás seguro que quieres eliminar la salida “",
+      "deleteRideModalNo": "No",
+      "deleteRideModalSecondText": "”? Si es así, le avisaremos a los participantes y se eliminará de la lista de eventos.",
+      "deleteRideModalYes": "Sí",
+      "dificult": "Dificultad aprox.",
+      "distance": "Distancia aprox.",
+      "duration": "Duración aprox.",
+      "editRide": "Editar salida",
+      "errorDoubleBooking": {
+        "modalContent": "No es posible participar en dos salidas simultáneamente. Por favor, verifica tus salidas próximas y asegúrate de cancelar o reprogramar cualquier salida que tenga el mismo rango horario que esta antes de intentar unirte de nuevo.",
+        "modalTile": "Doble reserva"
+      },
+      "errorGettingRide": "No se pudo obtener el detalle de la salida",
+      "findLocation": "Cómo llegar",
+      "finishedRide": "Salida",
+      "fullRideContent": "¡Vaya! Esta salida está completa por ahora. Puede que alguien se desapunte, así que estate pendiente.",
+      "fullRideOk": "Entendido",
+      "goBack": "Volver",
+      "individualRides": "Ver salidas individuales",
+      "map": "Mapa",
+      "missingTime": "Faltan {time}. para que empiece",
+      "myStats": "Mis estadísticas individuales",
+      "noOtherTrackDataSubtitle": "No hemos podido recibir correctamente los datos ofrecidos por las aplicaciones que ha vinculado este usuario.",
+      "noOtherTrackDataTitle": "Esta salida no tuvo estadisticas",
+      "notEnoughTracksDataInfoSubtitle": "Para poder comparar los datos, se necesitan al menos dos usuarios con aplicaciones vinculadas que hayan participado en esta salida. Por favor, asegúrate de vincular tu aplicación y anima a otros usuarios a hacer lo mismo para poder tener una mejor idea de cómo se desempeñan los usuarios en esta ruta.",
+      "notEnoughTracksDataInfoTitle": "¿Qué puedo hacer?",
+      "notEnoughTracksDataSubtitle": "Actualmente no hay suficientes datos disponibles para mostrar estadísticas comparativas entre los miembros de la salida.",
+      "notEnoughTracksDataTitle": "No hay estadísticas",
+      "noTrackDataButton": "Aplicaciones vinculadas",
+      "noTrackDataSubtitle": "No tenemos información acerca del rendimiento en la salida debido a que no hay aplicaciones vinculadas o no hemos podido recibir sus datos. Te recomendamos revisar tus aplicaciones vinculadas para tener una mejor experiencia.",
+      "noTrackDataTitle": "No hay estadisticas",
+      "onlyForVerified": "Solo para usuarios verificados",
+      "onlyForVerifiedModalButton": "Verificar perfil",
+      "onlyForVerifiedModalContent": "Solo los perfiles verificados pueden inscribirse a esta salida. Para poder inscribirte, primero debes verificar tu perfil.",
+      "onlyVerifiedModalButton": "Verificar perfil",
+      "onlyVerifiedModalText": "Solo los perfiles verificados pueden inscribirse a esta salida. Para poder inscribirte, primero debes verificar tu perfil.",
+      "onlyVerifiedModalTitle": "Solo para usuarios verificados",
+      "openGroup": "Grupo abierto",
+      "organizedBy": "Creado por",
+      "ownButtons": {
+        "goHome": "Ir a mis Salidas",
+        "invite": "Invitar"
+      },
+      "privacy": {
+        "private": "Solo usuarios verificados",
+        "public": "Para todo público"
+      },
+      "privateGroup": "Grupo privado",
+      "rideDesc": "Descripción del recorrido",
+      "rideEnd": "Fin de ruta",
+      "rideInit": "Inicio de ruta",
+      "rideStartSoon": "La salida comenzará en breve",
+      "sendConfirmation": "Confirmar asistencia",
+      "sendConfirmationModalText": "Esta salida requiere confirmación por parte de los asistentes. Una hora antes del inicio de la salida recibirás una alerta de confirmación de asistencia.",
+      "sendConfirmationModalTitle": "Confirmación requerida",
+      "share": {
+        "ride": "Salida {code}",
+        "share": "Compartir el código de la salida"
+      },
+      "shareButton": "Compartir",
+      "sharePostRideDialogButton": "Crear publicación",
+      "shareRideDialogButton": "Compartir",
+      "shareRideDialogInviteButton": "Enviar a mis amigos",
+      "shareRideDialogSubtitle": "¡Comparte con tus amigos\ny diviértete!",
+      "shareRideDialogTitle": "SALIDA PUBLICADA",
+      "shareRideAlreadyCreatedDialogTitle": "COMPARTIR SALIDA",
+      "showAll": "Ver todos",
+      "table": {
+        "endPlace": "Fin de ruta",
+        "initialPlace": "Lugar de encuentro",
+        "rideType": "Tipo de salida",
+        "routeType": "Tipo de ruta"
+      },
+      "tabs": {
+        "information": "Información",
+        "statistics": "Estadísticas"
+      },
+      "thirdPartyButtons": {
+        "maybe": "Tal vez",
+        "no": "No",
+        "willYouAttend": "¿Asistirás?",
+        "yes": "Sí",
+        "yesConfirmed": "Asistiré"
+      },
+      "uploadPhotoError": "Se ha producido un error al subir la foto",
+      "uploadPhotoSuccess": "Foto subida correctamente",
+      "weatherTitle": "Previsión meteorológica"
+    },
+    "riderAttendingScreen": {
+      "appBar": "Asistentes confirmados",
+      "appBarFinished": "Asistentes",
+      "attend": "Asistirá",
+      "creator": "Creador de la salida",
+      "friend": "Amigos",
+      "seeRide": "Ver salida"
+    },
+    "ridesList": {
+      "appbar": "Salidas",
+      "brandNewTab": {
+        "by": "De {user}",
+        "change": "Cambiar",
+        "codeOrName": "Código o nombre de salida",
+        "createYourRideOrSelectZone": "Puedes seleccionar una población cercana o crear tu propia salida para invitar a amigos y gente de la Comunidad",
+        "filter": "Filtrar",
+        "invitationsReceived": "Invitaciones recibidas",
+        "noFinishedRides": "No has realizado ninguna salida",
+        "noFinishedRidesButton": "Crear salida",
+        "noFinishedRidesContent": "¿A qué esperas para comenzar disfrutar de All In Biking? Crea una salida ya sea en solitario o en grupo.",
+        "noFinishedRidesOtherUser": "{username} no ha realizado ninguna salida",
+        "noFinishedRidesOtherUserContent": "¿A qué esperas para comenzar disfrutar de All In Biking con él/ella? ¡Crea una salida e invítalo/a!",
+        "noRidesInitations": "No tienes invitaciones a salidas pendientes\nCrea una nueva salida para invitar a tus amigos",
+        "noRidesInYourZone": "aún no hay salidas\nen tu zona actual",
+        "noUpcomingRidesSubtitle": "Apúntate a una, o créala",
+        "noUpcomingRidesTitle": "Aún no estás apuntado a ninguna quedada",
+        "organizeARide": "Organizar una salida",
+        "planGroupRide": "Planificar salida grupal",
+        "planRide": "Planificar una salida",
+        "rideNow": "Voy a salir ahora",
+        "ridesInYourArea": "Salidas en tu zona",
+        "search": "Buscar",
+        "searchForZone": "Busqueda por zona",
+        "searchRides": "Buscar Salidas",
+        "searchIn": "Buscar en",
+        "searchRidesUpcoming": "Buscar Quedadas",
+        "subtitle": "Te ha invitado",
+        "title": "Nuevas"
+      },
+      "card": {
+        "attenders": "asistentes:",
+        "groupRide": "Salida grupal",
+        "individualRide": "Salida individual",
+        "inProgress": "En curso",
+        "noAttenders": "No hay datos de participantes",
+        "section": {
+          "ascent": {
+            "title": "Ascenso",
+            "value": "{value} m"
+          },
+          "difficulty": {
+            "extreme": "Extrema",
+            "high": "Difícil",
+            "low": "Fácil",
+            "medium": "Media",
+            "title": "Dificultad",
+            "unknown": "Desconocida"
+          },
+          "distance": {
+            "title": "Distancia",
+            "value": "{value} km"
+          },
+          "duration": {
+            "title": "Duración",
+            "value": "{value}"
+          }
+        },
+        "userInvitation": "Te ha invitado"
+      },
+      "finishedTab": {
+        "emptyRidesSubtitle": "¿A qué esperas para comenzar disfrutar de All In Biking? Ya sea en solitario o en grupo",
+        "emptyRidesTitle": "Aún no has realizado ninguna salida",
+        "subtitle": "Tus salidas realizadas",
+        "title": "Realizadas"
+      },
+      "map": {
+        "error": "Se ha producido un error al cargar las salidas",
+        "seeRide": "Ver salida",
+        "title": "Descubrir"
+      },
+      "upcomingTab": {
+        "subtitle": "Tus próximas salidas",
+        "title": "Mis quedadas"
+      }
+    },
+    "rideType": {
+      "mountain": "Montaña",
+      "road": "Carretera"
+    },
+    "rocketLaunch": {
+      "community": {
+        "like": "Me gusta",
+        "newMessages": "Mensajes nuevos",
+        "requests": "Solicitudes de amistad",
+        "title": "Comunidad",
+        "createPost": "Crear post"
+      },
+      "garage": {
+        "bikeAdded": "1 bici añadida",
+        "bikesAdded": "{bikes} bicis añadidas",
+        "title": "Garaje"
+      },
+      "groups": {
+        "title": "Crear grupo"
+      },
+      "ranking": {
+        "title": "Ranking de temporada",
+        "userPole": "{name} (Tú)",
+        "yourPosition": "Tu posición",
+        "sponsoredBy": "Podio patrocinado por"
+      },
+      "marketplace": {
+        "title": "Marketplace"
+      },
+      "metrics": {
+        "title": "Métricas",
+        "subtitle": "Últimos 7 días",
+        "speed": "Velocidad: {speed} km/h",
+        "time": "Tiempo: {hours}h {minutes} m",
+        "distance": "Distancia: {distance} km",
+        "ascent": "Desnivel: {ascent} m"
+      },
+      "routes": {
+        "invitations": "Invitaciones",
+        "prox": "Próxima",
+        "createRide": "Crear Salida",
+        "title": "Salidas",
+        "nextRide": "Próx. Salida"
+      },
+      "security": {
+        "pointsInYourRoute": "Puntos negros en tu ruta programada",
+        "requestsNearYou": "Solicitudes de ayuda cerca de ti",
+        "title": "Seguridad de las personas"
+      },
+      "steal": {
+        "newOnes": "Nuevos robos cerca",
+        "title": "Robos"
+      },
+      "title": "LaunchPad"
+    },
+    "search": {
+      "searchInvite": "Invitar"
+    },
+    "searchModel": {
+      "button": "Buscar",
+      "content": "Para completar automáticamente las piezas de tu bicicleta, por favor especifica año y modelo.",
+      "error": "Se ha producido un error al obtener los datos de la bicicleta, por favor, inténtalo más tarde",
+      "errorScreen": {
+        "content": "Parece que no pudimos encontrar información sobre el modelo de tu bici. Pero no te preocupes, aquí tienes los datos que ingresaste",
+        "goToGarage": "Ir a garaje",
+        "searchAgain": "Buscar de nuevo",
+        "tableTitle": "Datos técnicos básicos proporcionados por ti",
+        "title": "¡Ups!"
+      },
+      "exit": "Salir",
+      "successScreen": {
+        "bottonText": "¿Es esta tu bicicleta?",
+        "cancelButton": "No, buscar de nuevo",
+        "confirmButton": "Sí",
+        "content": "¡Buenas noticias! Hemos encontrado más información sobre tu bicicleta y la hemos agregado a tus datos técnicos.\n\nAdemás, recuerda que siempre puedes editar tus datos en cualquier momento desde tu Garaje",
+        "goToGarage": "Ir a garaje",
+        "tableTitle": "Datos técnicos avanzados obtenidos del fabricante",
+        "title": "Datos encontrados"
+      },
+      "title": "Buscar modelo"
+    },
+    "setBasicData": {
+      "continueButton": "Continuar",
+      "createAccountButton": "Registrarme",
+      "error": "Ha ocurrido un error, por favor intente de nuevo",
+      "explanationText": "Asegúrate de que estos datos coincidan con los que aparecen en tu identificación oficial, para no tener problemas al verificar tu cuenta.",
+      "label": {
+        "birthday": "Fecha de nacimiento",
+        "country": "País",
+        "gender": "Género",
+        "invalid": {
+          "postalCode": "Error en el formato código postal",
+          "postalCodeMatching": "No coincide con el país seleccionado"
+        },
+        "postalCode": "Código Postal"
+      },
+      "subtitle": "Utilizamos esta información para personalizar su experiencia, poder recomendarle nuevas actividades, informarle sobre robos en su zona así como también otras funcionalidades",
+      "title": "Personaliza tu perfil"
+    },
+    "settings": {
+      "appVersion": "Versión instalada {appVersion}",
+      "call": "Llamar",
+      "configurationTitle": "Configuración técnica",
+      "configureAccountTile": "Configurar cuenta",
+      "configureProfileTile": "Configurar perfil",
+      "configureUserPrivacity": "Privacidad",
+      "configYourProfileTitle": "No has configurado tu perfil",
+      "confirm": "!Vamos!",
+      "contactTitle": "¿Quieres contactarnos directamente?",
+      "content": "Para verificar tu identidad, primero tienes que completar tus datos en configuración",
+      "emailContent": "Consulta All In Biking",
+      "frequentlyQuestionsButton": "Ver",
+      "frequentlyQuestionsSection": "Preguntas frecuentes",
+      "frequentlyQuestionsTitle": "¿Tienes alguna duda?",
+      "gps": "GPS",
+      "help": "Ayuda",
+      "helpEmail": "Email",
+      "helpHours": "Horario de atención al cliente: de 9:00 a 13:00 y de 14:00 a 18:00, de Lunes a Viernes.",
+      "incompleteCardSubtitle": "Completa la información de tu perfil para disfrutar de todas las características de All In Biking",
+      "incompleteCardTitle": "Perfil incompleto",
+      "language": {
+        "cardSubTitle": "Este será el idioma principal de la aplicación. Se utilizará para los encabezados, botones y demás textos propios del sistema, no en aquellas cosas creadas por usuarios (Ej. nombres y descripciones).",
+        "cardTitle": "Selecciona tu idioma preferido",
+        "catalan": "Catalan",
+        "english": "Inglés",
+        "euskera": "Euskera",
+        "italian": "Italiano",
+        "saveButton": "Guardar idioma",
+        "spanish": "Español",
+        "title": "Idiomas"
+      },
+      "languageTile": "Idioma",
+      "linkAppsTile": "Vincular APPs",
+      "pageTitle": "Configuración",
+      "personalSectionTitle": "Configuración personal",
+      "phone": "Teléfono",
+      "privacy": "Privacidad",
+      "profilePendingVerificationTile": "Verificación de identidad solicitada",
+      "profileVerifiedTile": "Identidad verificada",
+      "registerUserDate": "Te registraste el {registerDate}",
+      "support": "Soporte",
+      "theme": "Apariencia",
+      "tutorialSection": "Tutorial",
+      "verifiedUserPhoneTile": "Teléfono verificado",
+      "verifyIdentityTile": "Verificar identidad",
+      "verifyTile": "Permisos de dispositivo",
+      "verifyUserPhoneTile": "Verificar teléfono",
+      "writtenEmail": "Escribir"
+    },
+    "settingsTheme": {
+      "pageTitle": "Apariencia",
+      "themeAppDark": "Tema Oscuro",
+      "themeAppDescription": "Configura el tema de la aplicación a tu gusto",
+      "themeAppLight": "Tema Claro",
+      "themeAppTitle": "Tema de la aplicación"
+    },
+    "shareRide": {
+      "downloadFailure": "error descargando la imagen",
+      "downloadLoaded": "imagen descargada con éxito",
+      "publishButton": "Compartir",
+      "requestFailure": "error obteniendo la imagen",
+      "shareText": "Mira la salida que he hecho en AllInBiking y únete a la comunidad de ciclistas",
+      "title": "Compartir imagen"
+    },
+    "showRideMultimedia": {
+      "delete": "Eliminar publicación",
+      "deleteModalNo": "Cancelar",
+      "deleteModalText": "Esta acción no se puede deshacer",
+      "deleteModalTitle": "¿Estás seguro que quieres eliminar la publicación?",
+      "deleteModalYes": "Borrar",
+      "deleteSuccess": "La publicación se ha eliminado correctamente",
+      "share": "Compartir",
+      "title": "Vista de imagen"
+    },
+    "signIn": {
+      "accountExistsErrorSignInText": "Al parecer el correo con el que intenta iniciar sesión está vinculado a su cuenta {account}.",
+      "accountExistsErrorSignUpText": "Al parecer el correo con el que intenta registrarse está vinculado a su cuenta {account}.",
+      "accountExistsErrorTitle": "Correo vinculado con otra cuenta",
+      "alreadyRegisteredText": "¿Tienes ya una cuenta?",
+      "apple": "de <span>Apple</span>",
+      "button": "Continuar",
+      "createAccountButton": "Registrarme",
+      "explanationText": "o inicia sesión con email",
+      "facebook": "de <span>Facebook</span>",
+      "google": "de <span>Google</span>",
+      "label": {
+        "email": "Email",
+        "invalid": {
+          "email": "El email ingresado no es válido.",
+          "password": "Contraseña inválida"
+        },
+        "password": "Contraseña"
+      },
+      "notAccountText": "¿Aún no tienes cuenta?",
+      "password": "con <span>correo y contraseña</span>",
+      "recoverPasswordbutton": "¿Olvidaste tu contraseña?",
+      "recoverPasswordError": "Se ha producido un error al enviar el correo de recuperación de contraseña",
+      "recoverPasswordMessage": "Te hemos enviado un correo para recuperar tu contraseña",
+      "showLocationPermission": {
+        "allowLocation": "Permitir ubicación",
+        "disclaimer": "Recopilaremos los datos para permitir el seguimiento de la actividad física incluso cuando la aplicación está cerrada o no se utiliza.",
+        "noThanks": "No, gracias",
+        "subtitleFifthPart": "y grupos cercanos a tu zona, entre otras cosas...",
+        "subtitleFirstPart": "Buscamos ofrecerte un servicio íntegro, por lo que tener acceso a tu ubicación nos permite ofrecerte ",
+        "subtitleFourthPart": "puntos negros, salidas en tu zona ",
+        "subtitleSecondPart": "previsiones meteorológicas",
+        "subtitleThirdPart": ", avisarte sobre ",
+        "title": "TU UBICACIÓN NOS PERMITE SER ÚTILES"
+      },
+      "subTitle": "Propuesta de valor en dos lineas que ayude a convencer al usuario.",
+      "title": "Iniciar sesión"
+    },
+    "signUp": {
+      "alreadyRegisted": "¿Ya tienes cuenta?",
+      "alreadyRegisteredText": "¿Ya tienes cuenta?",
+      "appsVinculation": {
+        "subtitle": "Vinculación con APPs",
+        "title": "Vincula tus aplicaciones"
+      },
+      "bikeTypeSelector": {
+        "error": "Se ha producido un error al guardar los cambios",
+        "gravel": "Gravel",
+        "mountain": "Montaña",
+        "other": "Otros",
+        "road": "Carretera",
+        "save": "Siguiente",
+        "subtitle": "Selecciona tus tipos de ciclismo favoritos para que podamos brindarte recomendaciones personalizadas.",
+        "title": "Tipos de ciclismo",
+        "urban": "Urbano"
+      },
+      "button": "Registrarme",
+      "createAccountButton": "Registrarme",
+      "explanationText": "o regístrate con email",
+      "finishButton": "Finalizar",
+      "label": {
+        "checkboxTextFifthPart": " de All In Biking.",
+        "checkboxTextFirstPart": "Al seleccionar Continuar, confirmo que soy mayor de {year} años y estoy de acuerdo con: ",
+        "checkboxTextFourthPart": "Políticas de privacidad",
+        "checkboxTextSecondPart": "Términos y Condiciones",
+        "checkboxTextThirdPart": " y las ",
+        "email": "Email",
+        "firstName": "Nombre",
+        "invalid": {
+          "checkboxText": "Se necesita aceptar las condiciones para crear la cuenta",
+          "email": "El email ingresado no es válido.",
+          "firstName": "El nombre ingresado no es válido.",
+          "password": "Tu contraseña debe tener mínimo 8 caracteres, una mayúscula, una minúscula y un número. Max 16 caracteres",
+          "repeatPassword": "Las contraseñas no coinciden"
+        },
+        "password": "Contraseña",
+        "repeatPassword": "Repite contraseña"
+      },
+      "notAccountText": "¿No tienes cuenta?",
+      "signinButton": "Iniciar sesión",
+      "subTitle": "Propuesta de valor en dos lineas que ayude a convencer al usuario.",
+      "title": "registrarme",
+      "orTooText": "O también",
+      "cancelSignUp": {
+        "title": "Abandonar registro",
+        "message": "¿Seguro que quieres abandonar el registro?",
+        "cancelButton": "Cancelar",
+        "acceptButton": "Abandonar"
+      }
+    },
+    "socialMedia": {
+      "showMore": "Ver más"
+    },
+    "stolenBike": {
+      "appbar": "Incidencia",
+      "buttons": {
+        "exit": "Salir",
+        "showReport": "Ver alerta y ayudar al propietario"
+      },
+      "content": "El apoyo de todos los miembros de la Comunidad para poder recuperar las bicicletas robadas es vital.\n\nComprueba la alerta y si es la misma bicicleta que has comprobado, ayuda al usuario a recuperarla.",
+      "contentTitle": "Puedes ayudar al propietario",
+      "helpDialog": {
+        "buttons": {
+          "help": "Ayudar",
+          "noHelp": "No ayudar"
+        },
+        "content": "Has descubierto una bici robada o desaparecida y puedes enviar un aviso a su propietario para que la recupere.",
+        "highlight": "Con tu ayuda reduciremos drásticamente la tasa de robos.\n\n¡Contribuye a la Comunidad!\n#safeTogether",
+        "title": "¿NO VAS A AYUDARLE?"
+      },
+      "slogan": "¡Hoy por ti, mañana por mí!",
+      "subtitle": "Esta bici ha sido reportada como robada o desaparecida en nuestro sistema",
+      "title": "Bici robada\no desaparecida"
+    },
+    "strava": {
+      "stravaButton": "Integrar ahora",
+      "stravaSubtitle": "Completa tu perfil con las estadísticas de tus salidas registradas con Strava.",
+      "stravaTitle": "Intégrate con Strava"
+    },
+    "takePhotoDniScreenHardText": {
+      "cardOne": "Lado frontal",
+      "cardTwo": "Lado trasera",
+      "subTitle": "Añade Fotografías",
+      "title": "Mi verificación de identidad"
+    },
+    "timeText": {
+      "days": "Hace {time} días",
+      "hours": "Hace {time} horas",
+      "lessMinute": "Hace unos instantes",
+      "minutes": "Hace {time} minutos",
+      "month": "Hace {time} meses",
+      "noKnow": "Hace tiempo",
+      "oneDay": "Hace {time} día",
+      "oneHour": "Hace {time} hora",
+      "oneMinute": "Hace {time} minuto",
+      "oneMonth": "Hace {time} mes",
+      "oneYear": "Hace {time} año",
+      "years": "Hace {time} años"
+    },
+    "availableOn": "Disponible en",
+    "timeRemainingText": {
+      "days": "{time} días",
+      "hours": "{time} horas",
+      "lessMinute": "unos instantes",
+      "minutes": "{time} minutos",
+      "month": "{time} meses",
+      "noKnow": "tiempo",
+      "oneDay": "{time} día",
+      "oneHour": "{time} hora",
+      "oneMinute": "{time} minuto",
+      "oneMonth": "{time} mes",
+      "oneYear": "{time} año",
+      "years": "{time} años"
+    },
+    "tutorial": {
+      "modalAccept": "Eliminar",
+      "modalCancel": "Cancelar",
+      "modalTitle": "¿Estás seguro de que quieres eliminar el tutorial?",
+      "showTutorial": "Ver tutoriales",
+      "tutorial": "Tutorial",
+      "tutorialSubtitle": "Accede a los tutoriales para dar tus primeros pasos en la aplicación.",
+      "tutorialTitle": "Aprende a utilizar la aplicación"
+    },
+    "typeHere...": "Escribe aquí...",
+    "uploadedFileDetails": {
+      "back": "Volver",
+      "errors": {
+        "downloadFailure": "Ocurrio un error descargando el documento",
+        "unknowType": "El documento tiene un formato desconocido"
+      }
+    },
+    "uploadFiles": {
+      "appBar": "Subir archivos",
+      "buttonObtain": "Obtener",
+      "buttonUpload": "Subir",
+      "buy": "Subir factura de compra",
+      "camera": "Cámara de fotos",
+      "deleteDialog": {
+        "cancelLabel": "Salir",
+        "deleteButton": "Eliminar"
+      },
+      "deleting": "Eliminando",
+      "download": "Descargar",
+      "downloading": "Descargando documento",
+      "edit": "Editar",
+      "error": "Ha ocurrido un error al subir el archivo",
+      "errorDelete": "Error eliminando el documento",
+      "failureDownloaded": "Descarga fallida",
+      "failureDownloadLocalFile": "No se puede descargar un archivo local",
+      "fileInterest": "Archivos de interés",
+      "filesExceeded": "Ha llegado al máximo de subida de documentos permitidos",
+      "gallery": "Galería de fotos",
+      "history": "Historial de mantenimiento",
+      "manual": "Subir manual de la bici",
+      "pdf": "Subir pdf",
+      "saveChanges": "Guardar cambios",
+      "smartTitle": "Certificado inteligente",
+      "subtitle": "Agrega factura de compra, manuales y cualquier otro documento que quieras conservar de tu bici",
+      "success": "Se ha subido el archivo correctamente",
+      "successDelete": "Eliminado exitoso",
+      "successSaved": "Guardado exitoso",
+      "title": "Documentación",
+      "uploadFile": "Documentos",
+      "view": "Ver"
+    },
+    "uploadInvoice": {
+      "appbar": "Factura",
+      "deleteDialog": {
+        "title": "¿Estás seguro que quieres eliminar este manual?"
+      },
+      "filesExceeded": "Ha llegado al máximo de subida de documentos permitidos",
+      "itemLabel": "Factura",
+      "manualUploadLabel": "Factura de compra",
+      "name": "Factura",
+      "subtitle": "Puedes subir la factura haciendo una foto al documento desde tu cámara o seleccionando un archivo en tu dispositivo si ya la tienes en formato digital.",
+      "title": "Subir factura de compra",
+      "uploadButton": "Anexar factura",
+      "uploadedFiles": "Factura subida"
+    },
+    "uploadMantainance": {
+      "appbar": "Mantenimientos",
+      "deleteDialog": {
+        "title": "¿Estás seguro que quieres eliminar este documento?"
+      },
+      "itemLabel": "Documento",
+      "manualUploadLabel": "Otros documentos",
+      "name": "Mantenimiento",
+      "subtitle": "Puedes subir hasta doce documentos",
+      "title": "Otros documentos",
+      "uploadButton": "Subir documento",
+      "uploadedFiles": "Documentos subidos"
+    },
+    "uploadManual": {
+      "appbar": "Manuales",
+      "deleteDialog": {
+        "title": "¿Estás seguro que quieres eliminar este manual?"
+      },
+      "itemLabel": "Manual",
+      "manualUploadLabel": "Manuales de la bici",
+      "name": "Manual",
+      "subtitle": "Puedes subir hasta tres manuales",
+      "title": "Manuales de la bici",
+      "uploadButton": "Anexar manual",
+      "uploadedFiles": "Manuales subidos"
+    },
+    "utils": {
+      "cantOpenExternalText": "No se puede abrir el siguiente enlace {url} ",
+      "degToCompass": {
+        "E": "E",
+        "ENE": "ENE",
+        "ESE": "ESE",
+        "N": "N",
+        "NE": "NE",
+        "NNE": "NNE",
+        "NNW": "NNO",
+        "NW": "NO",
+        "S": "S",
+        "SE": "SE",
+        "SSE": "SSE",
+        "SSW": "SSO",
+        "SW": "SO",
+        "W": "O",
+        "WNW": "ONO",
+        "WSW": "OSO"
+      }
+    },
+    "validateEmail": {
+      "button": {
+        "checkEmailVerificationAgain": "Ya lo he confirmado",
+        "sendVerificationEmail": "No he recibido el email"
+      },
+      "emailAlreadyValidaed": "¿No has recibido ningún email?",
+      "error": "Email no verificado",
+      "snackBar": {
+        "emailSended": "Te acabamos de reenviar el email de confirmación"
+      },
+      "title": {
+        "main": "Te hemos enviado un email de verificación",
+        "subtitle": "Te hemos enviado un correo con el título “Verifica tu email”. Debes pulsar el botón “Verificar email” que encontrarás dentro."
+      }
+    },
+    "verifyIdentity": {
+      "appBar": "Mi verificación de identidad",
+      "backImage": "Lado trasera",
+      "birthDate": "Fecha de nacimiento",
+      "confirmData": "Confirmo que los datos y el documento de identidad proporcionados me pertenecen",
+      "dni": "dni",
+      "DNI": "DNI",
+      "doPhoto": "¡Voy!",
+      "errorSnackbar": "Error al subir las fotos.",
+      "errorVerify": "Error al realizar la solicitud de verificación.",
+      "frontImage": "Lado frontal",
+      "idErrorVerify": "Ya existe un usuario con ese número de documento.",
+      "idType": "Doc",
+      "invalidLength": "El número máximo de carácteres son 16.",
+      "invalidMinLength": "El número mínimo de carácteres son 8.",
+      "noNumberError": "Debe contener al menos un número.",
+      "invalidCharacters": "Carácteres no válidos.",
+      "lastName": "Apellidos",
+      "name": "Nombre",
+      "nationality": "Nacionalidad",
+      "NIE": "NIE",
+      "number": "Número",
+      "selfieButton": "Subir Selfie",
+      "selfieTitle": "Hazte un selfi con el DNI",
+      "subtitle": "Para reconocer tus bicicletas como tuyas necesitamos estar seguros.",
+      "title": "Identidad no verificada",
+      "update": "Actualizar",
+      "uploadPhoto": "Subir mi selfie",
+      "uploadPhotoDNI": "Subir fotos del DNI",
+      "uploadPhotoDNIUpdated": "DNI subido",
+      "uploadPhotoNIE": "Subir fotos del NIE",
+      "uploadPhotoNIEUpdated": "NIE subido"
+    },
+    "verifyPhone": {
+      "appbar": {
+        "title": "Verificar mi número de teléfono"
+      },
+      "buttonLabel": "Recibir código",
+      "fieldError": "Número de teléfono inválido",
+      "fieldSubtitle": "Te enviaremos un SMS para verificar tu número",
+      "fieldTitle": "Número de teléfono",
+      "notFilled": "Número de teléfono sin rellenar",
+      "sendCodeError": "Error verificando el número de verificación",
+      "sendSmsError": "Error enviando el mensaje al número de teléfono",
+      "subtitle": "Tu número es un dato completamente privado y es necesario para completar la verificación de tu identidad.",
+      "title": "verifica tu número de teléfono"
+    },
+    "verifyPhoneCode": {
+      "appbar": {
+        "title": "Verificar mi número de teléfono"
+      },
+      "buttonLabel": "Verificar número",
+      "fieldError": "Código no cumple con el formato",
+      "fieldTitle": "Código recibido por SMS",
+      "sendCodeAgain": "Recibir otro código ",
+      "subtitle": "Introduce aquí el código que te ha llegado por SMS para verificar tu número de teléfono",
+      "title": "tienes un sms",
+      "validateSnackbar": "Número verificado con éxito"
+    },
+    "welcome": {
+      "alreadyRegisteredText": "¿Ya tienes cuenta?",
+      "createAccountButton": "Comenzar",
+      "explanationSubtext": "Acabamos de lanzar la aplicación y estamos trabajando duro para mejorarla e implementar nuevas funcionalidades.\n\nLeeremos y tendremos en cuenta cada uno de vuestros comentarios sobre cómo podríamos mejorar porque, al fin y al cabo, ¡All In Biking es para vosotros!",
+      "explanationText": "cuidamos\n de ti y de\n tu bicicleta",
+      "signInButton": "Iniciar sesión",
+      "signUpButton": "Crear cuenta con tu email"
+    },
+    "suggestUpdate": {
+      "later": "Más tarde",
+      "update": "Actualizar",
+      "message": "Descárgate la nueva versión de la app y disfruta de la mejor comunidad ciclista."
+    },
+    "searchUsers": "Buscar usuarios...",
+    "seeNumResults": "Resultados {value}"
+  }

@@ -1,0 +1,3716 @@
+{
+    "dateRangeFilters": {
+      "dayValue": "{value} D",
+      "weekValue": "{value} W",
+      "monthValue": "{value} M",
+      "yearValue": "{value} Y"
+    },
+    "loadingScreenSponsor": "Main Sponsor",
+    "editProfileDialog": {
+      "acceptText": "Accept",
+      "cancelText": "Cancel",
+      "discardChangesText": "Hey, you have unsaved changes, do you want to discard them?"
+    },
+    "backgroundDownloader": {
+      "completeDownload": "Download Completed",
+      "gpxInfo": "The GPX file has been saved in your device's download folder."
+    },
+    "rank": {
+      "appBar": "Ranking",
+      "seeRanking": "See season ranking",
+      "friends": "Season ranking",
+      "friendsPodium": "Friends podium",
+      "seasonDetailAppBar": "SEASON ONE",
+      "addAFriend": "Add a friend",
+      "comparative": "Comparative",
+      "comparativeWith": "Compare with...",
+      "share": {
+        "title": "Invite your friends to join and enjoy competing together to be the best!",
+        "buttonText": "Share"
+      },
+      "refreshRankIn": "The ranking updates in",
+      "refreshUserIn": "Your data will update in",
+      "searchCountry": "Search country",
+      "showTotal": {
+        "title": "Show",
+        "POINTS": "Points",
+        "KM": "KM",
+        "TIME": "Time",
+        "ALTITUDE": "Altitude"
+      },
+      "welcome": {
+        "title": "First season\nALL IN BIKING",
+        "subtitle": "Share your passion for cycling",
+        "description": "Discover the excitement of the SEASON ONE of the AIB Ranking! Compete, progress, and reach the top in our first season of challenges!",
+        "buttonNext": "Next",
+        "buttonAccept": "Accept",
+        "nationality": "Nationality:",
+        "international": "Independent",
+        "selectCountryError": "An error occurred while selecting the country"
+      },
+      "error": "An error occurred while retrieving statistics",
+      "youText": "(You)",
+      "compare": "Compare",
+      "of": "of",
+      "cancel": "Cancel",
+      "selectValueMore": "Select {value} more",
+      "deSelectAll": "Deselect all",
+      "userMenuFilter": {
+        "title": "Filters",
+        "all": "All",
+        "myFriends": "My Friends",
+        "myAge": "My Age",
+        "myGender": "My Gender"
+      },
+      "table": {
+        "position": "Position",
+        "user": "User",
+        "points": "Points",
+        "totalKM": "Total Kilometers",
+        "totalTime": "Total Time",
+        "totalAltitude": "Total Altitude"
+      },
+      "noLeagueFilterAlert": {
+        "title": "ATTENTION",
+        "description": "In order to show you within the local, provincial, or national league, you need to set up your location data. Remember that the data is updated every 4 hours.",
+        "leftButton": "Exit",
+        "rightButton": "Configure"
+      },
+      "userMenuLeague": {
+        "title": "Leagues",
+        "local": "Local",
+        "state": "Provincial",
+        "country": "National",
+        "global": "Global",
+        "unknown": "Unknown"
+      },
+      "radarChart": {
+        "time": "Time",
+        "distance": "Distance",
+        "ascent": "Ascent",
+        "rides": "Rides",
+        "interaction": "Interactions",
+        "calories": "Calories",
+        "speed": "Speed"
+      }
+    },
+    "shareBike": {
+      "title": "SHARE BIKE",
+      "subtitle": "Share with your friends\nand have fun!",
+      "share": "Share",
+      "publish": "Publish",
+      "sendToFriends": "Send to my friends"
+    },
+    "noLastRideUsersText": "No rides completed",
+    "lastRideUserText": "Last ride: {value}",
+    "newGarage": {
+      "availableModels": "{value} available models",
+      "category": "Category",
+      "brand": "Brand",
+      "type": "Bike Type",
+      "model": "Model",
+      "isThisYourBike": "Is this your bike?",
+      "yesItIs": "Yes, it is my bike",
+      "yourModel": "Your bike's model",
+      "searchModel": "Search model",
+      "filters": "Filters",
+      "addModel": "Add '{value}' as model",
+      "addBrand": "Add '{value}' as brand",
+      "yourBrand": "Your bike's brand",
+      "searchBrand": "Search brand",
+      "selectSize": "Select size",
+      "yourBikeSize": "Your bike's size",
+      "yourBikeSuspension": "Your bike's suspension",
+      "selectYourSuspension": "Select suspension",
+      "bikeGender": "Your bike's gender",
+      "selectGender": "Select gender",
+      "selectColor": "Select color",
+      "finish": "Finish",
+      "bikeIsAvailable": "BIKE AVAILABLE \n NOW",
+      "success": "Success",
+      "successMsg": "We added your bike to your garage so you can enjoy it on every ride, go check it out!",
+      "notRegistered": "Not Registered",
+      "selectYear": "Select year",
+      "seeResults": "See Results",
+      "regBike": "Bike Registration",
+      "eraseFilters": "Disable filters",
+      "couldNotFindBrand": "We couldn't find your brand",
+      "couldNotFindModel": "We couldn't find your model",
+      "suspensionValues": {
+        "simple": "Simple",
+        "double": "Double",
+        "none": "No suspension",
+        "dontKnow": "Don't know"
+      },
+      "sexValues": {
+        "man": "Man",
+        "women": "Women",
+        "unisex": "Unisex"
+      }
+    },
+    "bikeForm": {
+      "form": "Form",
+      "formTitle": "Register your model",
+      "formSubtitle": "You can register your bike model to improve our search engine and our community!",
+      "brand": "Brand*",
+      "model": "Model*",
+      "yourEmail": "Your email*",
+      "urlReference": "Model reference URL*",
+      "comment": "Any comments...",
+      "send": "Send",
+      "successTitle": "FORM SUBMITTED \n SUCCESSFULLY",
+      "successMsg": "We have received your request, we will contact you shortly to confirm your bike's details",
+      "goGarage": "Go to garage"
+    },
+    "weather": {
+      "thunderstorm": "Thunderstorm",
+      "clouds": "Cloudy!",
+      "drizzel": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "mist": "Mist",
+      "smoke": "Smoke",
+      "haze": "Haze",
+      "dust": "Dust",
+      "fog": "Fog",
+      "sand": "Sand",
+      "ash": "Ash",
+      "squall": "Squall",
+      "tornado": "Tornado",
+      "default": "Clear"
+    },
+    "addBike": {
+      "buttonText": "Go to Garage",
+      "subtitle": "Enter the garage and start protecting it within the community",
+      "title": "Add your first bike on All In Biking"
+    },
+    "cropImage": {
+      "acceptText": "Accept",
+      "cancelText": "Cancel",
+      "discardChangesText": "Are you sure you want to discard this capture?"
+    },
+    "cameraStates": {
+      "photoText": "Photo",
+      "videoText": "Video"
+    },
+    "deletedUser": "Deleted User",
+    "bike": {
+      "and": "and",
+      "bikeSizeGuide": {
+        "close": "Close",
+        "mountainBike": "Mountain Bike",
+        "roadBike": "Road Bike",
+        "title": "Size Guide"
+      },
+      "color": {
+        "black": "Black",
+        "blue": "Blue",
+        "bronze": "Bronze",
+        "brown": "Brown",
+        "golden": "Golden",
+        "gray": "Gray",
+        "green": "Green",
+        "orange": "Orange",
+        "pink": "Pink",
+        "purple": "Purple",
+        "red": "Red",
+        "silver": "Silver",
+        "white": "White",
+        "yellow": "Yellow"
+      },
+      "effect": {
+        "candy": "Candy",
+        "chrome": "Chrome",
+        "fluorescent": "Fluorescent",
+        "glitter": "Glitter",
+        "matte": "Matte",
+        "metallic": "Metalized",
+        "none": "No effect"
+      },
+      "mountainTable": {
+        "cell_1_1": "XS (13’-14’)",
+        "cell_1_2": "68-74 cm",
+        "cell_1_3": "152-162 cm",
+        "cell_2_1": "S (15’-16’)",
+        "cell_2_2": "75-77cm",
+        "cell_2_3": "163-168 cm",
+        "cell_3_1": "M (17’-18’)",
+        "cell_3_2": "79-82 cm",
+        "cell_3_3": "169-178 cm",
+        "cell_4_1": "L (19’-20’)",
+        "cell_4_2": "84-89 cm",
+        "cell_4_3": "179-186 cm",
+        "cell_5_1": "XL (21’-22’)",
+        "cell_5_2": "90-91 cm",
+        "cell_5_3": "187-193 cm",
+        "header1": "Size",
+        "header2": "Inseam",
+        "header3": "Height"
+      },
+      "roadTable": {
+        "cell_1_1": "44-47 XXS",
+        "cell_1_2": "68-74 cm",
+        "cell_1_3": "152-162 cm",
+        "cell_2_1": "48-49 XS",
+        "cell_2_2": "75-76 cm",
+        "cell_2_3": "163-166 cm",
+        "cell_3_1": "50-52 S",
+        "cell_3_2": "77-79 cm",
+        "cell_3_3": "167-170 cm",
+        "cell_4_1": "53-54 M",
+        "cell_4_2": "81-82 cm",
+        "cell_4_3": "171-179 cm",
+        "cell_5_1": "55-57 L",
+        "cell_5_2": "83-86 cm",
+        "cell_5_3": "179-183 cm",
+        "cell_6_1": "58-60 XL",
+        "cell_6_2": "87-90 cm",
+        "cell_6_3": "184-188 cm",
+        "cell_7_1": "60-63 XXL",
+        "cell_7_2": "91 cm",
+        "cell_7_3": "189-192 cm",
+        "header1": "Size",
+        "header2": "Inseam",
+        "header3": "Height"
+      },
+      "scanQRTitle": "Scan QR or Barcode",
+      "textRecognitionInProgress": "Recognizing text...",
+      "textRecognitionLabelText": "Serial number",
+      "textRecognitionNoText": "No serial number identified",
+      "textRecognitionScannerText": "Scan with camera",
+      "textRecognitionTakePicture": "Enter value or take a photo"
+    },
+    "bikeCard": {
+      "changeAlias": "Change alias",
+      "deleteBike": "Delete bike",
+      "transfer": "Transfer"
+    },
+    "bikeDetail": {
+      "appBarMyBike": "My bike",
+      "complete": "Complete",
+      "edit": "Edit",
+      "errorMessage": "Failed to retrieve ride details",
+      "incomplete": "Incomplete bike registration",
+      "photos": "Photos",
+      "verifyProperty": "Verify ownership",
+      "verifyUser": "Verify user"
+    },
+    "bikeDetails": {
+      "Acquisition": "Acquisition",
+      "addPhoto": "Edit photos",
+      "alias": "Alias",
+      "axis": "Bottom bracket",
+      "backToGarage": "Back to garage",
+      "bikeCompletedInfo": "Complete information about your bike",
+      "bikeStepsCompleted": "Incomplete information about your bike",
+      "bikeUpdated": "Saved successfully",
+      "blockchainLabel": "Secured in blockchain",
+      "blockchainLabelNone": "Not secured in blockchain",
+      "blockchainPopup": {
+        "basicFile": "Basic file",
+        "completeFile": "Complete file",
+        "print": "Print"
+      },
+      "reportBike": {
+        "error": "Error reporting bike",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report bike",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "We will send the bike information to our support team. The owner will not be notified of this action.",
+        "success": "We have received the report successfully"
+      },
+      "blockchainStep": "Blockchain registration",
+      "buttomFinish": "Finish",
+      "changeAlias": "Change alias",
+      "dataStep": "Technical data",
+      "deleteBike": {
+        "accept": "Delete",
+        "cancel": "Cancel",
+        "warning": "Are you sure you want to delete this bike?"
+      },
+      "direction": "Direction",
+      "distance": "Distance",
+      "documents": "Documents",
+      "editData": "Edit data",
+      "editTecnicalData": "Select the parts you want to edit",
+      "establishment": "Establishment",
+      "fork": "Fork",
+      "frame": "Frame",
+      "Information": "Information",
+      "materialType": "Material",
+      "noRegisterLabel": "Unregistered",
+      "notVerified": "Not verified",
+      "registerLabel": "Registration",
+      "rides": "Rides",
+      "serialLabel": "# Serial: {serialNumber}",
+      "serialLabelNone": "No serial #",
+      "serialNumberStep": "Serial number",
+      "shareBikePost": "Share bike",
+      "stolenCard": {
+        "button": "View alert",
+        "date": "{day} of {month}",
+        "title": "Theft alert"
+      },
+      "technicalDataBike": "Technical data",
+      "time": "Time",
+      "verified": "Verified",
+      "watch": "View"
+    },
+    "bikeNotRegister": {
+      "appBar": "Bike not registered",
+      "buttomBoughtBike": "I bought this bike",
+      "buttomCheckOtherNumber": "Check another number",
+      "cardTitle": "We cannot verify its origin",
+      "detail": "This serial number is not registered in the All In Biking Community, so we cannot verify its origin. Make sure you entered it correctly and that it corresponds to a bike.",
+      "notpropietary": "No current owner",
+      "title": "Unregistered serial number"
+    },
+    "bikeNotStolenScreen": {
+      "detail": "We found that your bike is already registered by another user, please follow the steps below that suit your situation.",
+      "proveOwnership": "The bike is mine, and I can prove it",
+      "proveOwnershipButton": "Prove ownership",
+      "title": "We want to help you",
+      "transferOwnership": "Request ownership transfer",
+      "transferOwnershipButton": "Request transfer"
+    },
+    "bikeSelector": {
+      "appbar": "Indicate your bike",
+      "text": "So that the application can reflect it in your statistics and in your maintenance book",
+      "title": "Which bike are you going to use?"
+    },
+    "bikeStolenScreen": {
+      "appBar_singular": "Incident",
+      "button_contact_now": "Contact All In Biking Now",
+      "buttonCheckOther": "View alert and help the owner",
+      "buttonShowHelp": "View alert and help the owner",
+      "detailDisappeared": "Your bike has been reported as stolen or missing in our system",
+      "stolen_description": "If the bike is yours, don't worry, we have reported the incident to our Incident Department to provide the best possible solution.",
+      "stolenOrDisappeared": "stolen\n or disappeared",
+      "titleDisappeared": "You can help the owner"
+    },
+    "blockchainCertificate": {
+      "appbarTitle": "Blockchain Certificate",
+      "error": "Error sharing PDF, please try again",
+      "fetchInfo": "Fetching blockchain data",
+      "share": "Share"
+    },
+    "blockchainInfo": {
+      "appbarTitle": "Blockchain Certificate",
+      "button": "Register",
+      "content": "We have verified that your user identity is verified and you have registered your bike's serial number, accepting the sworn statement of truth.\n\nYou meet all the requirements to obtain the Smart Certificate from All In Biking and start protecting your bike with Blockchain technology.",
+      "title": "You are going to Register the ownership of your bike on our blockchain"
+    },
+    "blockForUpdate": {
+      "version_title": "Version Note",
+      "appbarTitle": "Update Required",
+      "content": "It is necessary to update the app for it to work normally and enjoy the new features",
+      "linkText": "If you want to see the rest of the updates, visit our website",
+      "omitLabel": "Skip",
+      "resume": "Here is a summary of the news",
+      "title": "Your installed version is outdated",
+      "updateLabel": "Update now",
+      "webName": "See more on our blog",
+      "webNameShort": "Read on blog",
+      "AppStoresLabel": "Go to the app store"
+    },
+    "carousel": {
+      "buttonBack": "Back",
+      "buttonNext": "Next",
+      "buttonSave": "Save",
+      "buttonSkip": "Skip"
+    },
+    "changeAlias": {
+      "appBar": "Change alias",
+      "button": "Save alias",
+      "errorText": "Max. 50 characters. min. 2 characters. alphanumeric characters only",
+      "label": "Alias",
+      "subtitle": "It will be a name by which you will recognize your bike.",
+      "success": "You have changed your bike's alias",
+      "title": "Choose an alias"
+    },
+    "changePassword": {
+      "appbar": "Set up account",
+      "emailSended": "Password change email sent successfully",
+      "newPassword": "New password",
+      "oldPassword": "Current password",
+      "passwordRequirements": "Current password is optional if you signed up with Google",
+      "orApple": " or Apple",
+      "passwordUpdatedMessage": "Password changed successfully",
+      "passwordUpdatedMessageError": "Error changing password",
+      "repeatNewPassword": "Repeat the new password",
+      "saveChangesButton": "Save new password",
+      "title": "Change password"
+    },
+    "chat": {
+      "activateNotifications": "Activate notifications",
+      "activeChat": "Active chat",
+      "buttonChatRides": "Go to chat",
+      "copy": "Copy",
+      "unreadMessages": "You have {value} unread messages",
+      "errors": {
+        "activateNotifications": "Error activating notifications.",
+        "connectChat": "Error connecting to chat. Please try again",
+        "createChat": "Error creating chat. Please try again.",
+        "createMember": "Error creating member. Please try again",
+        "deleteUser": "Error deleting chat user.",
+        "detectMember": "Error detecting member. Please try again",
+        "getChat": "Error. Chat not found. Please try again",
+        "getChats": "Error. Chats could not be retrieved. Please try again",
+        "getHistoryMessage": "Error. The latest chat messages could not be retrieved. Please try again",
+        "getHistoryMessages": "Error trying to access message history. Please re-enter the chat.",
+        "getMembers": "Error trying to access members",
+        "getMessage": "Error receiving chat message. Please re-enter the chat.",
+        "getNewMessage": "Error. Unread messages from the chat could not be retrieved. Please try again",
+        "muteNotifications": "Error trying to deactivate notifications."
+      },
+      "reportChat": {
+        "error": "An error occurred while reporting the chat",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report chat",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "We will send the last 5 messages to our support team. The author will not be informed of this action.",
+        "success": "We have received the report successfully"
+      },
+      "reportAndBlock": "Report and block",
+      "reportChatMessage": {
+        "error": "An error occurred while reporting the message",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report message",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "We will send the message to our support team. The author will not be informed of this action.",
+        "success": "We have received the report successfully"
+      },
+      "deletedChat": {
+        "chatPVPDeletedTitle": "No user details",
+        "chatPVPDeletedBody": "Oops, it looks like the user you're looking for has been deleted 😢",
+        "chatClubDeletedTitle": "No club details",
+        "chatClubDeletedBody": "Oops, it looks like the club you're looking for has been deleted 😢",
+        "chatGroupDeletedTitle": "No group details",
+        "chatGroupDeletedBody": "Oops, it looks like the group you're looking for has been deleted 😢",
+        "chatRideDeletedTitle": "No ride details",
+        "chatRideDeletedBody": "Oops, it looks like the ride you're looking for has been deleted 😢"
+      },
+      "firstInfo": "Treat others as you would like to be treated.",
+      "groupChat": "Group chat",
+      "ifBored": "This is very boring...\nSay something!",
+      "joinUser": "{name} has joined",
+      "lobbyChat": {
+        "cancel": "Cancel",
+        "doYouWantDeleteChat": "Do you want to permanently delete the chat?\nMembers will be informed that you have left.",
+        "noChatInfo": "Here will appear the chat rooms you participate in, both conversations with your friends and groups and rides.",
+        "noChatTitle": "You don't have\nany chat",
+        "noChatInSearchTitle": "No results",
+        "noMessages": "No messages",
+        "searchName": "Search for a name or keyword...",
+        "title": "Conversations",
+        "searchHint": "Search user",
+        "yes": "Yes"
+      },
+      "members": "{people} participants",
+      "muteChat": "Mute chat",
+      "outChat": "Leave chat",
+      "privateChat": "Private chat",
+      "remember": "Remember two little things:",
+      "resend": "Retry",
+      "rideFinishedDate": "Ride finished: {date}",
+      "secondInfo": "All In Biking will never contact you under a user's name or ask for private information. Be suspicious and report anyone who does.",
+      "sendMessage": "Send message",
+      "separator": "  ·   ",
+      "showMembers": "View Members",
+      "startIn": "Starts in {dateTime}",
+      "subtitle": "Starts in ",
+      "userOut": "{name} has left",
+      "yourMessage": "Your message"
+    },
+    "comments": {
+      "errorInput": "maximum 500 characters",
+      "inputPlaceholder": "Write a comment...",
+      "editComments": {
+        "appBar": "Edit comment",
+        "saveButton": "Save"
+      },
+      "createCommentSuccess": "Comment published",
+      "editCommentSuccess": "Comment edited",
+      "deleteCommentSuccess": "Comment deleted",
+      "deleteDialog": {
+        "title": "DELETE MESSAGE",
+        "subtitle": "You are about to delete your comment from {value}. Keep in mind that this action is irreversible.",
+        "subtitle1": "Are you sure you want to proceed?",
+        "accept": "Delete",
+        "cancel": "Cancel"
+      }
+    },
+    "completeInformationScreen": {
+      "contactWithSupport": "Contact support",
+      "detail": "Your identity may not have been verified or you have not registered your bike's serial number. \n\nComplete your information to get the Smart Certificate and start protecting your bike with Blockchain technology.",
+      "problemPersists": "If the problem persists, contact support",
+      "regiterNumberSerie": "Register serial number",
+      "title": "Complete your information",
+      "verifyInProccessAppBar": "Verification in process",
+      "verifyInProccessBody": "Your verification may take between 24h and 48h. We will notify you when it is ready.",
+      "verifyInProccessButton": "Back to the garage",
+      "verifyInProccessTitle": "Verification pending approval",
+      "verifyProfile": "Verify identity"
+    },
+    "confirmCodeTaken": {
+      "appbar": "Scanned serial number",
+      "backLabel": "Back",
+      "confirmLabel": "It is correct",
+      "fieldTitle": "Scanned code",
+      "subtitle": "Make sure the entered number is correct to avoid receiving incorrect information",
+      "title": "Make sure!"
+    },
+    "createGroup": {
+      "addImage": "Add image",
+      "anyone": "Any area",
+      "clubErrorText": "Invalid club name",
+      "continue": "Continue",
+      "createButton": "Create group",
+      "createGroupType": {
+        "button": "Next",
+        "content": "Select the type of group you want to create",
+        "title": "Group type",
+        "typeClub": "Federated Club",
+        "typeClubDesc": "Create your federated club and pedal towards success. <span>Start now!</span>",
+        "typeGroup": "Group",
+        "typeGroupDesc": "Create your group and join the fun. <span>Start now!</span>"
+      },
+      "badFormatImage": {
+        "title": "Unsupported format",
+        "content": "Supported formats for images: png and jpg. Supported formats for videos: mp4, mov, avi, and 3gp."
+      },
+      "editAppBar": "Edit group",
+      "editSuccess": "Changes made successfully",
+      "errorDescription": "Invalid description field",
+      "errorText": "Invalid group name",
+      "errorUploadingImage": "Image could not be taken",
+      "files": "Upload from my gallery",
+      "form": {
+        "accept": "Accept",
+        "addLink": "Add link",
+        "advancedTitle": "Advanced (Optional)",
+        "approximateContent": "The group's location will be shown in the results but not on the map.",
+        "approximateTitle": "Approximate",
+        "cancel": "Cancel",
+        "cif": "Fiscal Code (CIF)",
+        "clubDescription": "Club description",
+        "clubName": "Club name",
+        "clubRules": "Club rules",
+        "clubTitle": "Club data",
+        "externalLinks": "External links",
+        "federatedClubLabel": "My club is federated",
+        "federation": "Federation",
+        "frontPageButton": "Cover",
+        "groupDescription": "Group description",
+        "groupName": "Group name",
+        "groupRules": "Group rules",
+        "groupTitle": "Group data",
+        "legalTitle": "Legal data",
+        "linkPlatform": "Platform",
+        "linkTitle": "Select a link",
+        "locationTitle": "Select location or meeting place",
+        "logoButton": "Logo",
+        "preciseContent": "The group's location will be shown on the map and in the results.",
+        "preciseTitle": "Precise",
+        "presidentLastName": "President's last name",
+        "presidentName": "President's name",
+        "privateGroupLabel": "Private group",
+        "rideType": "Cycling types",
+        "verifiedLabel": "Verified users only"
+      },
+      "fromCamera": "Take a photo now",
+      "generalDataTitle": "General data",
+      "gravel": "Gravel",
+      "imageSelectorTitle": "Cover image",
+      "invitations": "Invite participants",
+      "link": {
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "deleteLink": "Edit link Delete link",
+        "deleteModalBody": "Are you sure you want to delete this link?"
+      },
+      "locationLabel": "Only for people in this region",
+      "locationTitle": "Where is the group?",
+      "mountain": "Mountain",
+      "onlyForThisRegion": "Select group location",
+      "others": "Others",
+      "peopleIn": "Select zone",
+      "privacy": {
+        "private": "Private group",
+        "privateSubtitle": "Only invited or accepted people can see your information and participate",
+        "public": "Public group",
+        "publicSubtitle": "Any user can join, participate, and invite others"
+      },
+      "privacyLabel": "Group type",
+      "privacyTitle": "Group privacy",
+      "profileImage": {
+        "addPhoto": "Take a photo now",
+        "fromCamera": "Capture the moment!",
+        "deletePhoto": "Delete image",
+        "title": "Profile image",
+        "uploadPhoto": "Upload from my gallery"
+      },
+      "road": "Road",
+      "saveChanges": "Save changes",
+      "selectRegion": "Select a region",
+      "submitError": "An error occurred while creating the group",
+      "submitSuccess": "Group created successfully",
+      "triathlon": "Triathlon / Duathlon",
+      "type": {
+        "club": "Club",
+        "group": "Group"
+      },
+      "urban": "Urban / Ride",
+      "visibleLabel": "Be visible on the map"
+    },
+    "createPost": {
+      "add": "Add",
+      "addImage": "Add image",
+      "addMultimedia": "Add multimedia files",
+      "appBar": "Create post",
+      "defaultInitMessage": {
+        "bike": "Hello community! I want to share my bike with you all, hoping to use it on outings with some of you!",
+        "ride": "Hello community! I'm sharing this {type} ride of {estimatedDistance} and {estimatedDuration} with a difficulty level of {difficulty}.",
+        "stealReport": "Hello community! I want to inform you that my {colorPrimaryAndSecondary} {brand} {model} bike, with serial number {serieNumber}, was stolen on {date} at {time} in the area of {stealZoneCity}, {stealZoneProvince}, {stealZoneCountry}.",
+        "kpi": "Hello community! I want to share with you the results I've achieved."
+      },
+      "error": "An error occurred while creating the post",
+      "errorMaxImagesLength": "You can only use 10 images",
+      "errorLength": "Invalid number of characters",
+      "groupName": "Will be shared in: {groupName}",
+      "options": {
+        "bikes": "Bikes",
+        "multimedia": "Multimedia content",
+        "poll": "Poll",
+        "reports": "Thefts",
+        "rides": "Rides"
+      },
+      "optionTitle": "Add multimedia",
+      "publishButton": "Publish",
+      "publishGroupName": "Publish on behalf of the group",
+      "shareIn": "Will be shared in: ",
+      "success": "Post published",
+      "textArea": "Write for everyone...",
+      "userPreferences": "Preferences",
+      "userPreferencesMenu": {
+        "cmAnyone": "Anyone can comment",
+        "cmNoOne": "No one can comment",
+        "cmOnlyMembers": "Only members can comment",
+        "comments": "Comments",
+        "onlyMembers": "Only members",
+        "public": "Public",
+        "savePreferences": "Save preferences",
+        "title": "Publication preferences",
+        "visibility": "Visibility"
+      }
+    },
+    "editPost": {
+      "add": "Add",
+      "addImage": "Add image",
+      "addMultimedia": "Add multimedia files",
+      "appBar": "Edit post",
+      "error": "An error occurred while editing the post",
+      "errorMaxImagesLength": "You can only use 10 images",
+      "errorLength": "Invalid number of characters",
+      "optionTitle": "Add multimedia",
+      "publishButton": "Save",
+      "publishGroupName": "Save on behalf of the group",
+      "success": "Post saved",
+      "textArea": "Write for everyone...",
+      "userPreferences": "Preferences",
+      "userPreferencesMenu": {
+        "cmAnyone": "Anyone can comment",
+        "cmNoOne": "No one can comment",
+        "cmOnlyMembers": "Only members can comment",
+        "comments": "Comments",
+        "onlyMembers": "Only members",
+        "public": "Public",
+        "savePreferences": "Save preferences",
+        "title": "Publication preferences",
+        "visibility": "Visibility"
+      }
+    },
+    "datePicker": {
+      "accept": "Accept",
+      "cancel": "Cancel"
+    },
+    "deepLink": {
+      "inviteApp": "Join the All In Biking Community!",
+      "reportShare": "My bike has been stolen! Maybe you can help me. Here is the theft information:",
+      "reportThirdShare": "This person's bike has been stolen! Maybe you can help. Here is the theft information:",
+      "share": "Share",
+      "shareKpiCard": "Check out this cyclist's profile",
+      "shareFriend": "Friendship request in All In Biking",
+      "shareGroup": "Check out this cycling group in All In Biking",
+      "shareMyLink": "{username} invites you to join All in Biking. Enter and have fun with him and the rest of our cycling community.",
+      "shareMyLinkDescription": "Invite a friend to join All in Biking. By scanning this QR code, they can enter the application",
+      "sharePost": "Check out this post on All in Biking!",
+      "shareProfile": "Check out my cyclist profile on All In Biking",
+      "shareRide": "Join this ride!",
+      "shareBike": "Check out this bike on All in Biking!",
+      "shareThirdPartyProfile": "Check out this person's profile",
+      "shareThirdPartyRide": "Check out this ride on All In Biking"
+    },
+    "deleteUser": {
+      "button": "Delete account",
+      "cancelButton": "Cancel",
+      "deleteButton": "Delete",
+      "title": "Are you sure you want to delete your user?"
+    },
+    "drawer": {
+      "blackPoints": "Black points",
+      "community": "Community",
+      "friends": "Friends",
+      "garage": "Garage",
+      "help": "Help",
+      "logOut": "Log out",
+      "options": "Preferences",
+      "profile": "Profile",
+      "report": "Report theft",
+      "routes": "Rides"
+    },
+    "editAccount": {
+      "appbar": "Configure account",
+      "changePassword": "Change password",
+      "emailLabel": "Email (private)",
+      "logout": "Log out",
+      "logoutModalTitle": "Are you sure you want to log out?",
+      "accessProfile": {
+        "appbar": "Mini profile",
+        "subtitle": "Hide or show the user mini-profile that appears on the homepage",
+        "hide": "Hide",
+        "show": "Show"
+      },
+      "saveChangesButton": "Save new email",
+      "title": "Access data"
+    },
+    "editPrivacity": {
+      "appbar": "Privacy",
+      "profile": "Profile",
+      "privacyMode": {
+        "onlyForMe": "Only for me",
+        "onlyFriends": "Only friends",
+        "private": "Private (Only followers)",
+        "public": "Public (For everyone)"
+      },
+      "rideSegment": "Hide start and end of my activities"
+    },
+    "editOpportunitiesAndNews": {
+      "appBar": "Opportunities and News",
+      "businessOpportunities": "Business opportunities",
+      "businessOpportunitiesExplanation": "I want to receive information about business opportunities related to the cycling world.",
+      "newsletter": "Newsletter",
+      "newsletterExplanation": "I want to receive information about updates and news from the platform."
+    },
+    "editProfile": {
+      "profileData": "Profile Data",
+      "account": "Configure account",
+      "category": "Category",
+      "city": "City",
+      "country": "Country",
+      "cp": "Postal code",
+      "description": "Description",
+      "edit": "Edit profile",
+      "email": "Email",
+      "enumGender": {
+        "female": "Female",
+        "male": "Male",
+        "other": "Other"
+      },
+      "verifiedDialogInfo": {
+        "title": "Verify profile",
+        "content": "Verifying your profile is crucial to protect your bike on the blockchain and to participate in exclusive rides only for verified profiles. Make sure to complete the verification to enjoy all the benefits of our cycling community!"
+      },
+      "errorCodePostal": "Enter 4 to 20 alphanumeric characters.",
+      "errorInDescription": "Invalid description",
+      "errorMatchingCodePostal": "This postal code does not match the selected country.",
+      "errorTooShort": "The description must be at least 5 characters.",
+      "externalLinks": "External links",
+      "gender": "Gender",
+      "noCityData": "No cities found",
+      "noCountryData": "No countries found",
+      "noStateData": "No provinces found",
+      "personalData": "Personal data",
+      "privateInformation": "Private information",
+      "profileVerified": "Verified identity",
+      "profileVerifiedError": "Verification error",
+      "profileVerifiedPending": "Pending verification",
+      "profileVerifiedRejected": "Verification rejected",
+      "profileVerifiedRejectedSubtitle": "Oops! There seems to be an error with your verification request. Make sure the photos are of good quality and that your document is valid.",
+      "profileVerifiedText": "Verify profile",
+      "profileVerifiedTitle": "Verify your profile and enjoy the best experience!",
+      "publicData": "Public data",
+      "publicDataSubtitle": "Remember that this information will be visible to the entire All In Biking Community.",
+      "publicInformation": "Public information",
+      "publicProfile": "Public profile",
+      "selectCountry": "Select a country",
+      "selectPhoto": "Select photo",
+      "selectState": "Select a province",
+      "state": "Province",
+      "takePhoto": "Take photo",
+      "takePhotoError": "Could not access the camera",
+      "unVerifyButtonCard": "Verify now",
+      "unVerifySubTitleCard": "Your identity is not verified",
+      "unVerifyTitleCard": "Identity not verified",
+      "username": "Username",
+      "userVerifyExist": "The username already exists",
+      "verifyButtonCard": "Update",
+      "verifySubTitleCard": "Your identity has been verified successfully",
+      "verifyTitleCard": "Identity verified"
+    },
+    "errors": {
+      "401": "Your session has been closed for security reasons. Please log in again.",
+      "common": "An unexpected error occurred, please try again.",
+      "deleteAccount": "This account has been deleted. If you wish to restore it, contact us through allinbiking.com.",
+      "emailAlreadyExist": "The associated email already exists.",
+      "emailInvalid": "The entered email is not valid.",
+      "error": "Error",
+      "firebase": {
+        "accountExitsWithDifferentCredential": "Account exists with different credentials.",
+        "errorOperationNotAllowed": "Operation not allowed. Please contact support.",
+        "errorUserDisabled": "This user has been disabled. Contact support for assistance.",
+        "errorUserNotFount": "Email not found, create an account.",
+        "errorWrongPassword": "Incorrect password. Please try again.",
+        "invalidCredential": "Received credential has an incorrect format or has expired.",
+        "invalidVerificationCode": "Received credential verification code is not valid.",
+        "invalidVerificationId": "The received credentials verification ID is not valid.",
+        "commonError": "The email or password is incorrect."
+      },
+      "friends": "Friends not available.",
+      "google": "Error in the example API.",
+      "requestError": "Error in the request.",
+      "search_address_exception": "Address not found.",
+      "signIn": "Authentication failure.",
+      "signUp": "Error in registration.",
+      "statistics": "Statistics not available."
+    },
+    "expressReport": {
+      "view": {
+        "back": "Back",
+        "error": "An error occurred while publishing the alert.",
+        "immediateWarning": "Immediate Warning",
+        "locationError": "Could not obtain location.",
+        "title": "Send alert to Community"
+      }
+    },
+    "expressReportSent": {
+      "view": {
+        "appBar": "Alert Sent",
+        "completeReport": "Complete alert",
+        "notNow": "Not Now",
+        "shareButton": "Share on my networks",
+        "shareContent": "The more people know that your bike has been stolen, the more chances you have of recovering it.",
+        "shareTitle": "Spread the theft of your bike",
+        "title": "Alert sent to the Community"
+      }
+    },
+    "findingDetails": {
+      "table": {
+        "details": "Details",
+        "foundOnShop": "Seen in shop",
+        "internet": "Internet",
+        "link": "Link",
+        "locatedOn": "Located on",
+        "webOrApp": "Web or APP",
+        "whenFound": "Seen on",
+        "whereFound": "Seen in"
+      },
+      "view": {
+        "appBar": "Sighting summary",
+        "chatButton": "Open chat with the user",
+        "goGarage": "Go to garage",
+        "imagesOfFinding": "Images of the sighting",
+        "seeMyReport": "See my alert",
+        "userThatReported": "User who reported it"
+      }
+    },
+    "finishedRides": {
+      "activityTime": "Activity time",
+      "avgSpeed": "Average speed",
+      "avgVelocity": "Average velocity",
+      "commentsLabelText": "comments",
+      "error": "We couldn't find the statistics for your rides, please try again later or contact support.",
+      "errorAccept": "Contact support",
+      "fromCamera": "From camera",
+      "fromGallery": "From gallery",
+      "goToConnect": "Connect",
+      "graphs": "Graphs",
+      "health": {
+        "average": "Average heart rate",
+        "avgHeartRate": "{value} bpm",
+        "calories": "Calories burned",
+        "caloriesValue": "{value} kcal",
+        "max": "Maximum heart rate",
+        "maxHeartRate": "{value} bpm",
+        "title": "Health"
+      },
+      "height": {
+        "maxHeight": "Maximum height",
+        "minHeight": "Minimum height",
+        "title": "Heights",
+        "totalAscent": "Cumulative altitude"
+      },
+      "inactivityTime": "Inactivity time",
+      "individualFinishedRides": {
+        "averageWatts": "{value} W",
+        "avgHearthRate": "{value} bpm",
+        "burnedCalories": "{value} kcal",
+        "error": "Error loading the route, try again later.",
+        "hearthTitle": "Health",
+        "maxHearthRate": "{value} bpm",
+        "maxWatts": "{value} W",
+        "powerTitle": "Power",
+        "realizedBy": "Created by",
+        "ridesDataTitle": "Route",
+        "simulations": {
+          "buttonText": "Link applications",
+          "otherUserMessage": "We have no information about the performance of this user during the ride.",
+          "ownerMessage": "We have no information about your performance on this ride.",
+          "statisticsOf": "Statistics of",
+          "title": "Simulated statistics"
+        },
+        "title": "Ride"
+      },
+      "likesLabelText": "likes",
+      "maxHeight": "Maximum altitude",
+      "maxVelocity": "Maximum velocity",
+      "minHeight": "Minimum altitude",
+      "noRidesMessage": "Your rides will appear here.",
+      "noTracksData": "Currently, we have no data for your ride. To compare with other All In Biking users, connect with one of our providers.",
+      "power": {
+        "average": "Average power",
+        "avgPower": "{value} W",
+        "max": "Maximum power",
+        "maxPower": "{value} W",
+        "title": "Power",
+        "total": "Total"
+      },
+      "radarChart": {
+        "ascent": "Ascent",
+        "ascentSpeed": "Ascent speed",
+        "ascentWinner": "Climber",
+        "avgHearthRate": "Average heart rate",
+        "avgSpeed": "Average speed",
+        "avgSpeedWinner": "Roller",
+        "avgWattsWinner": "Powerful",
+        "calories": "Calories",
+        "descentWinner": "Descender",
+        "distance": "Distance",
+        "fittestWinner": "Athletic",
+        "info": {
+          "ascent": "Cyclist with the highest ascent speed.\n\n",
+          "avgSpeed": "Cyclist with the highest average speed of all sections.\n\n",
+          "avgWatts": "Cyclist who has generated the most power watts.\n\n",
+          "descent": "Cyclist with the highest descent speed.\n\n",
+          "fittest": "Cyclist with the highest physical fitness. Metric based on the average speed and the average heart rate per section.\n\n",
+          "maxSpeed": "Cyclist who has reached the highest speed in one or more sections.\n\n"
+        },
+        "maxHearthRate": "Maximum heart rate",
+        "maxSpeedWinner": "Sprinter",
+        "modal": {
+          "button": "Understood",
+          "explanation": "This graph represents your statistics in comparison with your overall statistics.",
+          "explanation2": "- The white line represents your overall statistics.",
+          "explanation3": "- The orange line represents your statistics on this ride.",
+          "title": "Information"
+        },
+        "time": "Time",
+        "title": "Comparison"
+      },
+      "resume": {
+        "ascent": "Total ascent",
+        "duration": "Total duration",
+        "title": "Summary",
+        "totalDistance": "Total distance"
+      },
+      "ridersLabelText": "riders will attend",
+      "route": "Route",
+      "sectionFilterLabel": "Filter",
+      "sectionTitle": "Latest rides",
+      "speed": {
+        "avgSpeed": "Average speed",
+        "avgSpeedInAscent": "Ascent speed",
+        "maxSpeed": "Maximum speed",
+        "title": "Speeds"
+      },
+      "statisticsDifficultyLabel": "Difficulty",
+      "statisticsDistanceLabel": "Distance",
+      "statisticsLabel": "Label",
+      "statisticsTimeLabel": "Time",
+      "times": {
+        "inMotion": "In motion",
+        "stopped": "Paused",
+        "title": "Times",
+        "total": "Total"
+      },
+      "totalDistance": "Distance",
+      "totalDuration": "Duration",
+      "userStatistics": {
+        "ascentVelocity": "Ascent Velocity",
+        "averageSpeed": "Average Speed",
+        "avgSpeedInAscent": "{value} km/h",
+        "endurance": "Endurance",
+        "maxSpeed": "{value} km/h",
+        "maxVelocity": "Maximum Velocity",
+        "negativeAltitude": "Negative Altitude",
+        "positiveAltitude": "Positive Altitude",
+        "slower": "Slower",
+        "speed": "{value} km/h",
+        "theBests": "The Best",
+        "winner": "Winner"
+      },
+      "userStatisticsTitle": "Comparison",
+      "watchOnGarmin": "View on Garmin",
+      "watchOnStrava": "View on Strava",
+      "you": "You"
+    },
+    "forecast": {
+      "grade": "Grade",
+      "hour": "Hour",
+      "image_forecast": "",
+      "searchIn": "Rides published in",
+      "windSpeed": "{windSpeed} km/h",
+      "youAreIn": "You are in"
+    },
+    "formInputs": {
+      "formInputsEmailInputLabel": "Email",
+      "formInputsFirstNameInputLabel": "First Name",
+      "formInputsLastNameInputLabel": "Last Name",
+      "formInputsRequiredField": "(*) Required field",
+      "formInputsUnvalidEmail": "Enter a valid email"
+    },
+    "friends": {
+      "alreadyFriends": "You are friends",
+      "appbarTitle": "Friends",
+      "buttonNoFriends": "Invite to All In Biking",
+      "communityLevel": "Level 1",
+      "couldYouMeetTitle": "Could you meet",
+      "friendsListTitle": "Friends {value}",
+      "sentsListTitle": "Sent {value}",
+      "receivedListTitle": "Received {value}",
+      "blockedListTitle": "Blocked {value}",
+      "invite": "Invite",
+      "seeMore": "Ver {value} más",
+      "noRides": "You haven't ridden together yet",
+      "recommendationButtonText": "Connect",
+      "rides": "{times} rides together",
+      "searchPeople": "Search profile",
+      "searchResultsTitle": "Search results",
+      "shareMessage": "Invite your group to enjoy All In Biking together",
+      "showAll": "Show all",
+      "titleNoFriends": "Can't find your friends?",
+      "username": "Username",
+      "usersNotFound": "Users not found",
+      "waitingApprove": "Waiting for acceptance"
+    },
+    "garage": {
+      "appbar": "My Garage",
+      "connect_to_allinbiking": "Connect now with All In Biking",
+      "deleteSuccess": "The bike has been deleted successfully",
+      "heroAppBar": "Bike Image",
+      "info": "Information",
+      "isEmpty": "Empty garage",
+      "isVerified": "Verified",
+      "noBikesText": "You are one step away from entering your first bike and securing its ownership with Blockchain technology within the All In Biking Community",
+      "notVerified": "Not verified",
+      "otherUserRecomendation": "This user has no registered bikes",
+      "recomendation": "You haven't registered any bikes yet",
+      "register": "Register here",
+      "registered": "Registered",
+      "registerNewBike": "Add bike",
+      "screenRegisterBike": "Bike registration screen",
+      "success": "Created successfully",
+      "verified": "Verified on",
+      "view": "View"
+    },
+    "graph": {
+      "avg": "Average",
+      "height": "Height",
+      "max": "Maximum",
+      "min": "Minimum",
+      "summary": "Summary",
+      "velocity": "Velocity"
+    },
+    "groupDetails": {
+      "activities": "Activities",
+      "addButton": {
+        "addMembers": "Add members",
+        "createPost": "Create post",
+        "createPostInProfile": "Post on my profile",
+        "createPostInProfileAppBar": "Post",
+        "createRide": "Create group ride"
+      },
+      "appBar": "Back",
+      "back": "Back",
+      "rideGallery": "Ride gallery",
+      "createdModal": {
+        "clubTitle": "Club created",
+        "groupTitle": "Group created",
+        "inviteButton": "Invite",
+        "sendButton": "Send to my friends",
+        "subtitle": "Share with your friends and have fun!"
+      },
+      "podium": {
+        "title": "Podiums",
+        "points": "Points",
+        "distanceTitle": "Distance",
+        "distance": "Distance (km)",
+        "altitudeTitle": "Ascent",
+        "altitude": "Ascent (m)",
+        "weekly": "Last 7 days",
+        "monthly": "Last 30 days",
+        "quarterly": "Last 90 days",
+        "season": "Season",
+        "addAMember": "Invite a friend",
+        "shareGroup": "Share the group",
+        "position": "Position",
+        "user": "User",
+        "showMoreResults": "Show more results",
+        "comingSoon": "Coming Soon"
+      },
+      "kpiLabel": {
+        "avgSpeed": "Max Speed\n/ 7 days",
+        "distance": "Accumulated\ndistance / 7 days",
+        "totalTime": "Accumulated\ntime / 7 days",
+        "maxDistance": "Max Distance\n/ 7 days"
+      },
+      "reportGroup": {
+        "error": "Error reporting the group",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report group",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "We will send the group information to our support team. No participant will be notified of this decision.",
+        "success": "We have received the report successfully"
+      },
+      "createRideButton": "Plan a ride",
+      "deleteError": "Error deleting the group, please try again later",
+      "deletePending": "Delete request",
+      "deletePost": "Delete post",
+      "editPost": "Edit post",
+      "deletePostError": "Error deleting the post",
+      "deletePostSuccess": "The post has been deleted successfully",
+      "deleteSuccess": "The group has been deleted successfully",
+      "distanceKpi": "Total distance",
+      "followButton": "Follow",
+      "followButtons": {
+        "join": "Request access",
+        "loading": "Sending...",
+        "requestSent": "Request sent",
+        "settings": "Settings",
+        "error": "An error occurred, request again"
+      },
+      "frontpage": "Cover",
+      "frontpageTab": {
+        "and": "and",
+        "createDate": "Creation",
+        "description": "Description",
+        "gravel": "Gravel",
+        "groupcyclingtypes": {
+          "gravel": "Gravel",
+          "highway": "Road",
+          "mountain": "Mountain",
+          "triathlon": "Triathlon",
+          "urban": "Urban"
+        },
+        "highway": "",
+        "mountain": "Mountain",
+        "readMore": "Read full",
+        "rideTypes": "Cycling types",
+        "road": "Road",
+        "triathlon": "Triathlon / Duathlon",
+        "unknown": "Unknown",
+        "urban": "Urban / Ride"
+      },
+      "galleryMore": "more",
+      "groupInfo": {
+        "club": "Federated club",
+        "creation": "Creation",
+        "cyclingTypes": "Cycling types",
+        "description": "Description",
+        "group": "Group",
+        "readAll": "Read full",
+        "readLess": "Hide",
+        "title": "Group Information"
+      },
+      "errorGetPost": "Failed to request the posts",
+      "reportComment": {
+        "error": "Error reporting the comment",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": {
+          "reportComment": "Report comment",
+          "deleteComment": "Delete comment",
+          "editComment": "Edit comment"
+        },
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "We will forward the comment to our support team. The comment owner will not be notified of your action.",
+        "success": "We have received the report successfully"
+      },
+      "groupMap": {
+        "filter": {
+          "title": "Select the cycling types of your interest",
+          "types": {
+            "gravel": "Gravel",
+            "mountain": "Mountain",
+            "other": "Other",
+            "road": "Road",
+            "tour": "Urban/Ride",
+            "triathlon": "Triathlon"
+          }
+        },
+        "groupCardButtons": {
+          "admin": "You are an administrator",
+          "member": "You are a member",
+          "none": "View group"
+        },
+        "groupFilter": {
+          "title": "Select the groups you want to see on the map.",
+          "types": {
+            "club": "Federated clubs",
+            "group": "Groups and clubs"
+          }
+        },
+        "totalGroups": "See {nGroups} groups",
+        "totalHiddenGroups": "{nGroups} with hidden location",
+        "noGroupsInArea": "There are no groups in the area",
+        "filteredGroups": "View {filteredGroups} groups out of a total of {totalGroups}"
+      },
+      "groupMembers": {
+        "adminRole": "Administrator",
+        "appBar": "Group Members",
+        "deleteError": "An error occurred while deleting the user",
+        "deleteSuccess": "The user has been successfully removed from the group",
+        "deleteUser": "Remove from the group",
+        "deleteUserAlert": "Are you sure you want to remove <span>{userName}</span> from the group? The user can request to join the group again.",
+        "member": "Member",
+        "members": "Current",
+        "moderatorRole": "Moderator",
+        "no": "No",
+        "noRequestsSubtitle": "Promote and invite people to your group; here you can accept members who want to join!",
+        "noRequestsTitle": "No user\nrequests yet",
+        "requests": "Requests",
+        "search": "Search",
+        "userRole": "",
+        "yes": "Yes",
+        "you": "You"
+      },
+      "groupPrivacy": {
+        "PRIVATE": "Private Group",
+        "PUBLIC": "Public Group"
+      },
+      "groupStatistics": {
+        "hours": "hrs",
+        "kilometers": "kms"
+      },
+      "invite": "Invite",
+      "join": "Request to join",
+      "joinGroupError": "An error occurred while joining the group",
+      "joinGroupSuccess": "Access requested successfully.",
+      "leaveSuccess": "The group has been left successfully",
+      "memberButton": "You are a member",
+      "memberMenuItems": {
+        "leave": "Leave as member",
+        "leaveAdmin": "Leave group",
+        "share": "Share group",
+        "see_members": "See members"
+      },
+      "members": "Members",
+      "membersKpi": "Members",
+      "membersText": "{nMembers} members",
+      "moreDetails": {
+        "anybodyCanView": "Any type of users",
+        "onlyMembers": "Only members",
+        "privateClub": "Private Club",
+        "privateGroup": "Private Group",
+        "publicClub": "Public Club",
+        "publicGroup": "Public Group"
+      },
+      "newNotifications": "{nNotifications} new notifications",
+      "newPost": "New post",
+      "newPostButton": "Write an announcement...",
+      "newRide": "New Group Ride",
+      "noFriends": {
+        "button": "Invite friends",
+        "title": "Invite other users and start competing with them!"
+      },
+      "noPostText": "This group hasn't posted anything yet",
+      "noRides": {
+        "createPost": "Create post",
+        "title": "Start connecting with your community, share posts"
+      },
+      "optionsMenu": {
+        "delete": "Delete group",
+        "isFavoriteGroup": "Favorite group",
+        "isFavouriteClub": "Favorite club",
+        "makeFavorite": "Make favorite group",
+        "makeFavoriteClub": "Make favorite club",
+        "deleteCancel": "No",
+        "deleteConfirm": "Yes",
+        "deleteConfirmText": "Are you sure you want to delete this group?",
+        "leaveConfirmText": "Are you sure you want to leave the group? Your privileges will be transferred to the most senior user in the group.",
+        "edit": "Edit group",
+        "members": "View information",
+        "share": "Share group",
+        "title": "Group options",
+        "see_list_members": "Member list"
+      },
+      "ownerCards": {
+        "createPostButton": "Create post",
+        "createPostSubtitle": "Start bringing this Group to life to attract people's attention",
+        "createPostTitle": "Create posts or organize rides",
+        "inviteMembersButton": "Invite people",
+        "inviteMembersSubtitle": "A group with only you is no fun. Let's invite people to get to know it!",
+        "inviteMembersTitle": "Invite members"
+      },
+      "pendingAccess": "Access requested",
+      "pendingButton": "Requested",
+      "positionKpi": "Position",
+      "postBoardTitle": "Bulletin Board",
+      "posts": "Posts",
+      "privateGroupSubtitle": "The person managing it must invite you or accept your request for you to see its content",
+      "privateSubtitle": "This group is private; request access to view its activity and announcements",
+      "privateGroup": "Private Group",
+      "privateClub": "Private Club",
+      "privateTitle": "This group has marked its profile as <span>private</span>.",
+      "requestAccess": "Request access",
+      "requests": "Requests",
+      "rides": "Rides",
+      "ridesKpi": "Completed Rides",
+      "ridesTab": {
+        "noRidesButton": "Create group ride",
+        "noRidesContent": "Don't miss the chance to plan and enjoy unforgettable adventures. Plan your next ride!",
+        "noRidesTitle": "You haven't had any rides yet!",
+        "title": "Rides"
+      },
+      "seeMore": "more",
+      "statistics": "Statistics",
+      "statisticsButton": "See all statistics",
+      "statisticsTab": {
+        "title": "Statistics"
+      },
+      "upcomingRidesKpi": "Upcoming",
+      "finishedRidesKpi": "Completed",
+      "viewMap": "View map",
+      "wallTab": {
+        "emptyWall": "This group hasn't posted anything yet!",
+        "membersButton": "Invite people",
+        "membersContent": "A group with only you is no fun. Let's invite people to get to know it!",
+        "membersTitle": "Invite members",
+        "publicationsButton": "Create post",
+        "publicationsContent": "Start bringing this Group to life to attract people's attention",
+        "publicationsTitle": "Create posts or organize rides",
+        "title": "Wall"
+      },
+      "watch": "View"
+    },
+    "groupNotifications": {
+      "accept": "Accept",
+      "accepted": "Accepted",
+      "appBar": "Group Notifications",
+      "joinRequest": "Has requested to join the group",
+      "noNotifications": "No news in this group yet"
+    },
+    "groupsList": {
+      "appbar": "Clubs",
+      "brandNewTab": {
+        "createGroup": "Create club",
+        "newsInYourGroups": "News in your clubs",
+        "noNews": "No news yet",
+        "title": "Wall"
+      },
+      "discoverTab": {
+        "change": "Change",
+        "groupsInYourArea": "Groups in your area",
+        "noDiscoverGroups": "No groups in your area",
+        "recommendedClubs": "Clubs that might interest you",
+        "title": "Discover"
+      },
+      "myGroupsTab": {
+        "addGroup": "Create group or ride group",
+        "createGroup": "Create club or ride group",
+        "emptyDescription": "Join an existing group or create your own group and invite friends.",
+        "emptyTitle": "You haven't joined any groups yet",
+        "joinGroup": "Discover",
+        "noAdminGroupDescription": "Create your own group and invite friends.",
+        "noAdminGroupTitle": "You haven't created any groups yet",
+        "noFinishedRidesButton": "Create ride",
+        "noFinishedRidesDescription": "What are you waiting for to enjoy your club or ride group on All In Biking?",
+        "noFinishedRidesTitle": "No rides have been completed yet",
+        "noGroupsDescription": "Join a group, club, or ride group and start enjoying.",
+        "noGroupsTitle": "You haven't joined any groups yet",
+        "noManagedGroups": "You don't manage any groups",
+        "noMyGroups": "You don't belong to any groups",
+        "title": "My Groups",
+        "youAreAMember": "You are a member",
+        "youAreAnAdmin": "Administered by you"
+      },
+      "ridesTab": {
+        "title": "Latest created rides"
+      },
+      "searchGroups": "Search for a club",
+      "searchLabel": "Search by name"
+    },
+    "home": {
+      "acceptButton": "Let's go",
+      "bikeDetailIncomplete": "Bike with incomplete details",
+      "bikeDetailMoreSecure": "The more details you include about your bike, the more secure it will be.",
+      "building": "Under construction",
+      "buildingInThisFeature": "We are working to offer you more features.",
+      "cards": {
+        "button": "Create",
+        "createRideBody": "You can compare your statistics and have fun!",
+        "createRideTitle": "Create a ride on All In Biking and start enjoying with your friends",
+        "reminderButton": "View ride",
+        "reminderRideBody": "At {hour}. If you can't attend, remember to indicate it in the ride.",
+        "reminderRideTitle": "Tomorrow you have a\n{type} ride"
+      },
+      "addButton": {
+        "createPost": "Post",
+        "createClub": "Club",
+        "createRide": "Ride",
+        "createBike": "Bike"
+      },
+      "completeNow": "Complete now",
+      "connectWithProviders": "Connect your device to get achievements and rewards.",
+      "goToConnect": "Connect",
+      "connectWithStravaButton": "Integrate now",
+      "connectWithStravaSubtile": "Complete your profile with the statistics of your rides recorded with Strava, Garmin, etc.",
+      "connectWithStravaTitle": "Integrate with your preferred app",
+      "foundFriends": "Invite your friends to\nAll In Biking",
+      "garageSecitionCard": "Garage",
+      "garageSecitionCardText": "Create your first bike",
+      "garageSecitionCardTextBikeNumer": "{numberBikes} Bikes registered",
+      "garageSecitionCardTextOneBike": "1 Bike registered",
+      "increaseRed": "Make your friends part of the world's largest cycling community.",
+      "lastUpdates": "Latest updates",
+      "leftInfoTitle": "Suggestions for you",
+      "noReportsBody": "It seems you are in a safe area. There are no reported thefts in this area.",
+      "noReportsTitle": "No thefts\nin your area",
+      "noRidesButton": "Plan a ride",
+      "noRidesContent": "Call for a ride now and start enjoying the All In Biking Community!",
+      "noRidesTitle": "No rides\nin your area",
+      "noStealReportsButton": "Report theft",
+      "noStealReportsText": "No thefts were detected in your location. If you are a victim of theft, please report it immediately to receive help from the Community.",
+      "noStealReportsTitle": "No theft alerts",
+      "reportSecitionCard": "Theft alerts",
+      "reportSecitionTitle": "Latest thefts in your area",
+      "rideNow": "Go out now",
+      "ridesInvitationSectionTitle": "Latest ride invitations",
+      "ridesZoneTitle": "Rides in your area",
+      "searchNow": "Invite now",
+      "seeAll": "See all",
+      "seeMore": "See more",
+      "seeProfile": "View profile",
+      "subtitle": "Take your bike and give it your all!",
+      "subtitleCloud": "Stay tuned in case a few drops fall!",
+      "subtitleNight": "Don't forget your lights when going out!",
+      "subtitlePartlyCloud": "Feel the wind on your face!",
+      "subtitleRain": "Think about the next ride!",
+      "summonARide": "Summon a ride",
+      "title": "Enjoy the day",
+      "titleCloud": "Don't let the clouds stop you",
+      "titleNight": "Enjoy the stars",
+      "titlePartlyCloud": "Make the most of the day",
+      "titleRain": "Doesn't seem like the best day...",
+      "unverifiedProfileText": "To report the theft of your bike, participate in rides, and much more; you need to verify your identity.",
+      "unverifiedProfileTitle": "Unverified identity",
+      "verifyProfileButton": "Verify now",
+      "welcome": "Welcome, \n",
+      "wellcomePopupText": "We're here, but... we're using training wheels! \n\n Enjoy our app and feel free to send us your feedback to continue improving it and refining every detail.",
+      "wellcomePopupTitle": "Welcome to All In Biking!",
+      "whatYouWantToDo": "What do you want to do?"
+    },
+    "trophy": {
+      "sponsorText": "Sponsored by:",
+      "appBar": "Trophies",
+      "levelText": "Level",
+      "edit": "Edit",
+      "add": "Add",
+      "returnAppBar": "Back",
+      "newReward": "New reward:",
+      "acceptReward": "Accept",
+      "rewardClaimedDescription": "You have obtained a reward for your effort.",
+      "noTrophy": "You haven't won any trophies",
+      "loadingTrophy": "Loading your trophies...",
+      "congratsText": "Congratulations!",
+      "trophyToClaim": "New level achieved",
+      "levelCompleted": "Completed",
+      "claimRewardError": "An error occurred while claiming the reward.",
+      "myTrophys": "My Trophies",
+      "claimReward": "Claim",
+      "descriptionTypes": {
+        "newRegister": "Welcome to All In Biking! You have completed your registration.",
+        "newBikeRegister": "Congratulations! You have registered your first bike.",
+        "providersSync": "Congratulations! You have synchronized your first ride.",
+        "updateImageProfile": "Congratulations! You have updated your profile image.",
+        "joinGroup": "Congratulations! You have joined your first group.",
+        "tourFrance": "Congratulations! You have completed your first Tour de France."
+      },
+      "metricsType": {
+        "distance": " km",
+        "uniqueDistance": " km in a single ride",
+        "uniqueAltitude": " m+ in a single ride",
+        "rides": "rides",
+        "post": "post",
+        "interaction": "interactions",
+        "time": " h",
+        "calories": " kcal"
+      }
+    },
+    "identifyYourBikeScreen": {
+      "canvasText": "Check that the serial number is clean and there are no elements that hinder its correct reading.",
+      "editTitle": "You are about to modify the current serial number of the bike",
+      "identifyYourBike": "Identify serial number",
+      "scanQROrBarcode": "Scan QR or Barcode",
+      "subTitle": "For your safety, check if the bike is registered in the All In Biking Community",
+      "title": "Check the bike's serial number"
+    },
+    "inserManualSerialNumber": {
+      "alertContent": "Before saving, make sure the entered serial number is correct. Otherwise, your registration may go to the incident department.",
+      "alertTitle": "Make sure!",
+      "appbar": "Enter manually",
+      "backLabel": "Back",
+      "confirmLabel": "It's correct",
+      "fieldTitle": "Serial number",
+      "title": "MANUALLY ENTER THE SERIAL NUMBER"
+    },
+    "insertQrSerialNumber": {
+      "appbar": "With QR or barcode",
+      "title": "You just scanned the bike's serial number"
+    },
+    "internet": {
+      "disconnectMessage": "No internet connection"
+    },
+    "investmentCard": {
+      "button": "More information"
+    },
+    "inviteFriendsGroup": {
+      "acceptButton": "Invite",
+      "appBar": "Invite participants",
+      "cancelButton": "Not now",
+      "friendsTitle": "Your friends",
+      "searchByName": "Search by name",
+      "searchLabel": "Search by name",
+      "selectedUsersLabel": "{nRiders} riders selected"
+    },
+    "linkApps": {
+      "Appbar": "Link APPs",
+      "cancelButton": "Cancel",
+      "confirmButton": "Confirm",
+      "disconnect": "Disconnect",
+      "disconnectText": "Are you sure you want to disconnect?",
+      "error": "Error linking",
+      "errorDisconnect": "Error disconnecting",
+      "Garmin": "Garmin",
+      "GoogleFit": "Google Fit",
+      "Huawei": "Huawei",
+      "noFavouritesProvider": "Select your favorite provider from which you will export your outings. You can change it at any time and as many times as you need",
+      "pageTitle": "Linking with APPs",
+      "providerListLabel": {
+        "subtitleFirstPart": "We will take data from your outings from the ",
+        "subtitleSecondPart": "default application ",
+        "subtitleThirdPart": "you select."
+      },
+      "Salud": "Health",
+      "selectFavouriteProvider": "Default application",
+      "soon": "Coming soon",
+      "Strava": "Strava",
+      "success": "Successful linking"
+    },
+    "loading...": "Loading...",
+    "location": {
+      "cancelLabel": "Cancel",
+      "cantDetectedGps": "We couldn't find you! Select your location on the map",
+      "configLabel": "Configure",
+      "continue": "Continue",
+      "enableLabel": "Enable",
+      "gpsDisabled": "Your device's location is disabled. Consider enabling it to enjoy all the features of All In Biking",
+      "informationGps": "All In Biking collects location data to allow tracking physical activity even when the app is closed or not in use.",
+      "permissionNotAllowed": "Enabling location permission will make things easier for you.",
+      "SearchUbication": "Search for a location",
+      "weNeedPermission": "GPS permissions are needed",
+      "withoutGps": "No GPS signal"
+    },
+    "modal": {
+      "aceptButton": "Accept",
+      "button": "Ok",
+      "cancelButton": "Cancel",
+      "content": "We are working on it, soon you will be able to count on this functionality.",
+      "title": "Coming soon"
+    },
+    "navBar": {
+      "centralMenu": "Main Menu",
+      "community": "Community",
+      "garage": "Garage",
+      "home": "Home",
+      "marketplace": "Marketplace",
+      "menu": "Menu",
+      "rides": "Outings",
+      "security": "Security",
+      "you": "My area"
+    },
+    "notifications": {
+      "channel": "Notifications channel",
+      "checkAllButtonText": "Check All",
+      "uncheckAllButtonText": "Uncheck All",
+      "emptyText": "You have no notifications",
+      "deleteDialog": {
+        "cancelButton": "Cancel",
+        "content": "Are you sure you want to delete the notification?",
+        "continueButton": "Delete"
+      },
+      "title": "Notifications"
+    },
+    "onboarding": {
+      "appbarTitle": "All In Biking",
+      "firstPage": {
+        "button": {
+          "next": "Next"
+        },
+        "subtitle": "No monthly fees. Using the app will always be free.",
+        "title": "Free"
+      },
+      "firstPageB": {
+        "subtitle": "Join the Community",
+        "title": "CONNECT"
+      },
+      "modal": {
+        "aceptButton": "Accept",
+        "button": "Ok",
+        "cancelButton": "Cancel",
+        "content": "We are working on it, soon you will be able to count on this functionality.",
+        "marketplace": "Marketplace",
+        "myMetrics": "My metrics",
+        "rides": "Outings",
+        "soon": "Coming soon",
+        "title": "Not available"
+      },
+      "secondPage": {
+        "button": {
+          "back": "Back",
+          "next": "Next"
+        },
+        "subtitle": "Make it difficult for thieves by securing your bike in our blockchain.",
+        "title": "Secure"
+      },
+      "secondPageB": {
+        "subtitle": "Share your experiences",
+        "title": "ENJOY"
+      },
+      "signUp": "Sign Up",
+      "thirdPage": {
+        "button": {
+          "back": "Back",
+          "next": "Start"
+        },
+        "subtitle": "Enjoy outings and challenges with friends and the rest of the Community.",
+        "title": "Fun"
+      },
+      "thirdPageB": {
+        "subtitle": "Safety for you and your bike",
+        "title": "PROTECT YOURSELF"
+      },
+      "skipText": "Skip"
+    },
+    "onBoarding": {
+      "allowPermissionAccessButton": "Allow access",
+      "beginButton": "Start",
+      "doLaterButton": "Later",
+      "dontAllowPermissionAccessButton": "Do not allow",
+      "firstViewSubtitle": "Discover the best cycling community. Join rides, create groups, and share your achievements.",
+      "firstViewTitle": "Connect\nand Share",
+      "nextStepButton": "Next",
+      "registerBikeButton": "Register Now!",
+      "secondViewSubtitle": "Compete in groups for territories, unlock achievements, and earn rewards. Make every pedal count in your city and beyond.",
+      "secondViewTitle": "Be the king of\nyour area",
+      "thirdViewSubtitle": "Protect your bike with our blockchain and use the community to recover your bike in case of theft. Receive security alerts and stay safe.",
+      "thirdViewTitle": "Safe\nCycling"
+    },
+    "onBoardingCompleteUserData": {
+      "button": {
+        "username": "Start"
+      },
+      "error": {
+        "alreadyExists": "The alias already exists",
+        "username": "The alias is not valid"
+      },
+      "label": {
+        "city": "City",
+        "country": "Country",
+        "errorText": "Enter between 4 and 20 alphanumeric characters. Maximum 1 special character. No spaces.",
+        "helperText": "*You can change it once every three months.",
+        "nickname": "Alias"
+      },
+      "postalCode": "Postal Code",
+      "subtitle": "Enter the alias with which you present yourself to the Community",
+      "title": "How do you want us to know you?",
+      "username": "Choose your public alias"
+    },
+    "onBoardingGPSPermissions": {
+      "subtitle": "We provide the best security on the road with real-time geolocation and comprehensive tracking of your physical activity",
+      "title": "MY LOCATION"
+    },
+    "onBoardingRegisterBike": {
+      "description": "Register your bike now in the All In Biking garage to claim your property",
+      "title": "READY TO RIDE?"
+    },
+    "ownerInformation": {
+      "actions": {
+        "back": "Back",
+        "registerAction": "Register in blockchain"
+      },
+      "birthDate": "Birthdate",
+      "details": {
+        "appBarText": "Summary",
+        "subTitle": "Review the data and confirm that it matches yours",
+        "title": "PROPERTY CERTIFICATE",
+        "verifyIdentity": "Verify your identity"
+      },
+      "documentNumber": "Document number",
+      "documentType": "Document type",
+      "identificationDocument": "Identification document",
+      "lastName": "Last name",
+      "name": "Name",
+      "nationality": "Nationality",
+      "serialNumber": "Serial number",
+      "verifyDate": "Verified on "
+    },
+    "pdf": {
+      "buy": "Buy.",
+      "color": "Color.",
+      "mat.": "Material.",
+      "owner": "Owner.",
+      "serial": "Serial.",
+      "size": "Size.",
+      "tran": "Transmission.",
+      "year": "Year."
+    },
+    "permissions": {
+      "camera": {
+        "body": "To scan codes and documents.",
+        "title": "Camera"
+      },
+      "contacts": {
+        "body": "To quickly find people who matter to you.",
+        "title": "Contacts"
+      },
+      "localization": {
+        "body": "To show you maps and recommend nearby places, groups, and people.",
+        "title": "Location"
+      },
+      "pageTitle": "Device permissions"
+    },
+    "photoForm": {
+      "addMore": "Add more photos",
+      "appBar": "Add photos",
+      "back": "Detail 2",
+      "date": "Photos added on",
+      "delete": "Delete photo",
+      "explanationText": "The right side view will be the default photo",
+      "front": "Detail 1",
+      "left": "Left",
+      "location": "Taken in ",
+      "right": "Right",
+      "save": "Go to garage",
+      "savePhotos": "Save photos",
+      "subtitle": "We will request permission to use your camera to build the image gallery of your bike",
+      "title": "Add photographs",
+      "uploadCamera": "Take photo",
+      "uploadGallery": "Upload gallery photo"
+    },
+    "postDetails": {
+      "appBar": "Back",
+      "backToTable": "Back to the bulletin board",
+      "commentsNumberText": "See {nComments} comments",
+      "commentsNumberTextNewUI": "{nComments} comments",
+      "commentsNumberTextNewUISingular": "{nComments} comment",
+      "commentsText": "Comment",
+      "commentsHintText": "Add a comment...",
+      "goBack": "go back",
+      "important": "Important",
+      "unknownUser": "User not found",
+      "likesNumberText": "{nLikes} likes",
+      "answerCommentText": "{value} Replies",
+      "answerShowAllCommentText": "Show {value} more reply",
+      "answerHideAllCommentText": "Hide replies",
+      "answeringCommentText": "Replying to ",
+      "answerSingularCommentText": "{value} Reply",
+      "answerInPastText": "Has Answered",
+      "likeText": "Like",
+      "answerText": "Reply",
+      "nextPost": "Next post",
+      "postedDate": "Posted on\n{date}",
+      "shareNumberText": "Shared {nShares} times",
+      "sharePost": "Check out this post on All In Biking",
+      "shareText": "Share",
+      "errorComments": "Failed to retrieve comments",
+      "noComments": "No comments",
+      "unauthorizedCardSubtitle": "The person managing it must invite you or accept your request for you to view its content",
+      "unauthorizedCardTitle": "This post belongs to a private Group of which you are not a member"
+    },
+    "postLikes": {
+      "appBar": "Likes"
+    },
+    "profile": {
+      "acceptFriend": "Accept friend",
+      "alreadyFriend": "You are friends",
+      "perDay": "per day",
+      "perWeek": "weekly",
+      "perMonth": "monthly",
+      "labelWeek": "{value} week",
+      "ascent": "Ascent",
+      "bikes": "Bikes",
+      "outstandingTitle": "Outstanding",
+      "blockFriend": "Request Friendship",
+      "biomechanics": "Biomechanics",
+      "cancelFriend": "Cancel invitation",
+      "changeImage": "Change image",
+      "comments": "Comments",
+      "connect": "you are connected",
+      "userActivity": "My activity",
+      "otherUserActivity": "Their activity",
+      "connected": "Connected",
+      "publicKpiCard": "Public",
+      "privateKpiCard": "Private",
+      "connectUser": "Connect",
+      "kpiMenu": {
+        "metrics": "Metrics",
+        "trophy": "Trophies",
+        "remove": "Remove"
+      },
+      "cyclingRange": {
+        "cadete": "Cadet",
+        "elite": "Elite",
+        "junior": "Junior",
+        "master30": "Master 30",
+        "master40": "Master 40",
+        "master50": "Master 50",
+        "master60": "Master 60",
+        "senior": "Senior",
+        "sub23": "Sub'23"
+      },
+      "cyclingTypes": {
+        "GRAVEL": "Gravel",
+        "HIGHWAY": "Highway",
+        "MOUNTAIN": "Mountain",
+        "OTHERS": "Others",
+        "URBAN": "Urban"
+      },
+      "cyclistRange": "Cyclist range",
+      "cyclistSheet": "Cyclist sheet",
+      "deleteError": "Error deleting user account",
+      "deleteSuccess": "Friendship request canceled",
+      "sendFriendRequestSuccess": "Friendship request sent",
+      "deleteFriend": "Delete friend",
+      "difficulty": "Difficulty",
+      "distance": "Distance",
+      "seeAllKpis": "See all",
+      "editError": "Error updating profile",
+      "editSuccess": "Profile updated successfully",
+      "errorconection": "Connection error",
+      "files": "From files",
+      "filterUser": "Filter",
+      "finished": "Completed",
+      "friends": "RIDERS",
+      "fromCamera": "Take photo",
+      "fromStorage": "Upload photo",
+      "groupsSectionTitle": "Clubs and groups",
+      "highway": "highway",
+      "inviteFriend": "Request Friendship",
+      "inviteSuggestedFriend": "Friendship",
+      "unblock": "Unblock",
+      "months": {
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "may": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+      },
+      "daysWeek": {
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday"
+      },
+      "kpiLabel": {
+        "avgSpeed": "Max Speed\n/ 7 days",
+        "trulyAvgSpeed": "Daily Average Speed",
+        "distance": "Accumulated\ndistance / 7 days",
+        "totalTime": "Accumulated\ntime / 7 days",
+        "averageUnevenness": "Accumulated\nunevenness / 7 days",
+        "caloriesAccumulated": "Accumulated\nCalories / 7 days",
+        "averageWatts": "Max W\n/ 7 days",
+        "averageHeartRate": "Max\nHeart Rate / 7 days",
+        "finishedRides": "Rides\ncompleted / 7 days",
+        "createdArticles": "Articles\npublished / 7 days"
+      },
+      "kpiTitle": {
+        "avgSpeed": "Fast as the wind",
+        "distance": "Burning rubber",
+        "totalTime": "Time well spent",
+        "averageUnevenness": "King of heights",
+        "caloriesAccumulated": "In good shape",
+        "averageWatts": "Strong as lightning",
+        "averageHeartRate": "With a steady rhythm",
+        "finishedRides": "Number of rides completed",
+        "createdArticles": "Content creator"
+      },
+      "kpiSubtitle": {
+        "avgSpeed": "maximum speed",
+        "trulyAvgSpeed": "average speed",
+        "averagePerRides": "{value} average {time}",
+        "averagePerRide": "average {time}",
+        "maxPerRide": "max {time}",
+        "finishedRides": "Completed rides",
+        "createdArticles": "Interactions in articles"
+      },
+      "kpiSubtitle1": {
+        "avgSpeed": "Achieve an impressive average speed per kilometer on your routes",
+        "trulyAvgSpeed": "Average speed on your training sessions",
+        "distance": "Take on long kilometer routes full of discoveries.",
+        "totalTime": "Maintain an efficient and consistent average time per ride",
+        "averageUnevenness": "Achieve an impressive average unevenness on your rides",
+        "caloriesAccumulated": "Recognize physical effort during rides",
+        "averageWatts": "Measure the power you generate in each pedal and improve your performance.",
+        "averageHeartRate": "Measure and control the cardiac intensity of your rides",
+        "finishedRides": "Attend public or private routes, either as a member or as an organizer",
+        "createdArticles": "Publish, share, or comment a notable amount of cycling-related articles."
+      },
+      "kpiPrivacyDialog": {
+        "makePublicText": "Do you want to make your metrics public? By displaying your statistics, everyone will be able to see your performance data. Other users will be able to view this information on your profile.",
+        "makePrivateText": "Want to make your metrics private? By hiding your stats, only you will be able to see your performance data. Other users will not be able to view this information on your profile.",
+        "makePublicAccept": "Make public",
+        "makePrivateAccept": "Make private",
+        "makePublicCancel": "Cancel",
+        "makePrivateCancel": "Cancel"
+      },
+      "shareKpi": "Share",
+      "publicKpi": "Publish",
+      "connectYourDevice": "Connect your device to view your ride data and statistics",
+      "labelButton": "Publication",
+      "license": "Federation license",
+      "likes": "Likes",
+      "linksTitle": "Links",
+      "medicalInsurance": "Medical insurance",
+      "mountain": "Mountain",
+      "myProfile": "My profile",
+      "cancelPendingRequest": {
+        "modalTitle": "PENDING FRIEND REQUEST",
+        "modalAccept": "Remove",
+        "modalCancel": "Cancel",
+        "modalContent": "There is a pending friend request. Do you want to remove it?"
+      },
+      "deleteFriendModal": {
+        "modalTitle": "REMOVE FROM YOUR FRIENDS LIST",
+        "modalContent": "Delete friend? We won't tell {user} that they are no longer part of your friends list",
+        "modalAccept": "Delete",
+        "modalCancel": "Cancel"
+      },
+      "menuItems": {
+        "senMessage": "Send message",
+        "reportProfile": "Report profile",
+        "block": "Block",
+        "mute": "Mute",
+        "unmute": "Unmute"
+      },
+      "blockUserModal": {
+        "modalContent": "They won't be on your friends list and can't send you friend requests. We won't notify them that you've blocked them.",
+        "modalAccept": "Block",
+        "modalCancel": "Cancel"
+      },
+      "muteUserModal": {
+        "modalContent": "You will stop seeing their posts and comments. You won't receive chat alerts or friend requests. We won't notify them that you've muted them.",
+        "modalAccept": "Mute",
+        "modalCancel": "Cancel"
+      },
+      "navBar": {
+        "bikes": "Bikes",
+        "chat": "Chats",
+        "editChat": "Chat options",
+        "friends": "Friends",
+        "groups": "Groups",
+        "rides": "Rides",
+        "wall": "Wall"
+      },
+      "noData": "No data",
+      "noVerifiedButton": "Verify now",
+      "noVerifiedSubtitle": "To complete bike registration and participate in some rides, you must verify your identity",
+      "noVerifiedTitle": "Unverified identity",
+      "outs": "RIDES",
+      "pending": "Pending",
+      "pendingFriend": "Pending",
+      "principalUbication": "Principal location",
+      "privateTitle": "This user has marked their profile as private.",
+      "profileTab": {
+        "bikeType": "Cycling types",
+        "mainCity": "Main city",
+        "times": "Times",
+        "totalDistance": "Total distance",
+        "totalTime": "Total time"
+      },
+      "rejectFriend": "Reject",
+      "reportReasons": {
+        "bullying": "Bullying",
+        "identity_theft": "Identity theft",
+        "inappropriate_behaviour": "Inappropriate behavior",
+        "inappropriate_content": "Inappropriate content",
+        "other": "Other reason...",
+        "scam": "Scam",
+        "spam": "Spam"
+      },
+      "reportUser": {
+        "error": "An error occurred while reporting the user",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report user",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "success": "We have received the report successfully"
+      },
+      "reportProfile": {
+        "error": "An error occurred while reporting the profile",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report profile",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "The user profile information will be sent to our support. No participants will be notified of this decision.",
+        "success": "We have received the report successfully"
+      },
+      "reportPost": {
+        "error": "An error occurred while reporting the post",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report post",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "The post and its author's information will be forwarded to our support team. The post owner will not be notified of your action.",
+        "success": "We have received the report successfully"
+      },
+      "riders": "Cyclists",
+      "rides": "Rides",
+      "saveChanges": "Save changes",
+      "sendInvite": "You have requested to connect",
+      "settings": "Settings",
+      "speed": "Average speed",
+      "statisticsUser": "STATISTICS",
+      "time": "Time",
+      "upcoming": "Upcoming",
+      "userFriends": "Friends",
+      "userName": "Username"
+    },
+    "profileImage": {
+      "appBar": "Profile picture"
+    },
+    "purchaseData": {
+      "appbarTitle": "Purchase data",
+      "buttonLabel": "Next",
+      "comercialLocal": "Commercial local",
+      "particular": "Particular",
+      "purchaseDate": "Purchase date",
+      "seller": "Seller",
+      "uploadSubtitle": "Enter the purchase date of your bike and the seller's name where you bought it.",
+      "uploadTitle": "Purchase Data"
+    },
+    "recoveredBike": {
+      "appBar": "Recovered bike",
+      "notNow": "Not now",
+      "recovered": "Recovered",
+      "share": "Share notice on my networks",
+      "shareMessage": "I have recovered my bike! It was stolen, but thanks to All In Biking, I can enjoy it again",
+      "subtitle": "Share with the Community, your friends, and on your networks that you have managed to recover it.",
+      "thisBikeIsRecoveredContent": "This bike was stolen but has been found",
+      "thisBikeIsRecoveredTitle": "Bike recovered!",
+      "title": "Congratulations! We are infinitely happy"
+    },
+    "recoverPassword": {
+      "recoverPasswordCheckEmailEmailCheckedButton": "Go to homepage",
+      "recoverPasswordCheckEmailEmailMainInfo": "We have sent a verification email to your email {email}",
+      "recoverPasswordCheckEmailMainTitle": "Verify your email",
+      "recoverPasswordCheckEmailNoEmailInfo1": "Haven't received the email? Check your",
+      "recoverPasswordCheckEmailNoEmailInfo2": "Spam folder or",
+      "recoverPasswordCheckEmailNoEmailInfo3": "try another email",
+      "recoverPasswordEnterEmailMainButton": "Send",
+      "recoverPasswordEnterEmailMainInfo": "Enter the email associated with your account below to receive a verification email.",
+      "recoverPasswordEnterEmailMainTitle": "I forgot my password",
+      "recoverPasswordMainTitle": "Password recovery",
+      "successButton": "Back",
+      "successSubtitle": "An email will arrive in your mailbox in a moment\n{email}",
+      "successTitle": "We have sent you an email to set a new password"
+    },
+    "referralQrModal": {
+      "content": "This QR code is the access to the user's profile. Scan it to access their information",
+      "or": "Or also",
+      "shareLink": "Share on your networks"
+    },
+    "registerBike": {
+      "advancedDataTable": {
+        "appBar": "Bike created successfully",
+        "buttonText": "Go to Garage",
+        "text": "The bike has been created successfully, and we have obtained some advanced data about its components",
+        "title": "Congratulations!"
+      },
+      "AdvancedTechnicalInfoTitle": "Advanced technical data",
+      "allBrands": "All brands",
+      "basic": "Basic bike registration",
+      "basicColors": "Basic Colors",
+      "basicData": "Basic Data",
+      "bikeButton": "View bike",
+      "bikeGender": "Gender",
+      "bikeSubtitle": "Select the type of bike according to the following categories",
+      "bikeTitle": "Bike type",
+      "brakeDdisks": "Brake discs",
+      "brakes": "Brakes",
+      "brand": "Brand",
+      "cancel": "Cancel",
+      "cassete": "Cassette",
+      "chain": "Chain",
+      "changes": "Changes",
+      "chassis": "Chassis",
+      "closeButtonText": "Understood",
+      "colors": "Color",
+      "colorsSecondary": "Secondary color",
+      "components": "Components",
+      "confirmModal": {
+        "button": "Continue",
+        "text": "We have found more technical data about your bike and will incorporate them into your advanced data profile.\n\nYou can edit them at any time from the Garage.",
+        "textNew": "We recommend entering all the data about your bike so that, if something happens or you want to sell it, users will know its characteristics.",
+        "title": "Wait a moment!"
+      },
+      "controls": "Controls",
+      "covers": "Covers",
+      "currentProgress": "% of the form\ncompleted",
+      "customText": "Add this brand",
+      "date": "Select a date",
+      "derailleur": "Derailleur",
+      "documents": "Basic bike registration",
+      "effects": "Effects",
+      "exitModal": {
+        "content": "If you exit the registration form, all entered data will be lost. Do you want to exit?",
+        "leftButton": "Exit",
+        "rightButton": "Don't exit",
+        "title": "ATTENTION"
+      },
+      "gender": "Gender",
+      "genderOptions": {
+        "man": "Male",
+        "unisex": "Unisex",
+        "woman": "Female"
+      },
+      "goGarage": "Go to Garage",
+      "handlebar": "Handlebar",
+      "handles": "Handles",
+      "identitySubtitle": "Complete the basic information needed to register your bike",
+      "identityTitle": "Basic Data",
+      "inputError": {
+        "otherBrand": "Enter a valid brand",
+        "otherMaterial": "Enter a valid material",
+        "otherModel": "Enter a valid model",
+        "otherYear": "Enter a valid year"
+      },
+      "label": {
+        "invalid": "You must select this option",
+        "technicalInfo": {
+          "brakes": "Brakes",
+          "brand": "Brand",
+          "cassete": "Cassette",
+          "change": "Change",
+          "controls": "Controls",
+          "cover": "Cover",
+          "cranks": "Cranks",
+          "derailleur": "Derailleur",
+          "direcction": "Direction",
+          "firstColor": "Main Color",
+          "fork": "Fork",
+          "frame": "Frame",
+          "handlebar": "Handlebar",
+          "handles": "Handles",
+          "model": "Model",
+          "power": "Power",
+          "price": "Price",
+          "secondColor": "Other Color",
+          "type": "Bike Type",
+          "unknown": "Unknown",
+          "year": "Year"
+        },
+        "verifyProperty": "I confirm that this bike is mine and that I have the necessary documents to prove it."
+      },
+      "loadingSubTitle": "Registering your bike on blockchain",
+      "loadingSubtitle": "Registering your bike on blockchain",
+      "loadingTitle": "Registering...",
+      "material": "Material",
+      "materialOptions": {
+        "aluminum": "Aluminum",
+        "carbon": "Carbon",
+        "other": "Other",
+        "steel": "Steel",
+        "unSpecified": "Unspecified"
+      },
+      "materialType": "Material",
+      "model": "Model",
+      "noDataText": {
+        "brand": "No brands found",
+        "colors": "No colors found",
+        "model": "No models found",
+        "year": "No years found"
+      },
+      "optional": "Optional",
+      "other": "OTHER",
+      "otherColors": "Other Color",
+      "otherF": "OTHER",
+      "otherPicture": "Add another photo (optional)",
+      "pages": {
+        "security": {
+          "iWillDoItLater": "Skip step",
+          "manual": "Manually",
+          "ocrRecognition": "With optical recognition",
+          "qrButtonText": "With QR or barcode",
+          "subtileText": "Your bike's security comes first! Let's start by adding its serial number"
+        },
+        "serialNumber": {
+          "appbar": "Serial Number Data",
+          "bodyText": "Your bike's security comes first! Add your bike's serial number below. If you don't have it available right now, you can add it later.",
+          "SerialNumberButton": "Scan serial number with the camera",
+          "SerialNumberExplanation": "Before saving, check that the entered serial number is correct; otherwise, it will go to the incidents department.",
+          "serialNumberLabel": "Serial Number",
+          "title": "IDENTIFY YOUR BIKE"
+        }
+      },
+      "pedals": "Pedals",
+      "photos": "Proof of ownership certificate",
+      "picture": "Photograph",
+      "pin": "Pin",
+      "plates": "Plates",
+      "powers": "Power",
+      "property": "Proof of ownership certificate",
+      "register": "Register bike",
+      "rods": "Rods",
+      "saddle": "Saddle",
+      "serialNumberInfo": "Where is the serial number located?",
+      "serialNumberInfoText": "You will find the serial number on your bike's frame. Depending on the model, it can be a QR code, a barcode, or an engraved number.",
+      "serialNumberMessage": "Tell us the serial number of your bike to identify it in case of theft or loss.",
+      "serialNumberTitle": "Serial Number",
+      "serialValidation": {
+        "error": "An error occurred validating the serial number",
+        "undefined": "The serial number could not be validated"
+      },
+      "size": "Size",
+      "sizeInfo": "How can I know my size?",
+      "sizeOptions": {
+        "L": "Large",
+        "M": "Medium",
+        "S": "Small",
+        "XL": "Extra Large",
+        "XS": "Extra Small",
+        "XXL": "Double Extra Large"
+      },
+      "skip": "Skip step",
+      "slash": "Seatpost",
+      "statusRegisterCardSubtitle": "To participate in some rides, you must verify your identity.",
+      "statusRegisterCardTitle": "Certified Registration",
+      "statusRegisterTitle": "Bike Registration Status",
+      "suspension": "Suspension",
+      "suspensionOptions": {
+        "double": "Double",
+        "noSuspension": "Without Suspension",
+        "simple": "Simple",
+        "unSpecified": "Unspecified"
+      },
+      "technicalDataInfoTitle": "Basic Technical Data",
+      "technicalDataInfoTitleCompleted": "Congratulations! You're one click away from having your bike's technical data sheet",
+      "technicalInfoMessage": "Specify the technical data of your bike to better identify it.",
+      "technicalInfoTitle": "Technical Data",
+      "technicalSpecsSubtitle": "Check everything is correct and edit what is necessary. When you finish the basic technical sheet, you can see your bike in the garage.",
+      "technicalSpecsTitle": "Basic Technical Sheet",
+      "textInfoExit": "Are you sure you want to exit without saving changes? ",
+      "tires": "Tires",
+      "topBrands": "Top Brands",
+      "traction": "Traction",
+      "tractionOptions": {
+        "conventional": "Conventional",
+        "electric": "Electric",
+        "unSpecified": "Unspecified"
+      },
+      "tractionType": "Traction",
+      "transmissionAndBrakes": "Transmission and Brakes",
+      "type": {
+        "adapted": "Adapted",
+        "fixies": "Fixie",
+        "folding": "Folding",
+        "gravel": "Gravel",
+        "mountain": "Mountain",
+        "mtx": "BMX",
+        "other": "Other",
+        "road": "Road",
+        "triathlon": "Triathlon",
+        "tricycles": "Tricycle"
+      },
+      "uploadImage": {
+        "backAlert": "Frame the back part of the bike within the area",
+        "backContent": "Add a photo of the back of your bike",
+        "deleteCancel": "Cancel",
+        "deleteContent": "If you continue, the selected image will be deleted. Do you want to continue?",
+        "deleteContinue": "Continue",
+        "deleteTitle": "Delete image?",
+        "frontAlert": "Frame the front part of the bike within the area",
+        "frontContent": "Add a photo of the front of your bike",
+        "leftAlert": "Frame the left profile of the bike within the area",
+        "leftContent": "Add a photo of the left profile of your bike",
+        "otherContent": "Add a photo of your bike",
+        "replaceImage": "Replace",
+        "rightAlert": "Frame the right profile of the bike within the area",
+        "rightContent": "Add a photo of the right profile of your bike",
+        "takePhoto": "Take photo",
+        "uploadImage": "Search in library"
+      },
+      "verifyPropertyViewFile": "Upload file",
+      "verifyPropertyViewMessage": "To recognize the bike as yours, we need to be sure.",
+      "verifyPropertyViewPhoto": "Take photo",
+      "verifyPropertyViewPhotoInfo": "Take a photo of the invoice, receipt, or any proof of your purchase",
+      "verifyPropertyViewTitle": "Verify ownership.",
+      "wheel": "Wheels",
+      "writeHere": "Write here...",
+      "year": "Year"
+    },
+    "registerBikeInfo": {
+      "button": "Let's go!",
+      "close": "Close",
+      "content1": "You can save manuals, invoices, technical information, and stay updated on news from your brand.",
+      "content2": "With just one click, you can seek help from the community and authorities and mark your bike as stolen.",
+      "content3": "Every year, bikes appear that cannot be returned because the owner is unknown. Don't let your bike be one of them!",
+      "contentTitle1": "1 All information in your hands",
+      "contentTitle2": "2 Theft alert",
+      "contentTitle3": "3 Recovery",
+      "exit": "Exit",
+      "subtitle": "Why add my bike?",
+      "title": "Add\nBike"
+    },
+    "registerBikeTermsAndConditions": {
+      "agreeWithTerms": "I agree to the Terms and Conditions",
+      "appbarTitle": "Smart Certificate",
+      "buttonLabel": "Save changes",
+      "continue": "Continue",
+      "successBlockchainRegister": "Congratulations! You have successfully registered your bike on Blockchain!",
+      "swornDeclaration": "Sworn declaration of truthfulness of the provided data",
+      "termsAndConditionsContent": "By accepting this message, I declare responsibly:\n\n1.- That I am older than {year}.\n\n2.- That I am the legitimate and full owner of the bike I am registering in my name.\n\n3.- The truthfulness, accuracy, and suitability of the documentation provided to prove ownership of the bike.\n\n4.- That under my responsibility, I assume the fulfillment of the legal obligations inherent in each of these statements and release ALL IN BIKING SL from any responsibility for the service it provides according to its Terms and Conditions.\n\nAnd for it to be recorded for the appropriate legal effects, I give my consent and authorize ALL IN BIKING SL to register this document with the signature and digital fingerprint of the place, date, and device through which it is formalized.",
+      "verifyBlockchainRegister": "Verifying..."
+    },
+    "registerByOtherUser": {
+      "actualProperty": "Current owner",
+      "appRegisterByUser": "Registered by another user",
+      "buttonContactSupport": "Contact support",
+      "buttonContactSupportInfo": "The bike is mine, and I can prove it",
+      "buttonCorrectSerial": "Correct serial number",
+      "buttonCorrectSerialInfo": "I entered the wrong serial number",
+      "buttonTalkActualProperty": "Talk to the current owner",
+      "canHelp": "We can help you",
+      "scanAnotherNumber": "Scan another number",
+      "secureWithSectionRegister": "Secured on blockchain",
+      "serialNumberExist": "Serial number already registered",
+      "serialNumberExistDetail": "The serial number you entered is already registered in All In Biking by another user",
+      "talkActualProperty": "Current owner",
+      "talkActualPropertyInfo": "I think there is an error, and I want to talk to the current owner",
+      "titleSectionRegister": "Register",
+      "viewDetail": "View bike details"
+    },
+    "registerNumberSerieScreen": {
+      "backButton": "Back",
+      "bottomTextDialog": "Please verify that it is correct to continue or go back to enter it again.",
+      "continueButton": "Continue",
+      "headerTextDialog": "The serial number you entered is",
+      "saveDataButton": "Save serial number",
+      "snackBar": "Congratulations! You have entered the serial number correctly"
+    },
+    "report": {
+      "appbarTitle": {
+        "aboutBike": "Bike data",
+        "bikeReport": "Report theft",
+        "bikeReportContext": "Additional information",
+        "bikeSelect": "Select the stolen bike",
+        "reportType": "Incident moment"
+      },
+      "bikeList": "My bikes",
+      "bottomSheet": {
+        "help": "Help",
+        "report": "Theft alerts",
+        "title": "Security"
+      },
+      "continueButton": "Continue",
+      "finding": {
+        "foundInAShop": {
+          "appBar": "Bike seen in a store",
+          "button": {
+            "back": "Back",
+            "next": "Finish",
+            "takePhoto": "Take photo",
+            "uploadPicture": "Upload from gallery"
+          },
+          "createSuccess": "Your bike sighting has been successfully created.",
+          "errorSnackbar": "Error creating the sighting.",
+          "hintText": {
+            "date": "Today",
+            "hour": "Now",
+            "place": "My current location",
+            "placeInput": "e.g., Cycles Alicante"
+          },
+          "images": "Do you have images?",
+          "inputError": {
+            "place": "Enter a valid place"
+          },
+          "inputs": {
+            "date": "When and at what time did you see it?",
+            "dateLabel": "Date",
+            "hourLabel": "Hour",
+            "locationSearch": "Location of sighting",
+            "place": "What is the name of the store?",
+            "placeLocation": "Where is the store located?",
+            "selectImage": "Do you have images?"
+          },
+          "title": "I saw it in a store"
+        },
+        "foundOnline": {
+          "appBar": "Bike seen online",
+          "button": {
+            "back": "Back",
+            "next": "Finish",
+            "takePhoto": "Take photo",
+            "uploadPicture": "Upload from gallery"
+          },
+          "createSuccess": "Your bike sighting has been successfully created.",
+          "errorSnackbar": "Error creating the sighting.",
+          "hintText": {
+            "link": "www...",
+            "otherDetails": "Alias, city of sale, etc.",
+            "place": "e.g., Wallapop, Milanuncios..."
+          },
+          "images": "Do you have images?",
+          "inputError": {
+            "link": "Enter a valid link",
+            "otherDetails": "Enter a valid description",
+            "place": "Enter a valid place"
+          },
+          "inputs": {
+            "link": "Copy the link and paste it here",
+            "linkSelector": "Do you have a link where the bike can be seen?",
+            "otherDetails": "Can you provide any other details?",
+            "place": "Where did you see it online?",
+            "selectImage": "Do you have images?"
+          },
+          "radio": {
+            "no": "No",
+            "yes": "Yes"
+          },
+          "title": "I saw it online"
+        },
+        "foundStreet": {
+          "appBar": "Bike seen on the street",
+          "button": {
+            "back": "Back",
+            "next": "Finish",
+            "takePhoto": "Take photo",
+            "uploadPicture": "Upload from gallery"
+          },
+          "createSuccess": "Your bike sighting has been successfully created.",
+          "errorSnackbar": "Error creating the sighting.",
+          "hintText": {
+            "date": "Today",
+            "hour": "Now",
+            "place": "My current location"
+          },
+          "images": "Do you have images?",
+          "inputs": {
+            "date": "When and at what time did you see it?",
+            "dateLabel": "Date",
+            "hourLabel": "Hour",
+            "locationSearch": "Location of sighting",
+            "place": "Where did you see it?",
+            "selectImage": "Do you have images?"
+          },
+          "title": "I saw it on the street"
+        },
+        "view": {
+          "appBar": "Helping to find your bike",
+          "contactButton": "Open chat with the owner",
+          "internetCard": "I saw it online",
+          "shopCard": "I saw it in a store",
+          "streetCard": "I saw it on the street",
+          "subtitle": "If you have seen their bike somewhere and want to help them find it, you can do it here",
+          "title": "Have you seen their bike?"
+        }
+      },
+      "goToGarage": "Go to garage",
+      "helpText": "Select one of the options",
+      "label": {
+        "bikeName": "Bike name",
+        "checkbox": "Publish in the Community for other bikers to help me find it",
+        "date": "Date",
+        "firstName": "First name",
+        "invalid": {
+          "error": "Enter a valid description",
+          "firstName": "Invalid first name",
+          "lastName": "Invalid last name",
+          "locationSearch": "Required field",
+          "noBikesFound": "You cannot report a theft alert because your bikes are not verified or you don't have any currently.",
+          "noData": "No results found",
+          "purchaseDate": "Invalid purchase date",
+          "stealDescription": "Required field",
+          "stealSecured": "Required field"
+        },
+        "lastName": "Last name",
+        "locationSearch": "Theft location",
+        "locationSearchHelper": "Enter the theft location",
+        "purchaseDate": "Purchase date",
+        "relevantInfo": "Other details (optional)",
+        "relevantInfoExplanation": "The more information you provide, the more likely the Community can help you recover your bike. Don't forget to include details like where it was locked, where you were during the theft, and the physical appearance of the suspect.",
+        "relevantInfoPh": "Relevant information",
+        "selectBike": "Select the bike",
+        "stealDescription": "Where was the bike when it was stolen?",
+        "stealHow": "How was the theft?",
+        "stealSecured": "Do you have bike insurance?",
+        "stealSecured1": "Yes",
+        "stealSecured2": "No",
+        "time": "Time"
+      },
+      "lastButton": "Submit alert",
+      "MainButton": "Alert",
+      "nextButton": "Next",
+      "previousButton": "Back",
+      "reportBikeOf": "Stolen Bike of {username}",
+      "saveButton": "Save",
+      "sort": {
+        "date": "Most recent",
+        "dateAsc": "Least recent",
+        "distance": "Closest",
+        "distanceAsc": "Farthest"
+      },
+      "subtitle": {
+        "aboutBikeTitle": "Select the bike you want to report as stolen",
+        "bike": "Bike",
+        "date": "Theft date",
+        "parkingPlace": "Parking location",
+        "parkingSecurity": "Parking location",
+        "place": "Theft location",
+        "report": "Enter theft data to generate a report and alert relevant authorities",
+        "reportDetails": "Expand on the details of the last time you saw your bike so we can create a more accurate report",
+        "reportType": "Select the moment and location of the theft so everyone knows where to look",
+        "resume": "Alert summary",
+        "username": "Reporter's name"
+      },
+      "success": "Created successfully",
+      "title": {
+        "aboutBikeTitle": "Which bike?",
+        "locationBikeTitle": "Bike location",
+        "main": "Report stolen bike",
+        "place": "Location and date",
+        "report": "The alert",
+        "reportDetails": "The context",
+        "reportType": "When did it happen?",
+        "welcomeTitle": "Empathy message"
+      },
+      "type": {
+        "firstOptionSubtitle": "We will alert the Community within a radius of {kmRadius}km to be on the lookout.",
+        "firstOptionTitle": "Here and now",
+        "secondOptionSubtitle": "Fill in the alert details so the Community and/or the police can see it.",
+        "secondOptionTitle": "At another time or place"
+      },
+      "VerifyYourIdentity": "Verify your identity",
+      "view": {
+        "all": "Alert list",
+        "bikeNotFound": "Bike not found",
+        "closeButtonText": "Close",
+        "date": "Reported theft ",
+        "error": "An error occurred while fetching alerts",
+        "finding": "Spotted by a user",
+        "findings": "{users} users have spotted it",
+        "heroAppbar": "Theft image",
+        "map": "Map",
+        "mine": "My alerts",
+        "notFound": "No alerts found",
+        "notFoundMine": "You have no alerts",
+        "reportBikeButton": "Report theft of my bike",
+        "searchHereButton": "Search here",
+        "seeReport": "View alerts",
+        "stolen": "Stolen",
+        "title": "Select the stolen bike",
+        "verifyNow": "Verify now",
+        "verifyUserTitle": "We want to help you",
+        "verifyUserToReport": "For your safety and the safety of the Community, you need to verify your identity to submit an alert.\n\nBy certifying your identity, we can ensure that the Community helps you more securely and quickly."
+      },
+      "WelcomeInfo": "To complete the alert, you will need to: Check your identity, verify ownership, requirement"
+    },
+    "reportContext": {
+      "inABar": "In a bar",
+      "inACompetition": "In a competition",
+      "inMyGarage": "In a garage/storage room",
+      "inMyHome": "In my home",
+      "inTheStreet": "On the street",
+      "other": "Other"
+    },
+    "reportDescription": {
+      "other": "Other",
+      "withoutViolence": "Without violence",
+      "withViolence": "With violence"
+    },
+    "reportStealDialog": {
+      "error": "An error occurred while reporting the theft",
+      "invalid": "Invalid message",
+      "labelText": "Report reason",
+      "menuItem": "Report theft",
+      "modalAccept": "Send",
+      "modalCancel": "Close",
+      "modalContent": "Theft report form",
+      "modalSubContent": "We will send the theft information to our support team. The owner will not be notified about the report.",
+      "success": "We have received the report successfully"
+    },
+    "reportDetail": {
+      "table": {
+        "assured": "Insurance",
+        "bike": "Bike",
+        "city": "City",
+        "date": "Date",
+        "scene": "Scene",
+        "houseDirection": "Home",
+        "id": "ID",
+        "noInfo": "No information",
+        "owner": "Reporter",
+        "phone": "Phone",
+        "serialNumber": "Serial Number",
+        "stealDirection": "Theft Direction",
+        "stolenType": "Theft Type",
+        "zone": "Zone"
+      },
+      "view": {
+        "appBar": "Stolen Bike",
+        "attestationReport": "Report Attestation",
+        "attestationTable": {
+          "document": "ID",
+          "insurance": "Insurance",
+          "name": "Reporter",
+          "phone": "Phone",
+          "stealAddress": "Theft Address"
+        },
+        "communityShare": "Share with my Community",
+        "deleteError": "An error occurred while deleting the alert",
+        "deleteModal": {
+          "accept": "Delete",
+          "cancel": "Cancel",
+          "content": "You will lose all alert data, and the bike will no longer be shown as stolen",
+          "text": "Are you sure you want to delete this alert?"
+        },
+        "deleteReport": "Delete alert",
+        "deleteSuccess": "The alert has been deleted successfully",
+        "editReport": "Edit alert",
+        "firstButton": "Help find your bike",
+        "foundModalCancel": "Cancel",
+        "foundModalConfirm": "Confirm",
+        "foundModalContent": "By confirming that you have recovered it, your alert will no longer be visible to the rest of the Community",
+        "foundModalTitle": "Do you confirm that you have recovered your bike?",
+        "goGarage": "Go to garage",
+        "hasSeenYourBike": "They have seen your bike",
+        "iFoundIt": "I've already recovered it!",
+        "mapReport": "Theft Location",
+        "mediaShare": "Share on my networks",
+        "myAppBar": "Report Summary",
+        "noMap": "The map could not be loaded.",
+        "policeReport": "Police Report",
+        "privateInfo": "Attestation Report (Private)",
+        "readInfo": "Read info.",
+        "secondButton": "Share on my networks",
+        "showMore": "See complete technical details",
+        "stolenBike": "Stolen Bike",
+        "stolenScene": "Theft Scene",
+        "timePassed": " {time} ago",
+        "uploadDocuments": "Upload report",
+        "user": "Owner User",
+        "watch": "View"
+      }
+    },
+    "reportSelectLocationScreen": {
+      "locationSelected": "Select this location",
+      "myCurrentlocation": "My current location",
+      "stealLocation": "Theft Location"
+    },
+    "responsibleStatementFirst": {
+      "appbar": "Responsible Statement",
+      "backLabel": "Back",
+      "continueLabel": "Next",
+      "subtitle": "At All in Biking, we take the ownership of your bike very seriously, and that's why we want to identify it as yours. For this, we need you to assure us that it is so, which is why it is essential to accept the following responsible statement.\n\nIf you have already entered the serial number in the previous steps, great! If you haven't, make sure to do so as soon as possible to fully identify your bike.",
+      "title": "Responsible\nStatement"
+    },
+    "responsibleStatementSecond": {
+      "appbar": "Responsible Statement",
+      "content": "By accepting this message, I declare responsibly:\n\n1.- That I am older than {year}.\n\n2.- That I am the legitimate and full owner of the bike I am registering in my name.\n\n3.- The truthfulness, accuracy, and suitability of the documentation provided to prove ownership of the bike.\n\n4 .- That under my responsibility, I assume the fulfillment of the legal obligations inherent in each of these statements and release ALL IN BIKING SL from any responsibility for the service it provides according to its",
+      "content2": " .\n\nAnd for it to be recorded for the appropriate legal effects, I give my consent and authorize ALL IN BIKING SL to register this document with the signature and digital fingerprint of the place, date, and device through which it is formalized.",
+      "continueLabel": "Sign",
+      "modalButton": "View detail",
+      "modalCancel": "Finish",
+      "modalContent": "Your bike is already registered. Now you can access the details of your bike and complete its technical details.",
+      "modalImagesButton": "Upload photos",
+      "modalImagesText": "Remember to upload photos of your bike to make it recognizable.",
+      "modalSearchButton": "Search model",
+      "modalSearchContent": "Your bike is already registered. Now you can enter the year and model; with this data, we will automatically fill in its components according to the manufacturer.",
+      "modalTitle": "Basic registration completed",
+      "terms": "Terms and Conditions",
+      "title": "Declaration of truthfulness of the provided data"
+    },
+    "ride": {
+      "creation": {
+        "GPX": {
+          "rideFromGpxAppBar": "Imported Ride",
+          "resume": {
+            "ascent": "Total Ascent",
+            "duration": "Total Duration",
+            "totalDistance": "Total Distance",
+            "accumulatedAltitude": "Accumulated Altitude",
+            "maxAltitude": "Maximum Altitude",
+            "minAltitude": "Minimum Altitude"
+          },
+          "followButton": "Follow",
+          "createButton": "Create",
+          "backButton": "Back"
+        },
+        "and": " and ",
+        "createRideTitle": "CREATE A RIDE",
+        "createRideSubTitle": "You can manually create a ride or also import a route ",
+        "createRideOption1": "Import GPX",
+        "createRideOption2": "Create manually",
+        "description": "Description (optional)",
+        "destiny": "Destination",
+        "distance": "Distance",
+        "duration": "Duration",
+        "enum": {
+          "difficulty": {
+            "easy": "Low",
+            "extreme": "Extreme",
+            "hard": "High",
+            "medium": "Medium"
+          },
+          "measure": " (km)",
+          "measureTime": " (minutes)",
+          "rideType": {
+            "private": "Private Ride",
+            "public": "Public Ride",
+            "subtitles": {
+              "private": "Only users invited by the creator of the ride can participate.",
+              "public": "Any user can participate in a public ride."
+            }
+          },
+          "rideTypeBikes": {
+            "gravel": "Gravel",
+            "mountain": "Mountain",
+            "road": "Road",
+            "tour": "Urban/Leisure"
+          }
+        },
+        "estimatedDifficulty": "Estimated Difficulty",
+        "expectedWeather": "Expected {text}",
+        "generalData": "General Data",
+        "goAndBack": "Go and Back",
+        "groupCreationButton": "Go out in a group",
+        "groupTitle": "Create group ride",
+        "helperText": "Paste the link to your ride here or describe it",
+        "hours": "Hours",
+        "invalid": {
+          "aDate": "a date",
+          "alertMessageWeather": "The indicated date is distant, and the forecast may vary.",
+          "aUbication": "a location",
+          "characterError": "Exceeds the maximum characters",
+          "distanceDays": "Weather cannot be forecasted beyond 8 days",
+          "formatError": "Incorrect format",
+          "genericError": "An error occurred, please try again",
+          "lengthError": "Min. 1, Max. 50",
+          "minTimeFromNow": "You cannot create a ride in the past",
+          "noFutureEvent": "There must be more than one hour before starting the ride.",
+          "scheduleError": "You cannot create two simultaneous rides.",
+          "requiredField": "Required field",
+          "select": "Select "
+        },
+        "invite": {
+          "appBar": "Invite participants",
+          "emptyFriends": "You have no friends",
+          "failedMessage": "Some invitations could not be sent. Do you want to try again?",
+          "failedMessageNotNow": "Not now",
+          "failedMessageOk": "Retry",
+          "invite": "Invite",
+          "notNow": "Not now",
+          "ridersSelected": "{selected}/50 riders selected",
+          "searchByName": "Search by name",
+          "successMessage": "You have invited your friends!"
+        },
+        "label": {
+          "date": "Date",
+          "hour": "Hour"
+        },
+        "limitOfPeoples": "Attendees limit (max. 50)",
+        "meetingPlace": "Meeting Place",
+        "meteorologyPrevision": "Weather forecast",
+        "minutes": "Minutes",
+        "onlyGo": "One way only",
+        "onlyUserVerifiedModalText": "If you activate this option, only verified profiles can register for the created ride. This will provide you with peace of mind when sharing the ride with users who are perfectly identified within the application, even if they are not your friends.",
+        "onlyUserVerifiedModalTitle": "Only for verified users",
+        "onlyVerifiedUsers": "Only for verified users",
+        "rideName": "Ride Name",
+        "ridesTypes": "Ride Privacy",
+        "route": "Route",
+        "routeEnd": "End of Route",
+        "routeType": "Route Type",
+        "saveButton": "Save",
+        "sendConfirmation": "Confirm attendance",
+        "sendConfirmationModalText": "Tired of feeling like a plant waiting for your friends? Don't worry; we have the perfect solution! Activate this function and force your friends to confirm their attendance one hour before leaving. This way, you can ensure that you will have company and won't feel like a lonely cactus in the desert!",
+        "sendConfirmationModalTitle": "Confirmation required",
+        "success": {
+          "goDetails": "Go to details",
+          "inviteFriends": "Invite friends",
+          "nowInviteFriends": "Now invite your friends",
+          "successMessage": "Your ride has been created!"
+        },
+        "title": "Create ride",
+        "velocity": "{windSpeed} km/h",
+        "nextRide": "Next ride"
+      },
+      "edition": {
+        "infoText": "All changes made to the time, meeting place, and end of route will be notified to attendees to keep them informed.",
+        "infoTitle": "Changes in the ride",
+        "title": "Edit ride"
+      },
+      "filters": {
+        "advancedFilters": "Advanced Filters",
+        "and": " and ",
+        "clear": "Clear",
+        "difficulty": "Difficulty",
+        "distanceRange": "Distance Range",
+        "durationRange": "Duration Range",
+        "enum": {
+          "difficulty": {
+            "easy": "Low",
+            "extreme": "Extreme",
+            "hard": "High",
+            "medium": "Medium"
+          },
+          "measure": " (km)",
+          "measureTime": " (minutes)",
+          "rideTypeBikes": {
+            "GRAVEL": "Gravel",
+            "HIGHWAY": "Road",
+            "MOUNTAIN": "Mountain",
+            "OTHERS": "Other",
+            "TRIATHLON": "Triathlon",
+            "URBAN": "Urban/Leisure"
+          }
+        },
+        "estimatedDifficulty": "Estimated Difficulty",
+        "goAndBack": "Go and Back",
+        "hours": "Hours",
+        "invalid": {
+          "aDate": "a date",
+          "aUbication": "a location",
+          "characterError": "Exceeds the maximum characters",
+          "formatError": "Incorrect format",
+          "genericError": "An error occurred, please try again",
+          "lengthError": "Min. 1, Max. 50",
+          "minDistanceMajorThanMaxDistance": "The minimum distance cannot exceed the maximum distance",
+          "minDurationMajorThanMaxDuration": "The minimum duration cannot exceed the maximum duration",
+          "requiredField": "Required field",
+          "select": "Select "
+        },
+        "label": {
+          "date": "Date",
+          "hour": "Hour"
+        },
+        "location": "Location",
+        "maxDistance": "Maximum Distance",
+        "maxDuration": "Maximum Duration",
+        "minDistance": "Minimum Distance",
+        "minDuration": "Minimum Duration",
+        "minutes": "Minutes",
+        "noResults": "No results",
+        "noResultsText": "There are no rides that meet the applied filters",
+        "onlyGo": "One way only",
+        "onlyVerifiedUsers": "Only verified user",
+        "rideName": "Ride Name or Code",
+        "ridesTypes": "Ride Type",
+        "route": "Route",
+        "routeType": "Route Type",
+        "saveButton": "Save",
+        "seeResults": "See {quantity} results",
+        "title": "Ride Filters"
+      }
+    },
+    "rideConfirmation": {
+      "acceptButton": "Accept and Continue",
+      "content": "Don't forget to check the details of the route, the <span>difficulty</span> level, your physical capacity, the condition of your <span>equipment</span>, and the <span>weather</span>.\n\nBy joining this ride, you declare that you are aware of the traffic safety rules in your country and take responsibility for the consequences of your actions during the ride according to the App's <a>Terms and Conditions</a>.\n\nRemember that you participate voluntarily and can leave the ride if you think it may cause any problems to you or others.",
+      "errorMessage": "You must accept the terms and conditions before continuing",
+      "notShowCheck": "I don't want to receive this message again.",
+      "termsCheck": "I understand the <a>Terms and Conditions</a> of All In Biking",
+      "title": "Ride Responsibly!"
+    },
+    "rideDetail": {
+      "acceptedRideModalButton": "View my upcoming rides",
+      "acceptedRideModalSubtitle": "Get ready to enjoy",
+      "acceptedRideModalTitle": "You have indicated that you will attend this ride",
+      "appbar": "Rides",
+      "assistants": "{assistants} out of {max} attendees",
+      "attendees": "Attendees",
+      "comparation": {
+        "compareWith": "Compared with: {name}",
+        "compareWithOthers": "Compare with other members",
+        "title": "Individual Statistics",
+        "withoutStatistics": "Without statistics"
+      },
+      "reportRide": {
+        "error": "An error occurred while reporting the ride",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report ride",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "We will send the ride information to our support team. The owner will not be notified about the report.",
+        "success": "We have received the report successfully"
+      },
+      "reportRideImage": {
+        "error": "An error occurred while reporting the photograph",
+        "invalid": "Invalid message",
+        "labelText": "Report reason",
+        "menuItem": "Report photograph",
+        "modalAccept": "Send",
+        "modalCancel": "Close",
+        "modalContent": "Report form",
+        "modalSubContent": "We will send the ride information to our support team. The owner will not be notified about the report.",
+        "success": "We have received the report successfully"
+      },
+      "createdBy": "Published by:",
+      "deletedRide": "The ride has been deleted successfully",
+      "deleteFinishedRideModalFirstText": "Are you sure you want to delete the ride '",
+      "deleteFinishedRideModalSecondText": "'? If so, your statistics will disappear for the rest of users.",
+      "deleteRide": "Delete ride",
+      "rePostRide": "Repost ride",
+      "downloadGpx": "Download GPX",
+      "downloadOrShareGpx": "Share or download GPX",
+      "shareGPX": "Share GPX",
+      "rePostRideTitle": "Select ride",
+      "deleteRideModalFirstText": "Are you sure you want to delete the ride '",
+      "deleteRideModalNo": "No",
+      "deleteRideModalSecondText": "'? If so, participants will be notified, and it will be removed from the events list.",
+      "deleteRideModalYes": "Yes",
+      "dificult": "Approximate Difficulty",
+      "distance": "Approximate Distance",
+      "duration": "Approximate Duration",
+      "editRide": "Edit ride",
+      "errorDoubleBooking": {
+        "modalContent": "It is not possible to participate in two rides simultaneously. Please check your upcoming rides and make sure to cancel or reschedule any ride that has the same time range as this one before trying to join again.",
+        "modalTile": "Double booking"
+      },
+      "errorGettingRide": "Failed to get ride details",
+      "findLocation": "How to get there",
+      "finishedRide": "Ride",
+      "fullRideContent": "Wow! This ride is currently full. Someone may drop out, so stay tuned.",
+      "fullRideOk": "Understood",
+      "goBack": "Go back",
+      "individualRides": "View individual rides",
+      "map": "Map",
+      "missingTime": "{time} remaining for it to start",
+      "myStats": "My individual statistics",
+      "noOtherTrackDataSubtitle": "We couldn't receive the data properly from the apps linked by this user.",
+      "noOtherTrackDataTitle": "This ride had no statistics",
+      "notEnoughTracksDataInfoSubtitle": "To compare the data, at least two users with linked apps who participated in this ride are needed. Please make sure to link your app and encourage other users to do the same for a better understanding of user performance on this route.",
+      "notEnoughTracksDataInfoTitle": "What can I do?",
+      "notEnoughTracksDataSubtitle": "Currently, there is not enough data available to show comparative statistics among members of the ride.",
+      "notEnoughTracksDataTitle": "No statistics available",
+      "noTrackDataButton": "Linked apps",
+      "noTrackDataSubtitle": "We have no information about the performance on the ride because there are no linked apps or we couldn't receive their data. We recommend checking your linked apps for a better experience.",
+      "noTrackDataTitle": "No statistics available",
+      "onlyForVerified": "Only for verified users",
+      "onlyForVerifiedModalButton": "Verify profile",
+      "onlyForVerifiedModalContent": "Only verified profiles can sign up for this ride. To sign up, you must first verify your profile.",
+      "onlyVerifiedModalButton": "Verify profile",
+      "onlyVerifiedModalText": "Only verified profiles can sign up for this ride. To sign up, you must first verify your profile.",
+      "onlyVerifiedModalTitle": "Only for verified users",
+      "openGroup": "Open group",
+      "organizedBy": "Organized by",
+      "ownButtons": {
+        "goHome": "Go to My Rides",
+        "invite": "Invite"
+      },
+      "privacy": {
+        "private": "Only verified users",
+        "public": "Public"
+      },
+      "privateGroup": "Private group",
+      "rideDesc": "Ride description",
+      "rideEnd": "End of route",
+      "rideInit": "Start of route",
+      "rideStartSoon": "The ride will start shortly",
+      "sendConfirmation": "Confirm attendance",
+      "sendConfirmationModalText": "This ride requires confirmation from attendees. One hour before the ride starts, you will receive an attendance confirmation alert.",
+      "sendConfirmationModalTitle": "Confirmation required",
+      "share": {
+        "ride": "Ride {code}",
+        "share": "Share ride code"
+      },
+      "shareButton": "Share",
+      "sharePostRideDialogButton": "Create post",
+      "shareRideDialogButton": "Share",
+      "shareRideDialogInviteButton": "Send to my friends",
+      "shareRideDialogSubtitle": "Share with your friends\nand have fun!",
+      "shareRideDialogTitle": "RIDE PUBLISHED",
+      "shareRideAlreadyCreatedDialogTitle": "SHARE RIDE",
+      "showAll": "Show all",
+      "table": {
+        "endPlace": "End of route",
+        "initialPlace": "Meeting place",
+        "rideType": "Ride type",
+        "routeType": "Route type"
+      },
+      "tabs": {
+        "information": "Information",
+        "statistics": "Statistics"
+      },
+      "thirdPartyButtons": {
+        "maybe": "Maybe",
+        "no": "No",
+        "willYouAttend": "Will you attend?",
+        "yes": "Yes",
+        "yesConfirmed": "I will attend"
+      },
+      "uploadPhotoError": "An error occurred while uploading the photo",
+      "uploadPhotoSuccess": "Photo uploaded successfully",
+      "weatherTitle": "Weather forecast"
+    },
+    "riderAttendingScreen": {
+      "appBar": "Confirmed attendees",
+      "appBarFinished": "Attendees",
+      "attend": "Will attend",
+      "creator": "Ride creator",
+      "friend": "Friends",
+      "seeRide": "View ride"
+    },
+    "ridesList": {
+      "appbar": "Rides",
+      "brandNewTab": {
+        "by": "By {user}",
+        "change": "Change",
+        "codeOrName": "Ride code or name",
+        "createYourRideOrSelectZone": "You can select a nearby town or create your own ride to invite friends and people from the Community",
+        "filter": "Filter",
+        "invitationsReceived": "Invitations received",
+        "noFinishedRides": "You haven't completed any rides",
+        "noFinishedRidesButton": "Create ride",
+        "noFinishedRidesContent": "What are you waiting for to start enjoying All In Biking? Create a ride either solo or in a group.",
+        "noFinishedRidesOtherUser": "{username} hasn't completed any rides",
+        "noFinishedRidesOtherUserContent": "What are you waiting for to start enjoying All In Biking with him/her? Create a ride and invite him/her!",
+        "noRidesInitations": "You have no pending ride invitations\nCreate a new ride to invite your friends",
+        "noRidesInYourZone": "There are no rides yet\nin your current zone",
+        "noUpcomingRidesSubtitle": "Join one or create one",
+        "noUpcomingRidesTitle": "You are not signed up for any upcoming rides yet",
+        "organizeARide": "Organize a ride",
+        "planGroupRide": "Plan group ride",
+        "planRide": "Plan a ride",
+        "rideNow": "I'm going out now",
+        "ridesInYourArea": "Rides in your area",
+        "search": "Search",
+        "searchForZone": "Search by zone",
+        "searchRides": "Search Rides",
+        "subtitle": "You have been invited",
+        "title": "New"
+      },
+      "card": {
+        "attenders": "attendees:",
+        "groupRide": "Group ride",
+        "individualRide": "Individual ride",
+        "inProgress": "In progress",
+        "noAttenders": "No participant data available",
+        "section": {
+          "ascent": {
+            "title": "Ascent",
+            "value": "{value} m"
+          },
+          "difficulty": {
+            "extreme": "Extreme",
+            "high": "Difficult",
+            "low": "Easy",
+            "medium": "Medium",
+            "title": "Difficulty",
+            "unknown": "Unknown"
+          },
+          "distance": {
+            "title": "Distance",
+            "value": "{value} km"
+          },
+          "duration": {
+            "title": "Duration",
+            "value": "{value}"
+          }
+        },
+        "userInvitation": "You have been invited"
+      },
+      "finishedTab": {
+        "emptyRidesSubtitle": "What are you waiting for to start enjoying All In Biking? Either solo or in a group.",
+        "emptyRidesTitle": "You haven't completed any rides yet",
+        "subtitle": "Your completed rides",
+        "title": "Completed"
+      },
+      "map": {
+        "error": "An error occurred while loading rides",
+        "seeRide": "View ride",
+        "title": "Map"
+      },
+      "upcomingTab": {
+        "subtitle": "Your upcoming rides",
+        "title": "Upcoming"
+      }
+    },
+    "rideType": {
+      "mountain": "Mountain",
+      "road": "Road"
+    },
+    "rocketLaunch": {
+      "community": {
+        "like": "Like",
+        "newMessages": "New messages",
+        "requests": "Friend requests",
+        "title": "Community",
+        "createPost": "Create Post"
+      },
+      "garage": {
+        "bikeAdded": "1 bike added",
+        "bikesAdded": "{bikes} bikes added",
+        "title": "Garage"
+      },
+      "groups": {
+        "title": "Create group"
+      },
+      "ranking": {
+        "title": "Season ranking",
+        "userPole": "{name} (You)",
+        "yourPosition": "Your position",
+        "sponsoredBy": "Podium sponsored by"
+      },
+      "marketplace": {
+        "title": "Marketplace"
+      },
+      "metrics": {
+        "title": "Metrics",
+        "subtitle": "Last 7 days",
+        "speed": "Speed: {speed} km/h",
+        "time": "Time: {hours}h {minutes} m",
+        "distance": "Distance: {distance} km",
+        "ascent": "Elevation: {ascent} m"
+      },
+      "routes": {
+        "invitations": "Invitations",
+        "prox": "Next",
+        "createRide": "Create Ride",
+        "title": "Rides",
+        "nextRide": "Next Ride"
+      },
+      "security": {
+        "pointsInYourRoute": "Black points on your planned route",
+        "requestsNearYou": "Help requests near you",
+        "title": "Personal safety"
+      },
+      "steal": {
+        "newOnes": "New thefts nearby",
+        "title": "Thefts"
+      },
+      "title": "LaunchPad"
+    },
+    "search": {
+      "searchInvite": "Invite"
+    },
+    "searchModel": {
+      "button": "Search",
+      "content": "To automatically complete your bike's parts, please specify the year and model.",
+      "error": "An error occurred while getting bike data, please try again later",
+      "errorScreen": {
+        "content": "It seems we couldn't find information about your bike model. But don't worry, here are the details you entered",
+        "goToGarage": "Go to garage",
+        "searchAgain": "Search again",
+        "tableTitle": "Basic technical data provided by you",
+        "title": "Oops!"
+      },
+      "exit": "Exit",
+      "successScreen": {
+        "bottonText": "Is this your bicycle?",
+        "cancelButton": "No, search again",
+        "confirmButton": "Yes",
+        "content": "Good news! We have found more information about your bicycle and added it to your technical data.\n\nAlso, remember that you can always edit your data at any time from your Garage.",
+        "goToGarage": "Go to garage",
+        "tableTitle": "Advanced technical data obtained from the manufacturer",
+        "title": "Data found"
+      },
+      "title": "Search model"
+    },
+    "setBasicData": {
+      "continueButton": "Continue",
+      "createAccountButton": "Register",
+      "error": "An error occurred, please try again",
+      "explanationText": "Make sure these details match those on your official identification to avoid issues when verifying your account.",
+      "label": {
+        "birthday": "Date of birth",
+        "country": "Country",
+        "gender": "Gender",
+        "invalid": {
+          "postalCode": "Error in postal code format",
+          "postalCodeMatching": "Does not match the selected country"
+        },
+        "postalCode": "Postal Code"
+      },
+      "subtitle": "We use this information to personalize your experience, recommend new activities, inform you about thefts in your area, and other features.",
+      "title": "Customize your profile"
+    },
+    "settings": {
+      "appVersion": "Installed version {appVersion}",
+      "call": "Call",
+      "configurationTitle": "Technical settings",
+      "configureAccountTile": "Configure account",
+      "configureProfileTile": "Configure profile",
+      "configureUserPrivacity": "Privacy",
+      "configYourProfileTitle": "You have not configured your profile",
+      "confirm": "Let's go!",
+      "contactTitle": "Do you want to contact us directly?",
+      "content": "To verify your identity, you first need to complete your details in settings.",
+      "emailContent": "Consult All In Biking",
+      "frequentlyQuestionsButton": "View",
+      "frequentlyQuestionsSection": "Frequently asked questions",
+      "frequentlyQuestionsTitle": "Do you have any doubts?",
+      "gps": "GPS",
+      "help": "Help",
+      "helpEmail": "Email",
+      "helpHours": "Customer service hours: 9:00 AM to 1:00 PM and 2:00 PM to 6:00 PM, Monday to Friday.",
+      "incompleteCardSubtitle": "Complete your profile information to enjoy all the features of All In Biking",
+      "incompleteCardTitle": "Incomplete profile",
+      "language": {
+        "cardSubTitle": "This will be the main language of the application. It will be used for system headers, buttons, and other system texts, not for user-created content (e.g., names and descriptions).",
+        "cardTitle": "Select your preferred language",
+        "catalan": "Catalan",
+        "english": "English",
+        "euskera": "Basque",
+        "italian": "Italian",
+        "saveButton": "Save language",
+        "spanish": "Spanish",
+        "title": "Languages"
+      },
+      "languageTile": "Language",
+      "linkAppsTile": "Link apps",
+      "pageTitle": "Settings",
+      "personalSectionTitle": "Personal settings",
+      "phone": "Phone",
+      "privacy": "Privacy",
+      "profilePendingVerificationTile": "Identity verification requested",
+      "profileVerifiedTile": "Verified identity",
+      "registerUserDate": "You registered on {registerDate}",
+      "support": "Support",
+      "theme": "Appearance",
+      "tutorialSection": "Tutorial",
+      "verifiedUserPhoneTile": "Verified phone",
+      "verifyIdentityTile": "Verify identity",
+      "verifyTile": "Device permissions",
+      "verifyUserPhoneTile": "Verify phone",
+      "writtenEmail": "Write"
+    },
+    "settingsTheme": {
+      "pageTitle": "Appearance",
+      "themeAppDark": "Dark Theme",
+      "themeAppDescription": "Set the application theme to your liking",
+      "themeAppLight": "Light Theme",
+      "themeAppTitle": "Application theme"
+    },
+    "shareRide": {
+      "downloadFailure": "Error downloading image",
+      "downloadLoaded": "Image downloaded successfully",
+      "publishButton": "Share",
+      "requestFailure": "Error getting image",
+      "shareText": "Check out the ride I did on AllInBiking and join the cycling community",
+      "title": "Share image"
+    },
+    "showRideMultimedia": {
+      "delete": "Delete post",
+      "deleteModalNo": "Cancel",
+      "deleteModalText": "This action cannot be undone",
+      "deleteModalTitle": "Are you sure you want to delete the post?",
+      "deleteModalYes": "Delete",
+      "deleteSuccess": "The post has been deleted successfully",
+      "share": "Share",
+      "title": "Image view"
+    },
+    "signIn": {
+      "accountExistsErrorSignInText": "It seems the email you are trying to sign in with is linked to your {account} account.",
+      "accountExistsErrorSignUpText": "It seems the email you are trying to register with is linked to your {account} account.",
+      "accountExistsErrorTitle": "Email linked to another account",
+      "alreadyRegisteredText": "Already have an account?",
+      "apple": "from <span>Apple</span>",
+      "button": "Continue",
+      "createAccountButton": "Register",
+      "explanationText": "or log in with email",
+      "facebook": "from <span>Facebook</span>",
+      "google": "from <span>Google</span>",
+      "label": {
+        "email": "Email",
+        "invalid": {
+          "email": "The entered email is not valid.",
+          "password": "Invalid password"
+        },
+        "password": "Password"
+      },
+      "notAccountText": "Don't have an account yet?",
+      "password": "with <span>email and password</span>",
+      "recoverPasswordbutton": "Forgot your password?",
+      "recoverPasswordError": "An error occurred while sending the password recovery email",
+      "recoverPasswordMessage": "We have sent you an email to recover your password",
+      "showLocationPermission": {
+        "allowLocation": "Allow location",
+        "disclaimer": "We will collect data to enable tracking of physical activity even when the app is closed or not in use.",
+        "noThanks": "No, thanks",
+        "subtitleFifthPart": "and groups near your area, among other things...",
+        "subtitleFirstPart": "We aim to offer you an integral service, so having access to your location allows us to provide ",
+        "subtitleFourthPart": "black spots, rides in your area ",
+        "subtitleSecondPart": "weather forecasts",
+        "subtitleThirdPart": ", and notify you about ",
+        "title": "YOUR LOCATION ALLOWS US TO BE USEFUL"
+      },
+      "subTitle": "Two-line value proposition to help convince the user.",
+      "title": "Log in"
+    },
+    "signUp": {
+      "alreadyRegisted": "Already have an account?",
+      "alreadyRegisteredText": "Already have an account?",
+      "appsVinculation": {
+        "subtitle": "App linking",
+        "title": "Link your applications"
+      },
+      "bikeTypeSelector": {
+        "error": "An error occurred while saving changes",
+        "gravel": "Gravel",
+        "mountain": "Mountain",
+        "other": "Other",
+        "road": "Road",
+        "save": "Next",
+        "subtitle": "Select your favorite cycling types so we can provide personalized recommendations.",
+        "title": "Cycling types",
+        "urban": "Urban"
+      },
+      "button": "Register",
+      "createAccountButton": "Register",
+      "explanationText": "or register with email",
+      "finishButton": "Finish",
+      "label": {
+        "checkboxTextFifthPart": " of All In Biking.",
+        "checkboxTextFirstPart": "By selecting Continue, I confirm that I am over {year} years old and agree to: ",
+        "checkboxTextFourthPart": "Privacy Policies",
+        "checkboxTextSecondPart": "Terms and Conditions",
+        "checkboxTextThirdPart": " and the ",
+        "email": "Email",
+        "firstName": "First Name",
+        "invalid": {
+          "checkboxText": "Accepting the conditions is required to create the account",
+          "email": "The entered email is not valid.",
+          "firstName": "The entered name is not valid.",
+          "password": "Your password must be at least 8 characters, with one uppercase, one lowercase, and one number. Max 16 characters",
+          "repeatPassword": "Passwords do not match"
+        },
+        "password": "Password",
+        "repeatPassword": "Repeat password"
+      },
+      "notAccountText": "Don't have an account?",
+      "signinButton": "Log in",
+      "subTitle": "Two-line value proposition to help convince the user.",
+      "title": "Register",
+      "orTooText": "Or also",
+      "cancelSignUp": {
+        "title": "Abandon registration",
+        "message": "Are you sure you want to leave the registry?",
+        "cancelButton": "Cancel",
+        "acceptButton": "Abandon"
+      }
+    },
+    "socialMedia": {
+      "showMore": "Show more"
+    },
+    "stolenBike": {
+      "appbar": "Incident",
+      "buttons": {
+        "exit": "Exit",
+        "showReport": "View alert and help the owner"
+      },
+      "content": "The support of all Community members to recover stolen bicycles is vital.\n\nCheck the alert, and if it's the same bicycle you've checked, help the user recover it.",
+      "contentTitle": "You can help the owner",
+      "helpDialog": {
+        "buttons": {
+          "help": "Help",
+          "noHelp": "Do not help"
+        },
+        "content": "You have discovered a stolen or missing bike and can send a notice to the owner for recovery.",
+        "highlight": "With your help, we will drastically reduce the theft rate.\n\nContribute to the Community!\n#safeTogether",
+        "title": "AREN'T YOU GOING TO HELP?"
+      },
+      "slogan": "Today for you, tomorrow for me!",
+      "subtitle": "This bike has been reported as stolen or missing in our system",
+      "title": "Stolen or missing bike"
+    },
+    "strava": {
+      "stravaButton": "Integrate now",
+      "stravaSubtitle": "Complete your profile with statistics from your rides recorded with Strava.",
+      "stravaTitle": "Integrate with Strava"
+    },
+    "takePhotoDniScreenHardText": {
+      "cardOne": "Front side",
+      "cardTwo": "Back side",
+      "subTitle": "Add Photographs",
+      "title": "My identity verification"
+    },
+    "timeText": {
+      "days": "{time} days ago",
+      "hours": "{time} hours ago",
+      "lessMinute": "A moment ago",
+      "minutes": "{time} minutes ago",
+      "month": "{time} months ago",
+      "noKnow": "A while ago",
+      "oneDay": "{time} day ago",
+      "oneHour": "{time} hour ago",
+      "oneMinute": "{time} minute ago",
+      "oneMonth": "{time} month ago",
+      "oneYear": "{time} year ago",
+      "years": "{time} years ago"
+    },
+    "availableOn": "Available on",
+    "timeRemainingText": {
+      "days": "{time} days",
+      "hours": "{time} hours",
+      "lessMinute": "moments",
+      "minutes": "{time} minutes",
+      "month": "{time} months",
+      "noKnow": "time",
+      "oneDay": "{time} day",
+      "oneHour": "{time} hour",
+      "oneMinute": "{time} minute",
+      "oneMonth": "{time} month",
+      "oneYear": "{time} year",
+      "years": "{time} years"
+    },
+    "tutorial": {
+      "modalAccept": "Delete",
+      "modalCancel": "Cancel",
+      "modalTitle": "Are you sure you want to delete the tutorial?",
+      "showTutorial": "View tutorials",
+      "tutorial": "Tutorial",
+      "tutorialSubtitle": "Access tutorials to take your first steps in the application.",
+      "tutorialTitle": "Learn how to use the application"
+    },
+    "typeHere...": "Type here...",
+    "uploadedFileDetails": {
+      "back": "Back",
+      "errors": {
+        "downloadFailure": "Error downloading the document",
+        "unknowType": "The document has an unknown format"
+      }
+    },
+    "uploadFiles": {
+      "appBar": "Upload files",
+      "buttonObtain": "Get",
+      "buttonUpload": "Upload",
+      "buy": "Upload purchase invoice",
+      "camera": "Photo camera",
+      "deleteDialog": {
+        "cancelLabel": "Exit",
+        "deleteButton": "Delete"
+      },
+      "deleting": "Deleting",
+      "download": "Download",
+      "downloading": "Downloading document",
+      "edit": "Edit",
+      "error": "An error occurred while uploading the file",
+      "errorDelete": "Error deleting the document",
+      "failureDownloaded": "Download failed",
+      "failureDownloadLocalFile": "Cannot download a local file",
+      "fileInterest": "Files of interest",
+      "filesExceeded": "You have reached the maximum upload limit for documents allowed",
+      "gallery": "Photo gallery",
+      "history": "Maintenance history",
+      "manual": "Upload bike manual",
+      "pdf": "Upload PDF",
+      "saveChanges": "Save changes",
+      "smartTitle": "Smart certificate",
+      "subtitle": "Add purchase invoices, manuals, and any other documents you want to keep for your bike",
+      "success": "The file has been uploaded successfully",
+      "successDelete": "Successful deletion",
+      "successSaved": "Successful save",
+      "title": "Documentation",
+      "uploadFile": "Documents",
+      "view": "View"
+    },
+    "uploadInvoice": {
+      "appbar": "Invoice",
+      "deleteDialog": {
+        "title": "Are you sure you want to delete this manual?"
+      },
+      "filesExceeded": "You have reached the maximum upload limit for documents allowed",
+      "itemLabel": "Invoice",
+      "manualUploadLabel": "Purchase invoice",
+      "name": "Invoice",
+      "subtitle": "You can upload the invoice by taking a photo of the document from your camera or selecting a file on your device if you already have it in digital format.",
+      "title": "Upload purchase invoice",
+      "uploadButton": "Attach invoice",
+      "uploadedFiles": "Invoice uploaded"
+    },
+    "uploadMantainance": {
+      "appbar": "Maintenance",
+      "deleteDialog": {
+        "title": "Are you sure you want to delete this document?"
+      },
+      "itemLabel": "Document",
+      "manualUploadLabel": "Other documents",
+      "name": "Maintenance",
+      "subtitle": "You can upload up to twelve documents",
+      "title": "Other documents",
+      "uploadButton": "Upload document",
+      "uploadedFiles": "Documents uploaded"
+    },
+    "uploadManual": {
+      "appbar": "Manuals",
+      "deleteDialog": {
+        "title": "Are you sure you want to delete this manual?"
+      },
+      "itemLabel": "Manual",
+      "manualUploadLabel": "Bike manuals",
+      "name": "Manual",
+      "subtitle": "You can upload up to three manuals",
+      "title": "Bike manuals",
+      "uploadButton": "Attach manual",
+      "uploadedFiles": "Manuals uploaded"
+    },
+    "utils": {
+      "cantOpenExternalText": "Cannot open the following link {url} ",
+      "degToCompass": {
+        "E": "E",
+        "ENE": "ENE",
+        "ESE": "ESE",
+        "N": "N",
+        "NE": "NE",
+        "NNE": "NNE",
+        "NNW": "NNW",
+        "NW": "NW",
+        "S": "S",
+        "SE": "SE",
+        "SSE": "SSE",
+        "SSW": "SSW",
+        "SW": "SW",
+        "W": "W",
+        "WNW": "WNW",
+        "WSW": "WSW"
+      }
+    },
+    "validateEmail": {
+      "button": {
+        "checkEmailVerificationAgain": "I have already confirmed it",
+        "sendVerificationEmail": "I haven't received the email"
+      },
+      "emailAlreadyValidaed": "Haven't received any email?",
+      "error": "Email not verified",
+      "snackBar": {
+        "emailSended": "We have just resent you the verification email"
+      },
+      "title": {
+        "main": "We have sent you a verification email",
+        "subtitle": "We have sent you an email titled “Verify your email”. You must click the “Verify email” button inside."
+      }
+    },
+    "verifyIdentity": {
+      "appBar": "My identity verification",
+      "backImage": "Back side",
+      "birthDate": "Birth date",
+      "confirmData": "I confirm that the provided data and identity document belong to me",
+      "dni": "ID",
+      "DNI": "ID",
+      "doPhoto": "Let's go!",
+      "errorSnackbar": "Error uploading the photos.",
+      "errorVerify": "Error performing the verification request.",
+      "frontImage": "Front side",
+      "idErrorVerify": "There is already a user with that document number.",
+      "idType": "Doc",
+      "invalidFormat": "The maximum number of characters is 16.",
+      "lastName": "Last Name",
+      "name": "Name",
+      "nationality": "Nationality",
+      "NIE": "NIE",
+      "number": "Number",
+      "selfieButton": "Upload Selfie",
+      "selfieTitle": "Take a selfie with the ID",
+      "subtitle": "To recognize your bikes as yours, we need to be sure.",
+      "title": "Unverified identity",
+      "update": "Update",
+      "uploadPhoto": "Upload my selfie",
+      "uploadPhotoDNI": "Upload ID photos",
+      "uploadPhotoDNIUpdated": "ID uploaded",
+      "uploadPhotoNIE": "Upload NIE photos",
+      "uploadPhotoNIEUpdated": "NIE uploaded"
+    },
+    "verifyPhone": {
+      "appbar": {
+        "title": "Verify my phone number"
+      },
+      "buttonLabel": "Receive code",
+      "fieldError": "Invalid phone number",
+      "fieldSubtitle": "We will send you an SMS to verify your number",
+      "fieldTitle": "Phone number",
+      "notFilled": "Phone number not filled",
+      "sendCodeError": "Error verifying the verification number",
+      "sendSmsError": "Error sending the message to the phone number",
+      "subtitle": "Your number is completely private information and is necessary to complete the verification of your identity.",
+      "title": "Verify your phone number"
+    },
+    "verifyPhoneCode": {
+      "appbar": {
+        "title": "Verify my phone number"
+      },
+      "buttonLabel": "Verify number",
+      "fieldError": "Code does not meet the format",
+      "fieldTitle": "Code received by SMS",
+      "sendCodeAgain": "Receive another code ",
+      "subtitle": "Enter the code that you received by SMS here to verify your phone number",
+      "title": "you have an sms",
+      "validateSnackbar": "Number verified successfully"
+    },
+    "welcome": {
+      "alreadyRegisteredText": "Already have an account?",
+      "createAccountButton": "Get started",
+      "explanationSubtext": "We have just launched the application and are working hard to improve it and implement new features.\n\nWe will read and take into account each of your comments on how we could improve because, in the end, All In Biking is for you!",
+      "explanationText": "we take care\n of you and\n your bike",
+      "signInButton": "Log in",
+      "signUpButton": "Create an account with your email"
+    },
+    "suggestUpdate": {
+      "later": "Later",
+      "update": "Update",
+      "message": "Download the new version of the app and enjoy the best cycling community."
+    },
+    "searchUsers": "Search users...",
+    "seeNumResults": "Results {value}"
+  }
