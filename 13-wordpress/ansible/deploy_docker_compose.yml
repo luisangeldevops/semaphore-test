@@ -2,7 +2,6 @@
 - name: Deploy Docker Compose Application
   gather_facts: false
   hosts: localhost
-  become: yes
   vars:
     docker_compose_file: "{{ playbook_dir }}/docker-compose.yml"  # Local path to your docker-compose file
     remote_compose_directory: /home/revolution/Documents/Repos/luisangeldevops/semaphore-test/ansible_test
