@@ -5,7 +5,7 @@
   become: yes
   vars:
     docker_compose_file: ../docker-compose.yml  # Local path to your docker-compose file
-    remote_compose_directory: /opt
+    remote_compose_directory: /home/revolution/Documents/Repos/luisangeldevops/semaphore-test/ansible_test
     remote_compose_path: "{{ remote_compose_directory }}/docker-compose.yml"  # Path on the remote EC2 instance
 
   tasks:
