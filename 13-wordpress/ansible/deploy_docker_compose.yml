@@ -1,5 +1,6 @@
 ---
 - name: Deploy Docker Compose Application
+  gather_facts: false
   hosts: localhost
   become: yes
   vars:
